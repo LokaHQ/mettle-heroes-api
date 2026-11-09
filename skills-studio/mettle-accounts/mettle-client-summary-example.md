@@ -4,7 +4,7 @@ Prepared by Callum Reid, Senior Account Director, for Pinecrest Hotels' faciliti
 
 ## Headline
 
-Pinecrest Hotels is in good shape this month: hero-hours came in under plan, no support tickets were raised, and the contract isn't due for renewal until 2027-01-01.
+Pinecrest Hotels is in good shape this month: hero-hours came in under plan and no support tickets were raised.
 
 ## Hero-hours this month
 
