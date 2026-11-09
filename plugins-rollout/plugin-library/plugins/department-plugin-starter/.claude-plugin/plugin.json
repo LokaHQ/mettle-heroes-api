@@ -1,0 +1,9 @@
+{
+  "name": "department-plugin-starter",
+  "displayName": "Department plugin starter",
+  "version": "0.1.0",
+  "description": "A starting point for one department's plugin: house rules, a weekly review and a weekly command. Rename it and fill in CONTEXT.md before you share it.",
+  "author": {
+    "name": "Loka"
+  }
+}

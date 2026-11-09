@@ -1,0 +1,9 @@
+{
+  "name": "mettle-support-desk",
+  "displayName": "Mettle Support desk",
+  "version": "1.0.0",
+  "description": "Customer Support's weekly work at Mettle & Co: triage the week's tickets against first-reply targets, draft replies from the current FAQ, and turn a client call into a follow-up and ticket update.",
+  "author": {
+    "name": "Loka"
+  }
+}
