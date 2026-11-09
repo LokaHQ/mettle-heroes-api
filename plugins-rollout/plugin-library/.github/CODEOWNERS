@@ -1,4 +1,0 @@
-# Who must approve changes. Replace with your own GitHub users or teams.
-# Turn on "Require review from Code Owners" in the main branch rules.
-*                                   @your-org/claude-owners
-/plugins/mettle-support-desk/       @your-org/support-champions
