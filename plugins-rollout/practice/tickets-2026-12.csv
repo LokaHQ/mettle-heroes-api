@@ -1,0 +1,42 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-12001,2026-12-03,Pebbleford Festival,Max,Property damage,High,Resolved,1.0,Forecaster left a dent in our market stall. We were told claims go through this inbox.
+SUP-12002,2026-12-03,Driftwood Cinema & Sons,Max,Property damage,High,Pending,4.4,Lowtide left a dent in our bus shelter. We were told claims go through this inbox.
+SUP-12003,2026-12-03,Tollgate Department Store Ltd,Enterprise,Account access,Medium,Open,0.2,Our admin left and nobody can add seats.
+SUP-12004,2026-12-04,Hollyhock Print Works,Pro,Billing,Medium,Pending,4.9,We moved down a tier last month but the invoice still uses the old price.
+SUP-12005,2026-12-07,Puddingstone Aquarium Group,Max,Account access,Medium,Resolved,4.0,A new starter can't log in to the booking app.
+SUP-12006,2026-12-07,Weathervane Umbrellas,Pro,Property damage,High,Closed,4.6,Lowtide landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-12007,2026-12-07,Sandpiper Bakery,Pro,Booking app,High,Pending,5.5,The booking app shows Lady Lanyard as free but the booking fails with an error.
+SUP-12008,2026-12-08,Harbourside Shopping Centre,Enterprise,Billing,Medium,Pending,0.2,Please send a copy of last month's invoice to our finance team.
+SUP-12009,2026-12-09,Dunmarrow Water Park Co,Enterprise,Billing,Medium,Open,0.6,Please send a copy of last month's invoice to our finance team.
+SUP-12010,2026-12-09,Oystergate Festival Group,Max,Billing,Medium,Pending,4.9,Our invoice shows 6 seats but we only reserved 5 patrol posts.
+SUP-12011,2026-12-10,Pebbleford Festival,Max,Booking app,High,Pending,3.7,The booking app shows Brisk as free but the booking fails with an error.
+SUP-12012,2026-12-10,Bellfounder Ferries,Enterprise,Booking app,High,Closed,0.8,The booking app shows Findwell as free but the booking fails with an error.
+SUP-12013,2026-12-10,Cormorant Couriers Group,Max,Booking app,High,Resolved,6.0,The app let us book Quorum for two missions at the same time.
+SUP-12014,2026-12-11,Tollgate Print Works & Sons,Pro,Noise,Medium,Pending,10.8,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-12015,2026-12-15,Silverbirch Concert Hall & Sons,Max,Feature request,Low,Resolved,3.9,Can we book a hero for the same slot every week?
+SUP-12016,2026-12-15,Bellfounder Tramways Ltd,Enterprise,Noise,Medium,Closed,0.3,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-12017,2026-12-15,Saltgrave Stadium,Enterprise,Booking app,High,Open,0.1,The booking app shows Thermostat as free but the booking fails with an error.
+SUP-12018,2026-12-15,Fallowmere Clockworks & Sons,Pro,Hero conduct,Low,Closed,9.2,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-12019,2026-12-15,Tollgate Theatre Co,Max,Account access,Medium,Open,4.9,A new starter can't log in to the booking app.
+SUP-12020,2026-12-16,Glasswork Biscuits Ltd,Pro,Billing,Medium,Pending,17.1,Please send a copy of last month's invoice to our finance team.
+SUP-12021,2026-12-16,Marlpit Stadium Co,Enterprise,Billing,Medium,Closed,0.2,Please send a copy of last month's invoice to our finance team.
+SUP-12022,2026-12-17,Harbourside Market Ltd,Max,Property damage,High,Resolved,1.2,Quorum landed on our shop sign during the patrol. We need someone to assess the damage.
+SUP-12023,2026-12-18,Lamplight Cinema,Max,Hero conduct,Low,Closed,5.3,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-12024,2026-12-19,Saltgrave Stadium,Enterprise,Property damage,Urgent,Open,2.5,Lowtide moved the fountain water onto the pitch during the half-time show. The pitch is flooded and the Boxing Day match is at risk. We need a call today.
+SUP-12025,2026-12-21,Bellfounder Concert Hall Ltd,Max,Noise,Medium,Pending,5.6,Residents on Tanner Street say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-12026,2026-12-21,Marlpit Stadium Co,Enterprise,Feature request,Low,Closed,0.6,Can we book a hero for the same slot every week?
+SUP-12027,2026-12-21,Saltgrave Stadium,Enterprise,Account access,Medium,Closed,0.7,A new starter can't log in to the booking app.
+SUP-12028,2026-12-22,Wrenfield Science Centre,Max,Noise,Medium,Closed,4.7,Late Shift was patrolling Chandlers Row at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-12029,2026-12-23,Harbourside Markets Ltd,Max,Billing,Medium,Pending,17.4,Please send a copy of last month's invoice to our finance team.
+SUP-12030,2026-12-24,Windlass Concert Hall,Max,Account access,Medium,Open,3.6,Our admin left and nobody can add seats.
+SUP-12031,2026-12-24,Quayside Umbrellas Ltd,Pro,Account access,Medium,Closed,18.2,Our admin left and nobody can add seats.
+SUP-12032,2026-12-24,Brindle Bakery Ltd,Pro,Booking app,High,Resolved,64.7,The app let us book Ballast for two missions at the same time.
+SUP-12033,2026-12-24,Pebbleford Festival,Max,Feature request,Low,Resolved,3.1,Could invoices show which hero did each mission?
+SUP-12034,2026-12-25,Fallowmere Cinema Ltd,Max,Account access,Medium,Open,5.4,A new starter can't log in to the booking app.
+SUP-12035,2026-12-25,Fennimore Bakery & Sons,Pro,Noise,Medium,Closed,5.6,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-12036,2026-12-25,Rookery Concert Hall,Max,Feature request,Low,Resolved,1.2,Can we book a hero for the same slot every week?
+SUP-12037,2026-12-28,Mapleton Print Works,Pro,Late arrival,Medium,Closed,68.2,Brisk arrived 15 minutes after the booked start of our school fete.
+SUP-12038,2026-12-28,Brindle Toy Company & Sons,Pro,Feature request,Low,Resolved,6.7,Can we book a hero for the same slot every week?
+SUP-12039,2026-12-29,Oystergate Festival Group,Max,Account access,Medium,Closed,0.9,A new starter can't log in to the booking app.
+SUP-12040,2026-12-30,Brambleton Umbrellas Ltd,Pro,Property damage,High,Pending,13.4,Quorum left a dent in our bike shed. We were told claims go through this inbox.
+SUP-12041,2026-12-31,Moorhen Biscuits,Pro,Feature request,Low,Closed,65.9,Can we book a hero for the same slot every week?

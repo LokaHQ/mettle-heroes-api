@@ -1,0 +1,19 @@
+{
+  "name": "company-plugins",
+  "owner": {
+    "name": "Your company"
+  },
+  "description": "The organisation's Claude plugins, reviewed through pull requests.",
+  "plugins": [
+    {
+      "name": "mettle-support-desk",
+      "source": "./plugins/mettle-support-desk",
+      "description": "Example: Customer Support's weekly triage, reply drafting and call follow-up."
+    },
+    {
+      "name": "department-plugin-starter",
+      "source": "./plugins/department-plugin-starter",
+      "description": "Starter for one department's plugin: house rules and a weekly review."
+    }
+  ]
+}
