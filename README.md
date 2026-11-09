@@ -61,9 +61,3 @@ The database is a SQLite file, `heroes.db` in the current folder. Set `HEROES_DB
 - `tests/` has the pytest suite
 
 Open work is in `issues.md`.
-
-## Other course materials
-
-`skills-studio/` has the practice data, finished skill and templates for Skills Studio. See its own README.
-
-`plugins-rollout/` has the practice files, a starter plugin library and the finished examples for Plugins & Department Rollout. See its own README.
