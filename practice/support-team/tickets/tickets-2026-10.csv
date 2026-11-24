@@ -1,0 +1,41 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-10001,2026-10-01,Saltgrave Theatre Ltd,Max,Account access,Medium,Closed,6.8,A new starter can't log in to the booking app.
+SUP-10002,2026-10-02,Gorsewick Kites Ltd,Pro,Billing,Medium,Closed,71.8,Our invoice shows 1 seats but we only reserved 1 patrol posts.
+SUP-10003,2026-10-05,Oystergate Ferries,Max,Late arrival,Medium,Resolved,2.9,Quorum arrived 15 minutes after the booked start of our product launch.
+SUP-10004,2026-10-05,Tollgate Theatre Co,Max,Late arrival,Medium,Closed,1.6,Our charity fun run started without a hero. Ballast turned up 55 minutes late and blamed the tram.
+SUP-10005,2026-10-05,Fallowmere Clockworks & Sons,Pro,Property damage,High,Resolved,12.3,Quorum left a dent in our bus shelter. We were told claims go through this inbox.
+SUP-10006,2026-10-05,Saltgrave Stadium,Enterprise,Property damage,Urgent,Resolved,0.8,Brisk left a dent in our market stall. We were told claims go through this inbox.
+SUP-10007,2026-10-05,Larkspur Science Centre,Max,Billing,Medium,Resolved,13.6,We moved down a tier last month but the invoice still uses the old price.
+SUP-10008,2026-10-06,Brackwater Umbrellas,Pro,Account access,Medium,Closed,4.1,A new starter can't log in to the booking app.
+SUP-10009,2026-10-06,Windlass Biscuits & Sons,Pro,Booking app,High,Closed,21.3,The app let us book Findwell for two missions at the same time.
+SUP-10010,2026-10-07,Harbourside Zoo Ltd,Max,Feature request,Low,Closed,2.4,Can we book a hero for the same slot every week?
+SUP-10011,2026-10-07,Wickerbay Rowing Club Ltd,Pro,Hero conduct,Low,Resolved,11.2,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-10012,2026-10-08,Quayside Umbrellas Ltd,Pro,Booking app,High,Closed,20.0,We can't change the end time of a mission once it's booked.
+SUP-10013,2026-10-09,Glasswork Biscuits Ltd,Pro,Hero conduct,Low,Closed,35.1,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-10014,2026-10-09,Wrenfield Clockworks Co,Pro,Late arrival,Medium,Closed,19.5,Our ribbon cutting started without a hero. Lady Lanyard turned up 15 minutes late and blamed the tram.
+SUP-10015,2026-10-13,Ravelstone Biscuits Group,Pro,Property damage,High,Closed,3.8,A resident on Quay Road reports Forecaster knocked over their market stall chasing a runaway kite.
+SUP-10016,2026-10-13,Copperkettle Department Store,Enterprise,Late arrival,Medium,Resolved,0.5,Our product launch started without a hero. Late Shift turned up 55 minutes late and blamed the tram.
+SUP-10017,2026-10-13,Pebbleford Biscuits Co,Pro,Late arrival,Medium,Resolved,12.1,Brisk arrived 15 minutes after the booked start of our school fete.
+SUP-10018,2026-10-13,Bramblecote Kites Ltd,Pro,Billing,Medium,Closed,21.1,Please send a copy of last month's invoice to our finance team.
+SUP-10019,2026-10-14,Tanner Kites Group,Pro,Late arrival,Medium,Closed,17.8,Ballast arrived 25 minutes after the booked start of our charity fun run.
+SUP-10020,2026-10-14,Marigold Print Works,Pro,Late arrival,Medium,Closed,10.3,Our charity fun run started without a hero. Findwell turned up 25 minutes late and blamed the tram.
+SUP-10021,2026-10-14,Millrace Opera House,Max,Noise,Medium,Resolved,24.1,Late Shift was patrolling Saltpan Hill at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-10022,2026-10-14,Brindle Bakery Ltd,Pro,Property damage,High,Closed,35.4,Late Shift landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-10023,2026-10-15,Fallowmere Town Council,Enterprise,Hero conduct,Low,Closed,0.7,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-10024,2026-10-15,Brindle Bakery Ltd,Pro,Property damage,High,Closed,7.9,Pivot landed on our shop sign during the patrol. We need someone to assess the damage.
+SUP-10025,2026-10-16,Harbourside Kites Ltd,Pro,Feature request,Low,Closed,6.6,Could invoices show which hero did each mission?
+SUP-10026,2026-10-19,Oystergate Festival Group,Max,Late arrival,Medium,Closed,6.2,Our charity fun run started without a hero. Ballast turned up 55 minutes late and blamed the tram.
+SUP-10027,2026-10-20,Tidewater Markets Co,Max,Late arrival,Medium,Resolved,2.4,Brisk arrived 40 minutes after the booked start of our product launch.
+SUP-10028,2026-10-20,Quillfeather Clockworks,Pro,Booking app,High,Resolved,10.5,The booking app shows Quorum as free but the booking fails with an error.
+SUP-10029,2026-10-21,Sandpiper Bakery,Pro,Hero conduct,Low,Resolved,4.7,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-10030,2026-10-23,Quillfeather Clockworks,Pro,Late arrival,Medium,Closed,11.2,Our school fete started without a hero. Lady Lanyard turned up 40 minutes late and blamed the tram.
+SUP-10031,2026-10-26,Sallowfield Town Council,Enterprise,Feature request,Low,Resolved,0.6,Can we book a hero for the same slot every week?
+SUP-10032,2026-10-27,Pebbleford Festival,Max,Account access,Medium,Closed,2.2,A new starter can't log in to the booking app.
+SUP-10033,2026-10-28,Cobbleway Theatre,Max,Property damage,High,Resolved,6.9,Forecaster landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-10034,2026-10-28,Bramblecote Kites Ltd,Pro,Noise,Medium,Closed,9.0,Residents on Tanner Street say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-10035,2026-10-28,Pebbleford Town Council,Enterprise,Hero conduct,Low,Closed,0.7,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-10036,2026-10-29,Larkspur Science Centre,Max,Feature request,Low,Closed,1.7,Could invoices show which hero did each mission?
+SUP-10037,2026-10-29,Lanternfold Ice Rink Ltd,Max,Noise,Medium,Closed,4.3,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-10038,2026-10-30,Sandpiper Bakery,Pro,Booking app,High,Resolved,18.7,The app let us book Mute Button for two missions at the same time.
+SUP-10039,2026-10-30,Wrenfield Department Store Ltd,Enterprise,Billing,Medium,Resolved,0.8,Please send a copy of last month's invoice to our finance team.
+SUP-10040,2026-10-30,Quillfeather Clockworks,Pro,Property damage,High,Closed,13.8,Paperweight landed on our delivery van roof during the patrol. We need someone to assess the damage.

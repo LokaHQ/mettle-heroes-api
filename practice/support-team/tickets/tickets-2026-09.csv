@@ -1,0 +1,39 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-09001,2026-09-01,Driftwood Department Store,Enterprise,Billing,Medium,Closed,0.3,Our invoice shows 48 seats but we only reserved 47 patrol posts.
+SUP-09002,2026-09-02,Lanternfold Removals Ltd,Max,Account access,Medium,Resolved,1.9,A new starter can't log in to the booking app.
+SUP-09003,2026-09-02,Oakhollow Kites,Pro,Account access,Medium,Resolved,21.2,A new starter can't log in to the booking app.
+SUP-09004,2026-09-02,Oakhollow Kites,Pro,Noise,Medium,Closed,15.7,Late Shift was patrolling Quay Road at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-09005,2026-09-03,Silverbirch Concert Hall & Sons,Max,Hero conduct,Low,Closed,2.5,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-09006,2026-09-03,Brindle Laundry Group,Pro,Hero conduct,Low,Closed,21.2,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-09007,2026-09-04,Fennimore Bakery & Sons,Pro,Billing,Medium,Closed,10.8,Please send a copy of last month's invoice to our finance team.
+SUP-09008,2026-09-04,Driftwood Umbrellas Co,Pro,Late arrival,Medium,Closed,4.0,Our store opening started without a hero. Lady Lanyard turned up 55 minutes late and blamed the tram.
+SUP-09009,2026-09-07,Ferrow Museum Co,Max,Booking app,High,Resolved,5.9,The booking app shows Lady Lanyard as free but the booking fails with an error.
+SUP-09010,2026-09-08,Ravelstone Couriers,Max,Billing,Medium,Closed,4.3,We moved down a tier last month but the invoice still uses the old price.
+SUP-09011,2026-09-08,Harbourside Shopping Centre,Enterprise,Billing,Medium,Closed,0.9,Our invoice shows 31 seats but we only reserved 29 patrol posts.
+SUP-09012,2026-09-08,Fallowmere Town Council,Enterprise,Late arrival,Medium,Closed,0.1,Our ribbon cutting started without a hero. Late Shift turned up 55 minutes late and blamed the tram.
+SUP-09013,2026-09-08,Bellfounder Kites Group,Pro,Late arrival,Medium,Resolved,13.5,Our school fete started without a hero. Late Shift turned up 25 minutes late and blamed the tram.
+SUP-09014,2026-09-09,Quayside Umbrellas Ltd,Pro,Hero conduct,Low,Closed,12.9,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-09015,2026-09-09,Quayside Umbrellas Ltd,Pro,Property damage,High,Resolved,15.3,A resident on Quay Road reports Findwell knocked over their shop sign chasing a runaway kite.
+SUP-09016,2026-09-10,Windlass Water Park & Sons,Enterprise,Noise,Medium,Closed,3.2,Residents on Saltpan Hill say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-09017,2026-09-10,Bellfounder Tramways Ltd,Enterprise,Noise,Medium,Closed,0.3,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-09018,2026-09-11,Hearthstone Markets Co,Max,Billing,Medium,Closed,3.4,Our invoice shows 15 seats but we only reserved 12 patrol posts.
+SUP-09019,2026-09-15,Bramblecote Museum Ltd,Max,Billing,Medium,Resolved,16.2,Please send a copy of last month's invoice to our finance team.
+SUP-09020,2026-09-15,Juniper Biscuits Group,Pro,Property damage,High,Closed,54.7,Brisk landed on our shop awning during the patrol. We need someone to assess the damage.
+SUP-09021,2026-09-15,Thistledown Pottery Co,Pro,Late arrival,Medium,Closed,10.9,Lady Lanyard arrived 15 minutes after the booked start of our ribbon cutting.
+SUP-09022,2026-09-15,Dunmarrow Umbrellas Ltd,Pro,Property damage,High,Closed,7.7,Thermostat landed on our greenhouse during the patrol. We need someone to assess the damage.
+SUP-09023,2026-09-17,Tollgate Department Store Ltd,Enterprise,Late arrival,Medium,Resolved,0.3,Our school fete started without a hero. Quorum turned up 15 minutes late and blamed the tram.
+SUP-09024,2026-09-21,Wrenfield Science Centre,Max,Hero conduct,Low,Closed,3.4,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-09025,2026-09-21,Hollyhock Laundry Ltd,Pro,Property damage,High,Closed,16.5,Late Shift left a dent in our shop sign. We were told claims go through this inbox.
+SUP-09026,2026-09-21,Brambleton Umbrellas Ltd,Pro,Booking app,High,Closed,6.3,The booking app shows Lowtide as free but the booking fails with an error.
+SUP-09027,2026-09-21,Quillfeather Concert Hall Co,Max,Billing,Medium,Resolved,5.2,We moved down a tier last month but the invoice still uses the old price.
+SUP-09028,2026-09-22,Driftwood Cinema & Sons,Max,Noise,Medium,Resolved,1.3,Late Shift was patrolling Chandlers Row at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-09029,2026-09-22,Saltgrave Bus Company Ltd,Enterprise,Late arrival,Medium,Closed,0.7,Our charity fun run started without a hero. Late Shift turned up 25 minutes late and blamed the tram.
+SUP-09030,2026-09-24,Ravelstone Couriers,Max,Late arrival,Medium,Resolved,5.9,Mute Button arrived 25 minutes after the booked start of our store opening.
+SUP-09031,2026-09-24,Harbourside Market Ltd,Max,Billing,Medium,Resolved,5.6,Please send a copy of last month's invoice to our finance team.
+SUP-09032,2026-09-24,Hobnail Garden Centre Group,Pro,Booking app,High,Closed,2.2,The app let us book Thermostat for two missions at the same time.
+SUP-09033,2026-09-25,Gullwing Zoo,Max,Booking app,High,Resolved,1.9,We can't change the end time of a mission once it's booked.
+SUP-09034,2026-09-25,Saltgrave Bus Company Ltd,Enterprise,Booking app,High,Resolved,0.3,We can't change the end time of a mission once it's booked.
+SUP-09035,2026-09-25,Larkspur Clockworks & Sons,Pro,Late arrival,Medium,Closed,5.2,Forecaster arrived 40 minutes after the booked start of our store opening.
+SUP-09036,2026-09-25,Sallowfield Clockworks Group,Pro,Property damage,High,Resolved,66.4,Merge Lane landed on our shop sign during the patrol. We need someone to assess the damage.
+SUP-09037,2026-09-28,Lanternfold Removals Ltd,Max,Feature request,Low,Resolved,3.4,Can we book a hero for the same slot every week?
+SUP-09038,2026-09-29,Ferrow Museum Co,Max,Account access,Medium,Closed,4.3,A new starter can't log in to the booking app.

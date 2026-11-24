@@ -1,0 +1,40 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-05001,2026-05-01,Mapleton Town Council,Enterprise,Feature request,Low,Closed,0.5,Can we book a hero for the same slot every week?
+SUP-05002,2026-05-01,Larkspur Clockworks & Sons,Pro,Late arrival,Medium,Resolved,11.0,Our charity fun run started without a hero. Pivot turned up 25 minutes late and blamed the tram.
+SUP-05003,2026-05-04,Pennywhistle Umbrellas,Pro,Billing,Medium,Closed,12.7,We moved down a tier last month but the invoice still uses the old price.
+SUP-05004,2026-05-04,Pebbleford Town Council,Enterprise,Late arrival,Medium,Resolved,0.8,Mute Button arrived 15 minutes after the booked start of our school fete.
+SUP-05005,2026-05-04,Saltgrave Bus Company Ltd,Enterprise,Property damage,Urgent,Closed,0.9,Lady Lanyard left a dent in our market stall. We were told claims go through this inbox.
+SUP-05006,2026-05-04,Saltgrave Logistics Co,Enterprise,Late arrival,Medium,Closed,0.9,Lady Lanyard arrived 40 minutes after the booked start of our product launch.
+SUP-05007,2026-05-04,Pinecrest Hotels,Enterprise,Account access,Medium,Closed,0.8,A new starter can't log in to the booking app.
+SUP-05008,2026-05-05,Wickerbay Rowing Club Ltd,Pro,Noise,Medium,Closed,7.0,Late Shift was patrolling Tanner Street at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-05009,2026-05-05,Driftwood Department Store,Enterprise,Hero conduct,Low,Closed,0.6,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-05010,2026-05-06,Quayside Umbrellas Ltd,Pro,Billing,Medium,Closed,13.9,We moved down a tier last month but the invoice still uses the old price.
+SUP-05011,2026-05-06,Saltgrave Bus Company Ltd,Enterprise,Property damage,Urgent,Resolved,0.4,Thermostat landed on our greenhouse during the patrol. We need someone to assess the damage.
+SUP-05012,2026-05-07,Fallowmere Cinema Ltd,Max,Late arrival,Medium,Closed,6.4,Our charity fun run started without a hero. Late Shift turned up 40 minutes late and blamed the tram.
+SUP-05013,2026-05-08,Tollgate Theatre Co,Max,Hero conduct,Low,Closed,2.5,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-05014,2026-05-11,Weathervane Umbrellas,Pro,Late arrival,Medium,Closed,3.2,Mute Button arrived 15 minutes after the booked start of our charity fun run.
+SUP-05015,2026-05-13,Tollgate Theatre Co,Max,Noise,Medium,Resolved,7.0,Late Shift was patrolling Tanner Street at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-05016,2026-05-13,Dunmarrow Town Council,Enterprise,Hero conduct,Low,Resolved,2.3,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-05017,2026-05-13,Mossbank Removals,Max,Billing,Medium,Resolved,6.5,Our invoice shows 14 seats but we only reserved 12 patrol posts.
+SUP-05018,2026-05-14,Wrenfield Science Centre,Max,Account access,Medium,Resolved,21.0,Our admin left and nobody can add seats.
+SUP-05019,2026-05-15,Harbourside Zoo Ltd,Max,Feature request,Low,Closed,4.9,Could invoices show which hero did each mission?
+SUP-05020,2026-05-15,Brackwater Kites Group,Pro,Late arrival,Medium,Closed,10.0,Lady Lanyard arrived 40 minutes after the booked start of our charity fun run.
+SUP-05021,2026-05-15,Sandpiper Bakery,Pro,Late arrival,Medium,Resolved,3.8,Our store opening started without a hero. Paperweight turned up 15 minutes late and blamed the tram.
+SUP-05022,2026-05-15,Quillfeather Clockworks,Pro,Account access,Medium,Closed,21.5,A new starter can't log in to the booking app.
+SUP-05023,2026-05-18,Cobbleway Theatre,Max,Late arrival,Medium,Closed,3.7,Brisk arrived 15 minutes after the booked start of our ribbon cutting.
+SUP-05024,2026-05-18,Tidewater Museum,Max,Late arrival,Medium,Closed,5.8,Our store opening started without a hero. Mute Button turned up 15 minutes late and blamed the tram.
+SUP-05025,2026-05-18,Bramblecote Kites Ltd,Pro,Hero conduct,Low,Closed,13.6,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-05026,2026-05-19,Teaspoon Laundry,Pro,Noise,Medium,Closed,59.8,Late Shift was patrolling Chandlers Row at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-05027,2026-05-20,Saltgrave Toy Company Co,Pro,Noise,Medium,Resolved,17.9,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-05028,2026-05-22,Ravelstone Clockworks & Sons,Pro,Billing,Medium,Closed,63.8,Please send a copy of last month's invoice to our finance team.
+SUP-05029,2026-05-22,Brindle Bakery Ltd,Pro,Feature request,Low,Resolved,20.0,Can we book a hero for the same slot every week?
+SUP-05030,2026-05-22,Wickerbay Rowing Club Ltd,Pro,Property damage,High,Closed,18.3,Ballast landed on our market stall during the patrol. We need someone to assess the damage.
+SUP-05031,2026-05-25,Brindle Bakery Ltd,Pro,Noise,Medium,Closed,18.5,Late Shift was patrolling Chandlers Row at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-05032,2026-05-25,Quayside Garden Centre,Pro,Billing,Medium,Closed,11.1,Please send a copy of last month's invoice to our finance team.
+SUP-05033,2026-05-26,Hollyhock Laundry Ltd,Pro,Late arrival,Medium,Closed,14.2,Thermostat arrived 55 minutes after the booked start of our ribbon cutting.
+SUP-05034,2026-05-26,Silverbirch Umbrellas Co,Pro,Billing,Medium,Closed,6.2,Our invoice shows 2 seats but we only reserved 1 patrol posts.
+SUP-05035,2026-05-26,Oakhollow Removals,Max,Billing,Medium,Closed,6.9,Please send a copy of last month's invoice to our finance team.
+SUP-05036,2026-05-27,Brackwater Kites Group,Pro,Feature request,Low,Resolved,20.4,Can we book a hero for the same slot every week?
+SUP-05037,2026-05-27,Fennimore Zoo,Max,Property damage,High,Closed,21.3,A resident on Tanner Street reports Lowtide knocked over their market stall chasing a runaway kite.
+SUP-05038,2026-05-27,Driftwood Department Store,Enterprise,Late arrival,Medium,Closed,0.6,Thermostat arrived 55 minutes after the booked start of our school fete.
+SUP-05039,2026-05-28,Saltgrave Toy Company Co,Pro,Noise,Medium,Resolved,2.5,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.

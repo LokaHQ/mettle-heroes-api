@@ -1,0 +1,39 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-01001,2026-01-01,Quayside Garden Centre,Pro,Account access,Medium,Resolved,17.8,A new starter can't log in to the booking app.
+SUP-01002,2026-01-02,Glasswork Bakery,Pro,Account access,Medium,Resolved,72.8,Our admin left and nobody can add seats.
+SUP-01003,2026-01-05,Mapleton Water Park Ltd,Enterprise,Account access,Medium,Closed,3.0,Our admin left and nobody can add seats.
+SUP-01004,2026-01-06,Sallowfield Town Council,Enterprise,Billing,Medium,Resolved,0.9,We moved down a tier last month but the invoice still uses the old price.
+SUP-01005,2026-01-06,Copperkettle Department Store,Enterprise,Noise,Medium,Closed,0.5,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-01006,2026-01-06,Bellfounder Concert Hall Ltd,Max,Booking app,High,Closed,1.9,The app let us book Mute Button for two missions at the same time.
+SUP-01007,2026-01-06,Pinecrest Hotels,Enterprise,Late arrival,Medium,Closed,0.8,Our store opening started without a hero. Forecaster turned up 25 minutes late and blamed the tram.
+SUP-01008,2026-01-07,Bellfounder Toy Company Co,Pro,Property damage,High,Closed,15.0,A resident on Quay Road reports Forecaster knocked over their delivery van roof chasing a runaway kite.
+SUP-01009,2026-01-07,Driftwood Cinema & Sons,Max,Feature request,Low,Closed,2.8,Could invoices show which hero did each mission?
+SUP-01010,2026-01-07,Wrenfield Town Council,Enterprise,Late arrival,Medium,Closed,0.7,Our school fete started without a hero. Brisk turned up 15 minutes late and blamed the tram.
+SUP-01011,2026-01-08,Dunmarrow Town Council,Enterprise,Property damage,Urgent,Resolved,0.8,Thermostat left a dent in our bike shed. We were told claims go through this inbox.
+SUP-01012,2026-01-08,Tidewater Museum,Max,Billing,Medium,Closed,7.1,We moved down a tier last month but the invoice still uses the old price.
+SUP-01013,2026-01-08,Copperkettle Theatre & Sons,Max,Feature request,Low,Closed,5.0,Could invoices show which hero did each mission?
+SUP-01014,2026-01-08,Mossbank Removals,Max,Property damage,High,Closed,1.8,A resident on Saltpan Hill reports Lowtide knocked over their shop awning chasing a runaway kite.
+SUP-01015,2026-01-12,Pinecrest Hotels,Enterprise,Account access,Medium,Closed,0.2,A new starter can't log in to the booking app.
+SUP-01016,2026-01-13,Tidewater Museum,Max,Billing,Medium,Closed,5.6,We moved down a tier last month but the invoice still uses the old price.
+SUP-01017,2026-01-13,Hearthstone Markets Co,Max,Hero conduct,Low,Closed,1.0,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-01018,2026-01-14,Bellfounder Toy Company Co,Pro,Late arrival,Medium,Closed,9.2,Brisk arrived 40 minutes after the booked start of our store opening.
+SUP-01019,2026-01-15,Fennimore Zoo,Max,Property damage,High,Resolved,2.4,Thermostat landed on our market stall during the patrol. We need someone to assess the damage.
+SUP-01020,2026-01-15,Mossbank Removals,Max,Feature request,Low,Closed,3.7,Could invoices show which hero did each mission?
+SUP-01021,2026-01-16,Brackwater Kites Group,Pro,Billing,Medium,Closed,47.7,Our invoice shows 1 seats but we only reserved 1 patrol posts.
+SUP-01022,2026-01-16,Fallowmere Town Council,Enterprise,Late arrival,Medium,Resolved,0.1,The Untangler arrived 40 minutes after the booked start of our school fete.
+SUP-01023,2026-01-16,Copperkettle Theatre & Sons,Max,Hero conduct,Low,Closed,5.5,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-01024,2026-01-16,Millrace Opera House,Max,Feature request,Low,Resolved,6.5,Can we book a hero for the same slot every week?
+SUP-01025,2026-01-20,Brackwater Kites Group,Pro,Feature request,Low,Resolved,6.4,Could invoices show which hero did each mission?
+SUP-01026,2026-01-21,Quillfeather Clockworks,Pro,Feature request,Low,Closed,16.4,Can we book a hero for the same slot every week?
+SUP-01027,2026-01-22,Cobbleway Theatre,Max,Feature request,Low,Resolved,6.0,Could invoices show which hero did each mission?
+SUP-01028,2026-01-22,Bellfounder Ferries,Enterprise,Noise,Medium,Closed,0.4,Late Shift was patrolling Saltpan Hill at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-01029,2026-01-23,Pebbleford Town Council,Enterprise,Feature request,Low,Closed,0.8,Could invoices show which hero did each mission?
+SUP-01030,2026-01-26,Driftwood Department Store,Enterprise,Property damage,Urgent,Closed,0.4,A resident on Quay Road reports Late Shift knocked over their bus shelter chasing a runaway kite.
+SUP-01031,2026-01-27,Wickerbay Rowing Club Ltd,Pro,Noise,Medium,Closed,13.6,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-01032,2026-01-27,Lanternfold Removals Ltd,Max,Feature request,Low,Closed,5.7,Can we book a hero for the same slot every week?
+SUP-01033,2026-01-27,Wrenfield Rowing Club Ltd,Pro,Noise,Medium,Closed,14.1,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-01034,2026-01-28,Mapleton Water Park Ltd,Enterprise,Account access,Medium,Closed,0.4,Our admin left and nobody can add seats.
+SUP-01035,2026-01-29,Cobbleway Theatre,Max,Late arrival,Medium,Resolved,0.9,Our ribbon cutting started without a hero. Lady Lanyard turned up 40 minutes late and blamed the tram.
+SUP-01036,2026-01-30,Brackwater Kites Group,Pro,Billing,Medium,Closed,72.6,We moved down a tier last month but the invoice still uses the old price.
+SUP-01037,2026-01-30,Wickerbay Rowing Club Ltd,Pro,Property damage,High,Closed,2.4,A resident on Quay Road reports Inbox Zero knocked over their bike shed chasing a runaway kite.
+SUP-01038,2026-01-30,Hearthstone Markets Co,Max,Noise,Medium,Closed,7.0,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.

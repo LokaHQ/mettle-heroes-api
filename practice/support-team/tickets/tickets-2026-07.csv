@@ -1,0 +1,41 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-07001,2026-07-01,Silverbirch Markets,Max,Hero conduct,Low,Closed,1.1,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-07002,2026-07-01,Brindle Festival,Max,Billing,Medium,Closed,4.2,Our invoice shows 9 seats but we only reserved 6 patrol posts.
+SUP-07003,2026-07-02,Millrace Opera House,Max,Account access,Medium,Resolved,3.7,Our admin left and nobody can add seats.
+SUP-07004,2026-07-02,Quayside Garden Centre,Pro,Booking app,High,Closed,11.2,The booking app shows Pivot as free but the booking fails with an error.
+SUP-07005,2026-07-02,Wrenfield Town Council,Enterprise,Hero conduct,Low,Closed,3.2,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-07006,2026-07-02,Harbourside Zoo Ltd,Max,Billing,Medium,Closed,1.3,We moved down a tier last month but the invoice still uses the old price.
+SUP-07007,2026-07-02,Wickerbay Rowing Club Ltd,Pro,Late arrival,Medium,Closed,10.7,Our store opening started without a hero. Thermostat turned up 25 minutes late and blamed the tram.
+SUP-07008,2026-07-03,Copperkettle Theatre & Sons,Max,Account access,Medium,Resolved,21.8,Our admin left and nobody can add seats.
+SUP-07009,2026-07-03,Tidewater Museum,Max,Late arrival,Medium,Closed,14.0,Our charity fun run started without a hero. Inbox Zero turned up 40 minutes late and blamed the tram.
+SUP-07010,2026-07-06,Glasswork Bakery,Pro,Feature request,Low,Closed,14.1,Can we book a hero for the same slot every week?
+SUP-07011,2026-07-06,Silverbirch Concert Hall & Sons,Max,Property damage,High,Closed,1.0,Findwell landed on our greenhouse during the patrol. We need someone to assess the damage.
+SUP-07012,2026-07-06,Bramblecote Museum Ltd,Max,Account access,Medium,Closed,14.5,A new starter can't log in to the booking app.
+SUP-07013,2026-07-06,Thistledown Umbrellas Co,Pro,Account access,Medium,Closed,12.9,A new starter can't log in to the booking app.
+SUP-07014,2026-07-08,Saltgrave Stadium,Enterprise,Booking app,High,Closed,3.0,The booking app shows Lowtide as free but the booking fails with an error.
+SUP-07015,2026-07-09,Pebbleford Biscuits Co,Pro,Billing,Medium,Closed,18.4,Our invoice shows 2 seats but we only reserved 1 patrol posts.
+SUP-07016,2026-07-10,Lanternfold Ice Rink Ltd,Max,Late arrival,Medium,Resolved,6.1,Our school fete started without a hero. The Untangler turned up 55 minutes late and blamed the tram.
+SUP-07017,2026-07-10,Bellfounder Ferries,Enterprise,Booking app,High,Closed,0.8,We can't change the end time of a mission once it's booked.
+SUP-07018,2026-07-14,Wrenfield Science Centre,Max,Account access,Medium,Closed,3.5,Our admin left and nobody can add seats.
+SUP-07019,2026-07-16,Quillfeather Clockworks,Pro,Feature request,Low,Resolved,11.0,Could invoices show which hero did each mission?
+SUP-07020,2026-07-16,Cormorant Aquarium,Max,Late arrival,Medium,Closed,4.0,Mute Button arrived 15 minutes after the booked start of our ribbon cutting.
+SUP-07021,2026-07-17,Dunmarrow Town Council,Enterprise,Hero conduct,Low,Resolved,0.2,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-07022,2026-07-20,Juniper Biscuits Group,Pro,Property damage,High,Closed,17.5,A resident on Chandlers Row reports Ballast knocked over their market stall chasing a runaway kite.
+SUP-07023,2026-07-20,Larkspur Science Centre,Max,Feature request,Low,Closed,3.1,Could invoices show which hero did each mission?
+SUP-07024,2026-07-20,Moorhen Biscuits,Pro,Feature request,Low,Closed,44.1,Could invoices show which hero did each mission?
+SUP-07025,2026-07-21,Brindle Toy Company & Sons,Pro,Hero conduct,Low,Closed,17.3,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-07026,2026-07-21,Cormorant Couriers Group,Max,Feature request,Low,Closed,2.6,Could invoices show which hero did each mission?
+SUP-07027,2026-07-23,Silverbirch Concert Hall & Sons,Max,Billing,Medium,Resolved,5.1,We moved down a tier last month but the invoice still uses the old price.
+SUP-07028,2026-07-24,Sandpiper Bakery,Pro,Hero conduct,Low,Closed,4.7,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-07029,2026-07-24,Tidewater Museum,Max,Booking app,High,Resolved,3.1,The booking app shows Findwell as free but the booking fails with an error.
+SUP-07030,2026-07-24,Gorsewick Town Council,Max,Hero conduct,Low,Closed,1.3,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-07031,2026-07-24,Windlass Water Park & Sons,Enterprise,Hero conduct,Low,Closed,0.4,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-07032,2026-07-28,Kettleby Town Council,Enterprise,Property damage,Urgent,Resolved,0.1,A resident on Tanner Street reports Findwell knocked over their market stall chasing a runaway kite.
+SUP-07033,2026-07-28,Lanternfold Removals Ltd,Max,Late arrival,Medium,Resolved,0.7,Our store opening started without a hero. Merge Lane turned up 25 minutes late and blamed the tram.
+SUP-07034,2026-07-29,Pebbleford Theatre & Sons,Max,Feature request,Low,Closed,6.6,Can we book a hero for the same slot every week?
+SUP-07035,2026-07-30,Cormorant Laundry Co,Pro,Billing,Medium,Resolved,10.9,Our invoice shows 3 seats but we only reserved 1 patrol posts.
+SUP-07036,2026-07-30,Lamplight Cinema,Max,Account access,Medium,Closed,3.6,A new starter can't log in to the booking app.
+SUP-07037,2026-07-30,Bellfounder Ferries,Enterprise,Account access,Medium,Resolved,0.3,A new starter can't log in to the booking app.
+SUP-07038,2026-07-31,Ravelstone Biscuits Group,Pro,Feature request,Low,Resolved,19.1,Could invoices show which hero did each mission?
+SUP-07039,2026-07-31,Ravelstone Biscuits Group,Pro,Noise,Medium,Resolved,12.2,Late Shift was patrolling Saltpan Hill at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-07040,2026-07-31,Tollgate Department Store Ltd,Enterprise,Billing,Medium,Resolved,0.6,We moved down a tier last month but the invoice still uses the old price.
