@@ -1,0 +1,40 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-03001,2026-03-02,Gorsewick Town Council,Max,Late arrival,Medium,Closed,18.1,Paperweight arrived 55 minutes after the booked start of our ribbon cutting.
+SUP-03002,2026-03-02,Quillfeather Concert Hall Co,Max,Account access,Medium,Closed,2.9,A new starter can't log in to the booking app.
+SUP-03003,2026-03-03,Pennywhistle Aquarium Group,Max,Feature request,Low,Resolved,1.6,Could invoices show which hero did each mission?
+SUP-03004,2026-03-03,Weathervane Umbrellas,Pro,Noise,Medium,Resolved,17.7,Residents on Tanner Street say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-03005,2026-03-04,Mapleton Town Council,Enterprise,Noise,Medium,Resolved,0.1,Late Shift was patrolling Quay Road at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-03006,2026-03-04,Larkspur Science Centre,Max,Noise,Medium,Closed,1.6,Late Shift was patrolling Chandlers Row at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-03007,2026-03-05,Driftwood Department Store,Enterprise,Late arrival,Medium,Closed,0.4,Our product launch started without a hero. Brisk turned up 25 minutes late and blamed the tram.
+SUP-03008,2026-03-05,Pebbleford Theatre & Sons,Max,Account access,Medium,Resolved,4.2,Our admin left and nobody can add seats.
+SUP-03009,2026-03-06,Fennimore Zoo,Max,Billing,Medium,Closed,5.3,We moved down a tier last month but the invoice still uses the old price.
+SUP-03010,2026-03-09,Windlass Water Park & Sons,Enterprise,Property damage,Urgent,Closed,0.6,Merge Lane left a dent in our bus shelter. We were told claims go through this inbox.
+SUP-03011,2026-03-09,Mossbank Removals,Max,Hero conduct,Low,Closed,0.7,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-03012,2026-03-10,Larkspur Clockworks & Sons,Pro,Account access,Medium,Closed,69.6,A new starter can't log in to the booking app.
+SUP-03013,2026-03-10,Pennywhistle Aquarium Group,Max,Late arrival,Medium,Closed,1.8,Our charity fun run started without a hero. Brisk turned up 40 minutes late and blamed the tram.
+SUP-03014,2026-03-10,Kettleby Pottery Ltd,Pro,Late arrival,Medium,Closed,8.8,Our school fete started without a hero. Inbox Zero turned up 40 minutes late and blamed the tram.
+SUP-03015,2026-03-10,Tidewater Museum,Max,Hero conduct,Low,Resolved,2.9,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-03016,2026-03-11,Copperkettle Theatre & Sons,Max,Feature request,Low,Closed,6.2,Could invoices show which hero did each mission?
+SUP-03017,2026-03-13,Glasswork Bakery,Pro,Booking app,High,Closed,16.8,We can't change the end time of a mission once it's booked.
+SUP-03018,2026-03-13,Ravelstone Clockworks & Sons,Pro,Late arrival,Medium,Closed,4.7,Our product launch started without a hero. Brisk turned up 15 minutes late and blamed the tram.
+SUP-03019,2026-03-13,Larkspur Clockworks & Sons,Pro,Property damage,High,Closed,15.5,A resident on Chandlers Row reports Late Shift knocked over their shop awning chasing a runaway kite.
+SUP-03020,2026-03-16,Wrenfield Town Council,Enterprise,Noise,Medium,Closed,0.1,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-03021,2026-03-16,Saltgrave Logistics Co,Enterprise,Late arrival,Medium,Closed,0.9,Our school fete started without a hero. Lady Lanyard turned up 25 minutes late and blamed the tram.
+SUP-03022,2026-03-17,Tollgate Department Store Ltd,Enterprise,Booking app,High,Closed,0.7,The app let us book The Untangler for two missions at the same time.
+SUP-03023,2026-03-17,Wickerbay Rowing Club Ltd,Pro,Account access,Medium,Resolved,75.6,A new starter can't log in to the booking app.
+SUP-03024,2026-03-18,Harbourside Market Ltd,Max,Late arrival,Medium,Closed,5.0,Thermostat arrived 15 minutes after the booked start of our store opening.
+SUP-03025,2026-03-18,Mapleton Water Park Ltd,Enterprise,Booking app,High,Resolved,0.8,The app let us book The Untangler for two missions at the same time.
+SUP-03026,2026-03-18,Bellfounder Tramways Ltd,Enterprise,Property damage,Urgent,Closed,0.6,Lowtide left a dent in our greenhouse. We were told claims go through this inbox.
+SUP-03027,2026-03-24,Bellfounder Tramways Ltd,Enterprise,Booking app,High,Closed,0.9,We can't change the end time of a mission once it's booked.
+SUP-03028,2026-03-24,Cormorant Laundry Co,Pro,Property damage,High,Resolved,19.5,A resident on Tanner Street reports Paperweight knocked over their delivery van roof chasing a runaway kite.
+SUP-03029,2026-03-24,Tollgate Theatre Co,Max,Account access,Medium,Closed,12.7,Our admin left and nobody can add seats.
+SUP-03030,2026-03-25,Quayside Umbrellas Ltd,Pro,Late arrival,Medium,Closed,14.6,Mute Button arrived 55 minutes after the booked start of our charity fun run.
+SUP-03031,2026-03-26,Mossbank Removals,Max,Late arrival,Medium,Closed,4.4,Our store opening started without a hero. Late Shift turned up 25 minutes late and blamed the tram.
+SUP-03032,2026-03-26,Quillfeather Clockworks,Pro,Billing,Medium,Closed,17.2,Please send a copy of last month's invoice to our finance team.
+SUP-03033,2026-03-30,Wickerbay Rowing Club Ltd,Pro,Booking app,High,Closed,13.3,We can't change the end time of a mission once it's booked.
+SUP-03034,2026-03-30,Pebbleford Biscuits Co,Pro,Booking app,High,Closed,17.0,We can't change the end time of a mission once it's booked.
+SUP-03035,2026-03-30,Kettleby Town Council,Enterprise,Noise,Medium,Resolved,0.6,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-03036,2026-03-31,Kettleby Town Council,Enterprise,Booking app,High,Closed,0.6,The app let us book Inbox Zero for two missions at the same time.
+SUP-03037,2026-03-31,Copperkettle Museum Co,Max,Property damage,High,Closed,4.5,A resident on Ropewalk Lane reports Findwell knocked over their shop awning chasing a runaway kite.
+SUP-03038,2026-03-31,Oystergate Concert Hall,Max,Property damage,High,Resolved,2.9,Paperweight left a dent in our bus shelter. We were told claims go through this inbox.
+SUP-03039,2026-03-31,Wrenfield Science Centre,Max,Noise,Medium,Closed,2.8,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.

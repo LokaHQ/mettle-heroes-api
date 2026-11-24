@@ -61,3 +61,11 @@ The database is a SQLite file, `heroes.db` in the current folder. Set `HEROES_DB
 - `tests/` has the pytest suite
 
 Open work is in `issues.md`.
+
+## Practice data
+
+The `practice/` folder holds invented Mettle & Co data for Claude Code practice sessions. It is not part of the API. Every person, ticket, figure and email address is made up. Use it to try Claude Code on files that are not code.
+
+- `practice/engineering-metrics/`: usage, spend, pull request and incident exports for a fictional engineering team.
+- `practice/support-team/`: the company profile, the customer FAQ and twelve monthly support ticket exports.
+- `practice/sales/`: the open sales pipeline.

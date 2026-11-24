@@ -1,0 +1,38 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-06001,2026-06-01,Windlass Water Park & Sons,Enterprise,Late arrival,Medium,Closed,0.1,Quorum arrived 15 minutes after the booked start of our product launch.
+SUP-06002,2026-06-02,Sallowfield Town Council,Enterprise,Noise,Medium,Closed,0.4,Residents on Tanner Street say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-06003,2026-06-05,Hearthstone Markets Co,Max,Feature request,Low,Closed,16.7,Could invoices show which hero did each mission?
+SUP-06004,2026-06-05,Saltgrave Theatre Ltd,Max,Billing,Medium,Closed,6.3,Please send a copy of last month's invoice to our finance team.
+SUP-06005,2026-06-10,Quayside Science Centre Group,Max,Hero conduct,Low,Closed,3.6,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-06006,2026-06-10,Tidewater Museum,Max,Account access,Medium,Closed,4.7,A new starter can't log in to the booking app.
+SUP-06007,2026-06-11,Quillfeather Concert Hall Co,Max,Feature request,Low,Closed,6.4,Can we book a hero for the same slot every week?
+SUP-06008,2026-06-11,Millrace Opera House,Max,Property damage,High,Closed,6.5,Forecaster landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-06009,2026-06-11,Mossbank Removals,Max,Hero conduct,Low,Closed,16.5,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-06010,2026-06-12,Harbourside Shopping Centre,Enterprise,Late arrival,Medium,Closed,0.8,Our product launch started without a hero. Findwell turned up 40 minutes late and blamed the tram.
+SUP-06011,2026-06-12,Copperkettle Museum Co,Max,Billing,Medium,Closed,6.1,Please send a copy of last month's invoice to our finance team.
+SUP-06012,2026-06-15,Juniper Biscuits Group,Pro,Account access,Medium,Closed,13.0,Our admin left and nobody can add seats.
+SUP-06013,2026-06-16,Rookery Concert Hall,Max,Noise,Medium,Resolved,4.9,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-06014,2026-06-17,Fallowmere Cinema Ltd,Max,Account access,Medium,Closed,2.3,Our admin left and nobody can add seats.
+SUP-06015,2026-06-17,Cormorant Aquarium,Max,Property damage,High,Closed,1.9,A resident on Chandlers Row reports Findwell knocked over their greenhouse chasing a runaway kite.
+SUP-06016,2026-06-17,Gullwing Zoo,Max,Feature request,Low,Closed,1.6,Could invoices show which hero did each mission?
+SUP-06017,2026-06-17,Harbourside Kites Ltd,Pro,Late arrival,Medium,Closed,5.8,Inbox Zero arrived 25 minutes after the booked start of our store opening.
+SUP-06018,2026-06-17,Wrenfield Town Council,Enterprise,Billing,Medium,Closed,0.3,Please send a copy of last month's invoice to our finance team.
+SUP-06019,2026-06-18,Inkwell Museum Group,Max,Feature request,Low,Closed,3.6,Could invoices show which hero did each mission?
+SUP-06020,2026-06-18,Sandpiper Bakery,Pro,Feature request,Low,Resolved,13.0,Can we book a hero for the same slot every week?
+SUP-06021,2026-06-19,Glasswork Bakery,Pro,Account access,Medium,Closed,58.3,A new starter can't log in to the booking app.
+SUP-06022,2026-06-19,Brindlemouth City Council,Enterprise,Late arrival,Medium,Closed,0.3,Merge Lane arrived 15 minutes after the booked start of our product launch.
+SUP-06023,2026-06-19,Teaspoon Cinema,Max,Feature request,Low,Closed,2.9,Can we book a hero for the same slot every week?
+SUP-06024,2026-06-19,Millrace Couriers,Max,Noise,Medium,Closed,2.2,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-06025,2026-06-22,Teaspoon Cinema,Max,Billing,Medium,Closed,1.8,Our invoice shows 5 seats but we only reserved 3 patrol posts.
+SUP-06026,2026-06-22,Copperkettle Department Store,Enterprise,Property damage,Urgent,Resolved,0.2,A resident on Ropewalk Lane reports Mute Button knocked over their bus shelter chasing a runaway kite.
+SUP-06027,2026-06-24,Quayside Garden Centre,Pro,Noise,Medium,Closed,15.6,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-06028,2026-06-24,Saltgrave Stadium,Enterprise,Noise,Medium,Resolved,0.2,Residents on Saltpan Hill say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-06029,2026-06-24,Fallowmere Cinema Ltd,Max,Billing,Medium,Closed,2.5,Our invoice shows 9 seats but we only reserved 7 patrol posts.
+SUP-06030,2026-06-24,Silverbirch Concert Hall & Sons,Max,Account access,Medium,Resolved,18.4,Our admin left and nobody can add seats.
+SUP-06031,2026-06-25,Gorsewick Town Council,Max,Hero conduct,Low,Closed,1.6,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-06032,2026-06-25,Silverbirch Concert Hall & Sons,Max,Property damage,High,Closed,3.3,A resident on Quay Road reports Late Shift knocked over their bus shelter chasing a runaway kite.
+SUP-06033,2026-06-26,Driftwood Umbrellas Co,Pro,Noise,Medium,Closed,20.2,Late Shift was patrolling Tanner Street at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-06034,2026-06-29,Rookery Concert Hall,Max,Booking app,High,Closed,1.1,The booking app shows Brisk as free but the booking fails with an error.
+SUP-06035,2026-06-29,Wrenfield Town Council,Enterprise,Late arrival,Medium,Closed,0.2,Forecaster arrived 15 minutes after the booked start of our store opening.
+SUP-06036,2026-06-29,Saltgrave Logistics Co,Enterprise,Billing,Medium,Closed,0.6,Our invoice shows 40 seats but we only reserved 37 patrol posts.
+SUP-06037,2026-06-30,Bellfounder Toy Company Co,Pro,Booking app,High,Closed,74.5,We can't change the end time of a mission once it's booked.

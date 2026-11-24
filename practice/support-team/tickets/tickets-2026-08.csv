@@ -1,0 +1,39 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-08001,2026-08-03,Ravelstone Biscuits Group,Pro,Account access,Medium,Closed,13.7,A new starter can't log in to the booking app.
+SUP-08002,2026-08-03,Brackwater Kites Group,Pro,Hero conduct,Low,Closed,33.0,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-08003,2026-08-03,Inkwell Museum Group,Max,Feature request,Low,Resolved,1.1,Can we book a hero for the same slot every week?
+SUP-08004,2026-08-04,Brindle Festival,Max,Billing,Medium,Closed,1.8,Our invoice shows 9 seats but we only reserved 7 patrol posts.
+SUP-08005,2026-08-04,Wickerbay Rowing Club Ltd,Pro,Feature request,Low,Resolved,6.8,Can we book a hero for the same slot every week?
+SUP-08006,2026-08-05,Harbourside Markets Ltd,Max,Account access,Medium,Closed,4.0,Our admin left and nobody can add seats.
+SUP-08007,2026-08-06,Bellfounder Concert Hall Ltd,Max,Account access,Medium,Closed,3.3,A new starter can't log in to the booking app.
+SUP-08008,2026-08-06,Oystergate Ferries,Max,Late arrival,Medium,Closed,0.6,Thermostat arrived 15 minutes after the booked start of our school fete.
+SUP-08009,2026-08-07,Copperkettle Theatre & Sons,Max,Billing,Medium,Closed,3.1,Our invoice shows 9 seats but we only reserved 7 patrol posts.
+SUP-08010,2026-08-10,Ravelstone Biscuits Group,Pro,Billing,Medium,Closed,6.5,Please send a copy of last month's invoice to our finance team.
+SUP-08011,2026-08-11,Tollgate Theatre Co,Max,Late arrival,Medium,Closed,5.3,Findwell arrived 15 minutes after the booked start of our product launch.
+SUP-08012,2026-08-11,Fallowmere Cinema Ltd,Max,Hero conduct,Low,Closed,6.3,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-08013,2026-08-12,Driftwood Department Store,Enterprise,Hero conduct,Low,Resolved,1.5,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-08014,2026-08-12,Inkwell Museum Group,Max,Account access,Medium,Closed,5.5,A new starter can't log in to the booking app.
+SUP-08015,2026-08-13,Hollyhock Department Store Ltd,Enterprise,Booking app,High,Resolved,0.5,We can't change the end time of a mission once it's booked.
+SUP-08016,2026-08-14,Larkspur Clockworks & Sons,Pro,Billing,Medium,Closed,18.3,We moved down a tier last month but the invoice still uses the old price.
+SUP-08017,2026-08-14,Cormorant Couriers Group,Max,Account access,Medium,Closed,17.9,A new starter can't log in to the booking app.
+SUP-08018,2026-08-17,Sallowfield Clockworks Group,Pro,Billing,Medium,Resolved,15.0,Our invoice shows 2 seats but we only reserved 1 patrol posts.
+SUP-08019,2026-08-17,Mapleton Print Works,Pro,Noise,Medium,Closed,20.0,Late Shift was patrolling Saltpan Hill at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-08020,2026-08-17,Pennywhistle Kites Co,Pro,Feature request,Low,Closed,65.4,Can we book a hero for the same slot every week?
+SUP-08021,2026-08-17,Larkspur Clockworks & Sons,Pro,Feature request,Low,Closed,17.8,Can we book a hero for the same slot every week?
+SUP-08022,2026-08-18,Sallowfield Clockworks Group,Pro,Property damage,High,Resolved,4.1,Lady Lanyard left a dent in our shop sign. We were told claims go through this inbox.
+SUP-08023,2026-08-20,Ravelstone Clockworks & Sons,Pro,Feature request,Low,Closed,10.1,Could invoices show which hero did each mission?
+SUP-08024,2026-08-21,Fennimore Zoo,Max,Feature request,Low,Closed,2.8,Could invoices show which hero did each mission?
+SUP-08025,2026-08-21,Quillfeather Concert Hall Co,Max,Booking app,High,Closed,4.4,The app let us book Forecaster for two missions at the same time.
+SUP-08026,2026-08-24,Larkspur Science Centre,Max,Hero conduct,Low,Closed,2.3,Quorum made our committee decide in four minutes. Half of them wanted to keep talking.
+SUP-08027,2026-08-24,Ravelstone Biscuits Group,Pro,Billing,Medium,Resolved,8.6,We moved down a tier last month but the invoice still uses the old price.
+SUP-08028,2026-08-24,Windlass Pottery & Sons,Pro,Booking app,High,Closed,9.4,The app let us book Inbox Zero for two missions at the same time.
+SUP-08029,2026-08-25,Oystergate Ferries,Max,Property damage,High,Closed,6.9,Thermostat landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-08030,2026-08-26,Fennimore Zoo,Max,Property damage,High,Closed,1.9,A resident on Quay Road reports Brisk knocked over their market stall chasing a runaway kite.
+SUP-08031,2026-08-27,Hollyhock Department Store Ltd,Enterprise,Hero conduct,Low,Closed,0.1,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-08032,2026-08-28,Fennimore Zoo,Max,Billing,Medium,Resolved,4.3,Please send a copy of last month's invoice to our finance team.
+SUP-08033,2026-08-28,Harbourside Kites Ltd,Pro,Billing,Medium,Resolved,5.6,Our invoice shows 3 seats but we only reserved 1 patrol posts.
+SUP-08034,2026-08-28,Ravelstone Couriers,Max,Billing,Medium,Resolved,6.9,Please send a copy of last month's invoice to our finance team.
+SUP-08035,2026-08-31,Tidewater Concert Hall & Sons,Max,Billing,Medium,Closed,3.2,Our invoice shows 11 seats but we only reserved 9 patrol posts.
+SUP-08036,2026-08-31,Glasswork Biscuits Ltd,Pro,Feature request,Low,Closed,9.1,Can we book a hero for the same slot every week?
+SUP-08037,2026-08-31,Cormorant Couriers Group,Max,Noise,Medium,Closed,2.9,Residents on Quay Road say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-08038,2026-08-31,Ferrow Museum Co,Max,Account access,Medium,Closed,1.4,A new starter can't log in to the booking app.

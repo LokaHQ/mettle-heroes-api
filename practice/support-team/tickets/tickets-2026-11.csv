@@ -1,0 +1,40 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-11001,2026-11-03,Tidewater Markets Co,Max,Property damage,High,Resolved,7.2,Inbox Zero landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-11002,2026-11-04,Thistledown Pottery Co,Pro,Hero conduct,Low,Closed,12.0,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-11003,2026-11-05,Tidewater Concert Hall & Sons,Max,Noise,Medium,Closed,6.2,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-11004,2026-11-05,Larkspur Clockworks & Sons,Pro,Hero conduct,Low,Resolved,2.2,Ballast sat down in the doorway and the lunch delivery could not get in.
+SUP-11005,2026-11-05,Bramblecote Museum Ltd,Max,Account access,Medium,Resolved,5.4,A new starter can't log in to the booking app.
+SUP-11006,2026-11-05,Saltgrave Stadium,Enterprise,Property damage,Urgent,Resolved,0.7,A resident on Ropewalk Lane reports Lady Lanyard knocked over their greenhouse chasing a runaway kite.
+SUP-11007,2026-11-05,Quayside Science Centre Group,Max,Property damage,High,Closed,3.8,Quorum left a dent in our shop awning. We were told claims go through this inbox.
+SUP-11008,2026-11-05,Marigold Print Works,Pro,Property damage,High,Resolved,64.3,A resident on Tanner Street reports Quorum knocked over their shop awning chasing a runaway kite.
+SUP-11009,2026-11-06,Larkspur Garden Centre Group,Pro,Billing,Medium,Closed,5.2,Please send a copy of last month's invoice to our finance team.
+SUP-11010,2026-11-06,Fallowmere Kites,Pro,Feature request,Low,Closed,10.6,Could invoices show which hero did each mission?
+SUP-11011,2026-11-06,Rookery Concert Hall,Max,Property damage,High,Resolved,6.9,A resident on Chandlers Row reports Lowtide knocked over their bus shelter chasing a runaway kite.
+SUP-11012,2026-11-09,Ravelstone Biscuits Group,Pro,Billing,Medium,Closed,18.6,We moved down a tier last month but the invoice still uses the old price.
+SUP-11013,2026-11-09,Oakhollow Kites,Pro,Billing,Medium,Closed,60.8,Our invoice shows 2 seats but we only reserved 1 patrol posts.
+SUP-11014,2026-11-10,Pebbleford Theatre & Sons,Max,Feature request,Low,Resolved,2.1,Can we book a hero for the same slot every week?
+SUP-11015,2026-11-10,Oakhollow Kites,Pro,Feature request,Low,Closed,7.3,Can we book a hero for the same slot every week?
+SUP-11016,2026-11-10,Kettleby Garden Centre,Pro,Booking app,Medium,Closed,3.6,We've used all our included hero-hours for the month and nobody warned us. Can we get a warning before this happens?
+SUP-11017,2026-11-11,Tollgate Print Works & Sons,Pro,Billing,Medium,Resolved,4.9,We moved down a tier last month but the invoice still uses the old price.
+SUP-11018,2026-11-11,Tidewater Concert Hall & Sons,Max,Booking app,High,Closed,0.8,The booking app shows Brisk as free but the booking fails with an error.
+SUP-11019,2026-11-11,Ravelstone Couriers,Max,Feature request,Low,Closed,1.2,Could invoices show which hero did each mission?
+SUP-11020,2026-11-11,Saltgrave Toy Company Co,Pro,Noise,Medium,Closed,4.9,Late Shift was patrolling Quay Road at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-11021,2026-11-12,Teaspoon Laundry,Pro,Property damage,High,Resolved,16.7,Late Shift left a dent in our shop sign. We were told claims go through this inbox.
+SUP-11022,2026-11-12,Copperkettle Department Store,Enterprise,Billing,Medium,Resolved,0.5,Our invoice shows 47 seats but we only reserved 45 patrol posts.
+SUP-11023,2026-11-13,Brambleton Rowing Club,Pro,Feature request,Low,Closed,11.6,Could invoices show which hero did each mission?
+SUP-11024,2026-11-16,Gullwing Zoo,Max,Booking app,High,Resolved,0.7,The app let us book Inbox Zero for two missions at the same time.
+SUP-11025,2026-11-16,Windlass Biscuits & Sons,Pro,Property damage,High,Resolved,6.4,Merge Lane left a dent in our shop awning. We were told claims go through this inbox.
+SUP-11026,2026-11-18,Brindle Festival,Max,Late arrival,Medium,Closed,5.3,Our charity fun run started without a hero. Lowtide turned up 40 minutes late and blamed the tram.
+SUP-11027,2026-11-18,Thistledown Pottery Co,Pro,Noise,Medium,Resolved,16.6,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-11028,2026-11-19,Millrace Opera House,Max,Late arrival,Medium,Closed,13.7,Paperweight arrived 40 minutes after the booked start of our product launch.
+SUP-11029,2026-11-19,Bellfounder Ferries,Enterprise,Billing,Medium,Closed,0.5,Please send a copy of last month's invoice to our finance team.
+SUP-11030,2026-11-20,Fallowmere Kites,Pro,Noise,Medium,Closed,12.3,Residents on Chandlers Row say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-11031,2026-11-20,Teaspoon Laundry,Pro,Booking app,High,Closed,2.9,The booking app shows Quorum as free but the booking fails with an error.
+SUP-11032,2026-11-20,Sandpiper Bakery,Pro,Booking app,High,Closed,18.8,The booking app shows Pivot as free but the booking fails with an error.
+SUP-11033,2026-11-23,Bramblecote Museum Ltd,Max,Hero conduct,Low,Closed,5.9,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-11034,2026-11-24,Wrenfield Department Store Ltd,Enterprise,Billing,Medium,Resolved,1.4,Our invoice shows 50 seats but we only reserved 49 patrol posts.
+SUP-11035,2026-11-24,Hollyhock Print Works,Pro,Booking app,Medium,Closed,17.6,Our booking was refused because we ran out of hero-hours. We didn't know we were close to the limit.
+SUP-11036,2026-11-26,Cormorant Aquarium,Max,Property damage,High,Closed,1.8,Inbox Zero landed on our market stall during the patrol. We need someone to assess the damage.
+SUP-11037,2026-11-27,Moorhen Biscuits,Pro,Property damage,High,Resolved,20.7,Paperweight landed on our bike shed during the patrol. We need someone to assess the damage.
+SUP-11038,2026-11-27,Kettleby Garden Centre,Pro,Account access,Medium,Closed,18.0,A new starter can't log in to the booking app.
+SUP-11039,2026-11-30,Driftwood Umbrellas Co,Pro,Feature request,Low,Closed,18.1,Can we book a hero for the same slot every week?

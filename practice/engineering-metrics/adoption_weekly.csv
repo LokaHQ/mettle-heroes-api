@@ -1,0 +1,40 @@
+week_start,group,onboarded,weekly_active,sessions
+2026-06-01,Core API,2,2,18
+2026-06-01,Dispatch app,0,0,0
+2026-06-01,Billing and data,1,1,12
+2026-06-08,Core API,3,3,28
+2026-06-08,Dispatch app,1,1,8
+2026-06-08,Billing and data,1,1,7
+2026-06-15,Core API,4,4,37
+2026-06-15,Dispatch app,2,2,20
+2026-06-15,Billing and data,1,1,8
+2026-06-22,Core API,5,5,39
+2026-06-22,Dispatch app,3,3,12
+2026-06-22,Billing and data,1,1,8
+2026-06-29,Core API,5,5,37
+2026-06-29,Dispatch app,4,4,29
+2026-06-29,Billing and data,1,1,8
+2026-07-06,Core API,5,5,47
+2026-07-06,Dispatch app,4,4,27
+2026-07-06,Billing and data,2,2,18
+2026-07-13,Core API,5,5,35
+2026-07-13,Dispatch app,4,1,1
+2026-07-13,Billing and data,3,3,24
+2026-07-20,Core API,5,5,38
+2026-07-20,Dispatch app,4,1,3
+2026-07-20,Billing and data,3,3,24
+2026-07-27,Core API,5,5,37
+2026-07-27,Dispatch app,4,4,19
+2026-07-27,Billing and data,3,3,20
+2026-08-03,Core API,5,5,48
+2026-08-03,Dispatch app,4,4,18
+2026-08-03,Billing and data,3,2,15
+2026-08-10,Core API,5,5,32
+2026-08-10,Dispatch app,4,4,23
+2026-08-10,Billing and data,3,3,23
+2026-08-17,Core API,5,5,37
+2026-08-17,Dispatch app,4,4,28
+2026-08-17,Billing and data,3,3,16
+2026-08-24,Core API,5,5,36
+2026-08-24,Dispatch app,4,4,23
+2026-08-24,Billing and data,3,2,12

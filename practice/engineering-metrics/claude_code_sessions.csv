@@ -1,0 +1,891 @@
+session_id,date,user_email,group,model_class,effort,duration_min,peak_context_tokens,cache_hit_pct,resumed_after_idle,input_tokens,output_tokens,cache_read_tokens,cache_write_tokens,estimated_spend_usd
+S1001,2026-06-01,ines.okafor@mettleco.example,Core API,premium-class,high,15,28179,54,yes,11905,19290,124632,61980,1.98
+S1002,2026-06-01,ines.okafor@mettleco.example,Core API,premium-class,medium,36,45504,96,no,38254,29356,891946,34814,3.18
+S1003,2026-06-02,ines.okafor@mettleco.example,Core API,light-class,low,29,45639,52,yes,31554,18615,367666,181337,0.39
+S1004,2026-06-02,ines.okafor@mettleco.example,Core API,mid-class,medium,83,84657,56,yes,62760,56017,2236772,905008,5.09
+S1005,2026-06-03,ines.okafor@mettleco.example,Core API,mid-class,medium,45,27758,86,no,33414,63519,609661,59647,1.46
+S1006,2026-06-03,ines.okafor@mettleco.example,Core API,premium-class,max,13,29319,88,no,9871,28794,184649,21964,2.0
+S1007,2026-06-04,ines.okafor@mettleco.example,Core API,mid-class,medium,20,54042,86,no,13416,26725,477472,55077,0.79
+S1008,2026-06-04,ines.okafor@mettleco.example,Core API,mid-class,high,6,13095,80,no,4807,6314,32211,8074,0.15
+S1009,2026-06-05,ines.okafor@mettleco.example,Core API,mid-class,low,39,50554,55,yes,28222,21560,601580,259275,1.56
+S1010,2026-06-05,ines.okafor@mettleco.example,Core API,mid-class,low,71,98763,85,no,64702,32181,3360455,325722,2.91
+S1011,2026-06-08,ines.okafor@mettleco.example,Core API,mid-class,high,43,54350,90,no,43154,49694,1160251,77753,1.51
+S1012,2026-06-08,ines.okafor@mettleco.example,Core API,premium-class,medium,23,57838,88,no,13586,19485,628100,59731,2.48
+S1013,2026-06-09,ines.okafor@mettleco.example,Core API,premium-class,high,88,45066,88,no,75702,120270,1963650,141524,10.5
+S1014,2026-06-09,ines.okafor@mettleco.example,Core API,premium-class,medium,26,36464,90,no,22043,27186,471455,37332,2.52
+S1015,2026-06-10,ines.okafor@mettleco.example,Core API,premium-class,high,46,58617,89,no,40293,129525,1332683,103319,9.5
+S1016,2026-06-10,ines.okafor@mettleco.example,Core API,mid-class,medium,5,21283,58,yes,4736,4253,37739,20428,0.17
+S1017,2026-06-11,ines.okafor@mettleco.example,Core API,light-class,medium,27,35896,97,no,19796,21773,500051,18779,0.2
+S1018,2026-06-12,ines.okafor@mettleco.example,Core API,premium-class,high,18,28208,92,no,16705,9584,240877,18455,1.12
+S1019,2026-06-12,ines.okafor@mettleco.example,Core API,mid-class,high,31,30334,89,no,26353,61200,472931,37364,1.28
+S1020,2026-06-15,ines.okafor@mettleco.example,Core API,mid-class,max,36,99471,89,no,25828,93458,1730329,134796,2.5
+S1021,2026-06-16,ines.okafor@mettleco.example,Core API,premium-class,medium,111,55970,86,no,67830,161749,3008233,264251,15.08
+S1022,2026-06-17,ines.okafor@mettleco.example,Core API,mid-class,high,58,58278,87,no,56458,35893,1654989,146953,1.76
+S1023,2026-06-17,ines.okafor@mettleco.example,Core API,mid-class,medium,30,31011,95,no,33971,29163,483773,22143,0.77
+S1024,2026-06-17,ines.okafor@mettleco.example,Core API,mid-class,max,21,28106,89,no,27878,48837,283409,25518,1.0
+S1025,2026-06-17,ines.okafor@mettleco.example,Core API,mid-class,medium,7,34620,91,no,6918,6353,128895,17232,0.22
+S1026,2026-06-18,ines.okafor@mettleco.example,Core API,premium-class,medium,57,42038,94,no,31783,36116,1250184,56252,4.08
+S1027,2026-06-18,ines.okafor@mettleco.example,Core API,mid-class,high,12,26439,53,yes,9380,30589,85649,46675,0.69
+S1028,2026-06-19,ines.okafor@mettleco.example,Core API,mid-class,high,33,25842,89,no,27406,41694,426650,33208,0.96
+S1029,2026-06-22,ines.okafor@mettleco.example,Core API,premium-class,medium,11,27696,94,no,7994,7447,159709,13900,0.79
+S1030,2026-06-22,ines.okafor@mettleco.example,Core API,mid-class,high,17,13789,91,no,11811,12421,116244,9774,0.29
+S1031,2026-06-23,ines.okafor@mettleco.example,Core API,premium-class,medium,40,37657,89,no,33744,37750,752522,60245,3.73
+S1032,2026-06-23,ines.okafor@mettleco.example,Core API,mid-class,high,44,41286,84,no,46348,115238,856402,92724,2.47
+S1033,2026-06-23,ines.okafor@mettleco.example,Core API,light-class,medium,15,38672,91,no,10766,9284,289355,25903,0.12
+S1034,2026-06-23,ines.okafor@mettleco.example,Core API,mid-class,medium,48,75110,91,no,37438,45352,1815353,117059,1.78
+S1035,2026-06-24,ines.okafor@mettleco.example,Core API,mid-class,medium,130,88381,92,no,118269,220973,6037119,272443,6.5
+S1036,2026-06-24,ines.okafor@mettleco.example,Core API,premium-class,low,45,52415,87,no,48625,48098,1172018,102213,5.34
+S1037,2026-06-25,ines.okafor@mettleco.example,Core API,mid-class,low,23,24742,60,yes,16084,12841,183515,68140,0.55
+S1038,2026-06-25,ines.okafor@mettleco.example,Core API,mid-class,low,23,27497,94,no,20625,10838,319189,18107,0.39
+S1039,2026-06-26,ines.okafor@mettleco.example,Core API,mid-class,medium,37,46388,89,no,34943,34637,844203,68026,1.13
+S1040,2026-06-29,ines.okafor@mettleco.example,Core API,premium-class,medium,218,106092,54,yes,139207,236726,7112550,3006100,57.92
+S1041,2026-06-29,ines.okafor@mettleco.example,Core API,light-class,low,74,32385,90,no,50786,54251,1229093,76446,0.54
+S1042,2026-06-30,ines.okafor@mettleco.example,Core API,light-class,medium,24,21652,89,no,20487,24258,257647,22211,0.2
+S1043,2026-06-30,ines.okafor@mettleco.example,Core API,mid-class,medium,40,64595,48,yes,30364,29162,702721,397396,2.23
+S1044,2026-06-30,ines.okafor@mettleco.example,Core API,premium-class,medium,52,69205,97,no,36773,37094,1928103,51113,4.79
+S1045,2026-07-01,ines.okafor@mettleco.example,Core API,mid-class,medium,237,141270,69,no,210606,232582,14212491,3191939,20.35
+S1046,2026-07-01,ines.okafor@mettleco.example,Core API,premium-class,low,32,53139,55,yes,28189,29759,555247,240441,5.33
+S1047,2026-07-01,ines.okafor@mettleco.example,Core API,mid-class,high,23,17038,85,no,32313,49181,191806,23020,0.98
+S1048,2026-07-01,ines.okafor@mettleco.example,Core API,mid-class,low,90,48154,85,no,84005,46193,2276146,211647,2.42
+S1049,2026-07-02,ines.okafor@mettleco.example,Core API,mid-class,high,52,33615,87,no,35298,86251,944797,78761,1.98
+S1050,2026-07-02,ines.okafor@mettleco.example,Core API,premium-class,medium,39,27477,88,no,27374,26485,562419,47557,2.75
+S1051,2026-07-03,ines.okafor@mettleco.example,Core API,premium-class,high,12,28309,96,no,11030,17615,180611,13190,1.34
+S1052,2026-07-03,ines.okafor@mettleco.example,Core API,premium-class,high,44,69044,89,no,32661,92373,1639207,121245,8.1
+S1053,2026-07-06,ines.okafor@mettleco.example,Core API,mid-class,medium,48,52912,90,no,35337,45445,1369478,94897,1.55
+S1054,2026-07-06,ines.okafor@mettleco.example,Core API,premium-class,medium,30,33964,87,no,20642,28244,524009,50305,2.77
+S1055,2026-07-06,ines.okafor@mettleco.example,Core API,mid-class,low,64,143405,94,no,57789,57058,5249534,203166,3.37
+S1056,2026-07-07,ines.okafor@mettleco.example,Core API,premium-class,medium,5,20907,89,no,2966,4841,61786,10799,0.47
+S1057,2026-07-07,ines.okafor@mettleco.example,Core API,premium-class,high,82,47130,94,no,63145,136304,2201489,89739,10.77
+S1058,2026-07-08,ines.okafor@mettleco.example,Core API,mid-class,medium,32,30360,97,no,38232,31453,554646,18667,0.82
+S1059,2026-07-08,ines.okafor@mettleco.example,Core API,mid-class,low,22,16251,87,no,20465,19352,172740,18052,0.47
+S1060,2026-07-09,ines.okafor@mettleco.example,Core API,mid-class,medium,32,45643,52,yes,31486,28155,448492,220738,1.48
+S1061,2026-07-09,ines.okafor@mettleco.example,Core API,premium-class,medium,8,49226,92,no,4963,14985,201004,24929,1.31
+S1062,2026-07-10,ines.okafor@mettleco.example,Core API,mid-class,low,12,28820,84,no,9531,7373,161395,24666,0.28
+S1063,2026-07-10,ines.okafor@mettleco.example,Core API,light-class,low,22,43577,93,no,18896,11224,539186,34554,0.17
+S1064,2026-07-13,ines.okafor@mettleco.example,Core API,mid-class,medium,18,45038,87,no,17482,38844,436026,46434,0.94
+S1065,2026-07-13,ines.okafor@mettleco.example,Core API,light-class,medium,36,48345,92,no,34915,35901,990701,56312,0.38
+S1066,2026-07-14,ines.okafor@mettleco.example,Core API,mid-class,medium,90,57082,93,no,93531,102329,2926070,136918,3.21
+S1067,2026-07-14,ines.okafor@mettleco.example,Core API,light-class,low,11,16791,90,no,9359,4055,83340,10416,0.05
+S1068,2026-07-14,ines.okafor@mettleco.example,Core API,light-class,high,53,88067,56,yes,55922,66998,1591978,647982,1.36
+S1069,2026-07-16,ines.okafor@mettleco.example,Core API,premium-class,medium,66,31521,90,no,63863,84179,1131679,73218,6.89
+S1070,2026-07-16,ines.okafor@mettleco.example,Core API,mid-class,max,71,63497,86,no,59549,166720,2348342,218684,4.2
+S1071,2026-07-17,ines.okafor@mettleco.example,Core API,premium-class,high,28,44358,86,no,19128,48852,633510,66560,4.1
+S1072,2026-07-17,ines.okafor@mettleco.example,Core API,mid-class,medium,39,41712,90,no,31530,55822,870047,64054,1.43
+S1073,2026-07-17,ines.okafor@mettleco.example,Core API,light-class,medium,18,33158,96,no,13434,16122,317576,17538,0.15
+S1074,2026-07-20,ines.okafor@mettleco.example,Core API,mid-class,medium,37,53276,89,no,38489,39339,1047069,84402,1.34
+S1075,2026-07-20,ines.okafor@mettleco.example,Core API,mid-class,high,47,27605,93,no,69664,59854,739006,37246,1.47
+S1076,2026-07-21,ines.okafor@mettleco.example,Core API,premium-class,high,126,72934,90,no,116778,294685,5094360,305106,24.81
+S1077,2026-07-24,ines.okafor@mettleco.example,Core API,light-class,low,53,128027,91,no,47796,17798,3756826,220763,0.79
+S1078,2026-07-24,ines.okafor@mettleco.example,Core API,mid-class,high,93,65510,92,no,111461,119516,3414577,165176,3.77
+S1079,2026-07-27,ines.okafor@mettleco.example,Core API,mid-class,medium,25,43170,54,yes,25152,28410,337653,156396,1.19
+S1080,2026-07-28,ines.okafor@mettleco.example,Core API,premium-class,medium,29,34077,91,no,19979,29167,512623,38157,2.65
+S1081,2026-07-28,ines.okafor@mettleco.example,Core API,light-class,medium,37,40445,93,no,23501,40239,829693,46668,0.37
+S1082,2026-07-28,ines.okafor@mettleco.example,Core API,premium-class,high,34,52409,88,no,27036,126583,917967,80995,8.53
+S1083,2026-07-28,ines.okafor@mettleco.example,Core API,mid-class,medium,25,45978,55,yes,13419,13672,366300,163226,0.97
+S1084,2026-07-29,ines.okafor@mettleco.example,Core API,premium-class,medium,8,21435,92,no,5219,8750,87378,10928,0.71
+S1085,2026-07-31,ines.okafor@mettleco.example,Core API,premium-class,high,59,31635,88,no,60207,63410,990874,75832,5.71
+S1086,2026-07-31,ines.okafor@mettleco.example,Core API,premium-class,medium,93,79532,90,no,69475,84765,4062948,241782,12.02
+S1087,2026-07-31,ines.okafor@mettleco.example,Core API,light-class,high,31,45199,49,yes,27476,39271,414635,233333,0.56
+S1088,2026-07-31,ines.okafor@mettleco.example,Core API,mid-class,medium,39,58228,85,no,44667,61335,1153545,119917,1.85
+S1089,2026-08-03,ines.okafor@mettleco.example,Core API,mid-class,medium,39,55589,95,no,50674,31249,1304671,55887,1.22
+S1090,2026-08-04,ines.okafor@mettleco.example,Core API,light-class,medium,23,18735,80,no,24691,29807,211977,33253,0.24
+S1091,2026-08-04,ines.okafor@mettleco.example,Core API,mid-class,high,61,59793,59,yes,93279,51341,1372951,498523,3.33
+S1092,2026-08-05,ines.okafor@mettleco.example,Core API,mid-class,medium,13,33898,89,no,9553,10392,250159,26878,0.36
+S1093,2026-08-05,ines.okafor@mettleco.example,Core API,premium-class,medium,38,55576,88,no,32281,56095,1217593,99268,5.59
+S1094,2026-08-06,ines.okafor@mettleco.example,Core API,premium-class,medium,34,35907,90,no,36290,43418,682930,52469,3.87
+S1095,2026-08-06,ines.okafor@mettleco.example,Core API,mid-class,medium,60,87742,89,no,66965,86323,3049811,214004,3.21
+S1096,2026-08-07,ines.okafor@mettleco.example,Core API,mid-class,medium,26,31264,92,no,23580,21688,475041,31712,0.66
+S1097,2026-08-07,ines.okafor@mettleco.example,Core API,premium-class,high,45,34000,88,no,44157,121743,879272,73754,8.33
+S1098,2026-08-11,ines.okafor@mettleco.example,Core API,light-class,low,35,33966,90,no,30998,33811,684690,50325,0.33
+S1099,2026-08-11,ines.okafor@mettleco.example,Core API,light-class,low,65,24383,97,no,84550,61152,973539,25234,0.52
+S1100,2026-08-12,ines.okafor@mettleco.example,Core API,light-class,medium,28,40942,88,no,26565,23056,636749,58355,0.28
+S1101,2026-08-13,ines.okafor@mettleco.example,Core API,mid-class,high,38,60342,88,no,36749,63296,1259584,103397,1.83
+S1102,2026-08-13,ines.okafor@mettleco.example,Core API,mid-class,low,116,163837,92,no,134109,103434,11356563,564414,7.48
+S1103,2026-08-14,ines.okafor@mettleco.example,Core API,mid-class,medium,15,25375,86,no,14729,25331,205809,25813,0.58
+S1104,2026-08-14,ines.okafor@mettleco.example,Core API,mid-class,medium,38,34525,91,no,31243,40258,738420,50291,1.11
+S1105,2026-08-17,ines.okafor@mettleco.example,Core API,mid-class,low,25,35747,96,no,28209,17677,564737,25475,0.61
+S1106,2026-08-18,ines.okafor@mettleco.example,Core API,mid-class,medium,12,59682,80,no,9878,6200,336146,64264,0.46
+S1107,2026-08-19,ines.okafor@mettleco.example,Core API,light-class,medium,48,43772,91,no,43246,35927,1226226,73659,0.44
+S1108,2026-08-20,ines.okafor@mettleco.example,Core API,mid-class,medium,95,33695,90,no,92907,132552,1857676,116567,3.26
+S1109,2026-08-24,ines.okafor@mettleco.example,Core API,mid-class,low,86,139656,92,no,76465,58539,7269346,368687,4.67
+S1110,2026-08-24,ines.okafor@mettleco.example,Core API,mid-class,medium,22,22013,88,no,22073,21029,274876,26160,0.56
+S1111,2026-08-25,ines.okafor@mettleco.example,Core API,mid-class,medium,26,104388,86,no,31210,22346,1476689,160598,1.47
+S1112,2026-08-25,ines.okafor@mettleco.example,Core API,mid-class,low,38,22551,81,no,27969,18914,453467,60585,0.73
+S1113,2026-08-25,ines.okafor@mettleco.example,Core API,mid-class,low,202,90974,74,no,209084,117416,8892361,1595910,11.04
+S1114,2026-08-25,ines.okafor@mettleco.example,Core API,premium-class,high,180,156931,57,yes,179060,494785,10613288,4005205,87.21
+S1115,2026-08-26,ines.okafor@mettleco.example,Core API,premium-class,medium,111,153843,91,no,112525,75543,10080942,549215,21.85
+S1116,2026-08-26,ines.okafor@mettleco.example,Core API,mid-class,medium,9,20574,51,yes,7239,14707,61815,37050,0.4
+S1117,2026-08-27,ines.okafor@mettleco.example,Core API,light-class,high,39,40914,88,no,39114,116026,887401,77561,0.8
+S1118,2026-08-27,ines.okafor@mettleco.example,Core API,premium-class,medium,53,59186,95,no,37374,55540,1927623,69522,5.95
+S1119,2026-08-28,ines.okafor@mettleco.example,Core API,premium-class,medium,159,136223,90,no,147704,238089,12713507,762166,35.62
+S1120,2026-08-28,ines.okafor@mettleco.example,Core API,mid-class,high,11,34077,92,no,10225,16904,184489,20314,0.42
+S1121,2026-08-28,ines.okafor@mettleco.example,Core API,mid-class,high,28,28434,84,no,29542,35796,420187,51544,0.94
+S1122,2026-06-09,tomasz.varga@mettleco.example,Core API,light-class,medium,29,37431,58,yes,23435,9003,355887,140747,0.28
+S1123,2026-06-09,tomasz.varga@mettleco.example,Core API,mid-class,medium,24,44333,86,no,15489,10355,507323,55581,0.56
+S1124,2026-06-10,tomasz.varga@mettleco.example,Core API,mid-class,high,5,23025,85,no,4262,7854,60134,12447,0.2
+S1125,2026-06-10,tomasz.varga@mettleco.example,Core API,mid-class,low,36,44522,58,yes,26184,15695,506049,194545,1.2
+S1126,2026-06-11,tomasz.varga@mettleco.example,Core API,mid-class,medium,37,65152,92,no,23445,42559,1231677,72538,1.35
+S1127,2026-06-12,tomasz.varga@mettleco.example,Core API,mid-class,low,167,73939,56,yes,150756,139882,3875195,1574101,9.62
+S1128,2026-06-12,tomasz.varga@mettleco.example,Core API,mid-class,medium,45,44850,92,no,47141,44012,1013467,59158,1.33
+S1129,2026-06-12,tomasz.varga@mettleco.example,Core API,mid-class,medium,59,56377,89,no,39595,28328,1650426,117450,1.48
+S1130,2026-06-16,tomasz.varga@mettleco.example,Core API,mid-class,medium,242,350166,56,yes,166559,154817,26729082,10809507,51.38
+S1131,2026-06-16,tomasz.varga@mettleco.example,Core API,mid-class,high,12,29027,90,no,9899,22083,161109,17705,0.48
+S1132,2026-06-17,tomasz.varga@mettleco.example,Core API,premium-class,medium,37,34238,86,no,40662,24694,601774,60869,3.0
+S1133,2026-06-17,tomasz.varga@mettleco.example,Core API,mid-class,medium,217,207772,94,no,243559,211464,23945468,879120,14.38
+S1134,2026-06-17,tomasz.varga@mettleco.example,Core API,mid-class,high,19,43214,91,no,14136,22189,404770,32556,0.62
+S1135,2026-06-17,tomasz.varga@mettleco.example,Core API,mid-class,medium,28,22227,96,no,22899,28837,327340,14177,0.65
+S1136,2026-06-19,tomasz.varga@mettleco.example,Core API,mid-class,high,21,43359,93,no,12838,22732,456253,29846,0.63
+S1137,2026-06-19,tomasz.varga@mettleco.example,Core API,mid-class,high,20,16173,92,no,15068,26227,152579,11640,0.53
+S1138,2026-06-23,tomasz.varga@mettleco.example,Core API,mid-class,high,45,58061,88,no,35224,45054,1252939,106109,1.56
+S1139,2026-06-23,tomasz.varga@mettleco.example,Core API,light-class,high,51,65677,92,no,59532,54907,1742047,92384,0.62
+S1140,2026-06-30,tomasz.varga@mettleco.example,Core API,mid-class,medium,49,56757,94,no,42043,40431,1476806,65056,1.42
+S1141,2026-06-30,tomasz.varga@mettleco.example,Core API,mid-class,medium,10,20604,88,no,7277,3042,92500,12930,0.14
+S1142,2026-06-30,tomasz.varga@mettleco.example,Core API,mid-class,medium,19,36751,95,no,11783,10569,358262,20675,0.38
+S1143,2026-07-03,tomasz.varga@mettleco.example,Core API,mid-class,medium,7,34995,92,no,6870,3281,143303,17518,0.18
+S1144,2026-07-03,tomasz.varga@mettleco.example,Core API,mid-class,medium,11,32097,86,no,6406,10419,183109,25792,0.33
+S1145,2026-07-06,tomasz.varga@mettleco.example,Core API,mid-class,medium,93,59820,54,yes,90309,31825,1837407,791133,4.27
+S1146,2026-07-06,tomasz.varga@mettleco.example,Core API,mid-class,low,9,23556,85,no,6037,2961,111147,17496,0.16
+S1147,2026-07-06,tomasz.varga@mettleco.example,Core API,light-class,medium,29,38281,88,no,29128,20484,559582,51012,0.25
+S1148,2026-07-08,tomasz.varga@mettleco.example,Core API,mid-class,medium,243,140146,51,yes,213022,242216,10708047,5095108,26.59
+S1149,2026-07-09,tomasz.varga@mettleco.example,Core API,light-class,medium,41,32090,95,no,45583,37193,741171,31145,0.34
+S1150,2026-07-09,tomasz.varga@mettleco.example,Core API,mid-class,medium,11,20801,95,no,11279,4712,130737,10680,0.18
+S1151,2026-07-09,tomasz.varga@mettleco.example,Core API,mid-class,medium,93,117254,92,no,72362,59429,6086050,308421,4.09
+S1152,2026-07-13,tomasz.varga@mettleco.example,Core API,premium-class,low,49,49503,93,no,35273,23951,1382869,65399,3.75
+S1153,2026-07-13,tomasz.varga@mettleco.example,Core API,mid-class,high,132,70182,59,yes,80149,171556,3353760,1184393,8.26
+S1154,2026-07-14,tomasz.varga@mettleco.example,Core API,mid-class,low,323,165302,72,no,316411,177594,23601925,4644273,28.11
+S1155,2026-07-14,tomasz.varga@mettleco.example,Core API,mid-class,medium,50,52579,88,no,55788,29164,1429695,118129,1.48
+S1156,2026-07-14,tomasz.varga@mettleco.example,Core API,mid-class,high,46,24691,88,no,31998,55332,603642,48318,1.29
+S1157,2026-07-16,tomasz.varga@mettleco.example,Core API,mid-class,medium,14,26091,90,no,10111,10274,182231,18727,0.31
+S1158,2026-07-16,tomasz.varga@mettleco.example,Core API,mid-class,medium,34,39462,85,no,30536,18058,668584,72293,0.83
+S1159,2026-07-16,tomasz.varga@mettleco.example,Core API,mid-class,medium,9,19302,51,yes,8443,6144,43355,27506,0.23
+S1160,2026-07-17,tomasz.varga@mettleco.example,Core API,light-class,medium,13,28250,96,no,12065,7884,210803,13527,0.09
+S1161,2026-07-17,tomasz.varga@mettleco.example,Core API,mid-class,medium,19,33538,87,no,13293,16303,324260,34793,0.51
+S1162,2026-07-17,tomasz.varga@mettleco.example,Core API,mid-class,high,47,34894,89,no,53020,97097,898096,65098,2.13
+S1163,2026-07-20,tomasz.varga@mettleco.example,Core API,mid-class,medium,27,24432,85,no,30765,22696,321165,37014,0.67
+S1164,2026-07-20,tomasz.varga@mettleco.example,Core API,mid-class,medium,31,40596,95,no,24059,17107,725015,33275,0.67
+S1165,2026-07-20,tomasz.varga@mettleco.example,Core API,light-class,medium,10,23445,85,no,7602,5660,110278,17587,0.07
+S1166,2026-07-21,tomasz.varga@mettleco.example,Core API,mid-class,high,35,45059,95,no,26349,27545,901140,38636,0.91
+S1167,2026-07-21,tomasz.varga@mettleco.example,Core API,mid-class,medium,95,56814,92,no,64621,90598,2999779,155480,3.04
+S1168,2026-07-22,tomasz.varga@mettleco.example,Core API,premium-class,medium,198,65097,68,no,170139,156714,5338839,1282677,30.91
+S1169,2026-07-22,tomasz.varga@mettleco.example,Core API,mid-class,medium,79,62325,95,no,82299,63557,2809026,100724,2.42
+S1170,2026-07-22,tomasz.varga@mettleco.example,Core API,premium-class,low,50,57334,90,no,46743,19968,1537324,107898,4.35
+S1171,2026-07-22,tomasz.varga@mettleco.example,Core API,premium-class,high,30,30915,56,yes,18860,51140,306614,130970,4.69
+S1172,2026-07-23,tomasz.varga@mettleco.example,Core API,mid-class,high,12,27701,97,no,9608,12851,178613,11968,0.32
+S1173,2026-07-24,tomasz.varga@mettleco.example,Core API,mid-class,high,20,55511,93,no,13500,30810,571716,40082,0.82
+S1174,2026-07-28,tomasz.varga@mettleco.example,Core API,mid-class,high,42,32608,94,no,32133,39809,784012,34273,1.06
+S1175,2026-07-28,tomasz.varga@mettleco.example,Core API,mid-class,high,40,28282,97,no,43338,41048,668638,19739,1.02
+S1176,2026-07-29,tomasz.varga@mettleco.example,Core API,mid-class,max,8,22921,94,no,7476,10862,95427,10691,0.25
+S1177,2026-07-29,tomasz.varga@mettleco.example,Core API,mid-class,medium,40,33809,55,yes,43686,17880,450392,198059,1.28
+S1178,2026-08-03,tomasz.varga@mettleco.example,Core API,premium-class,high,15,23484,89,no,17026,11530,196367,20940,1.2
+S1179,2026-08-03,tomasz.varga@mettleco.example,Core API,mid-class,high,77,80512,92,no,98955,127291,3671584,187225,4.01
+S1180,2026-08-03,tomasz.varga@mettleco.example,Core API,mid-class,high,25,35186,97,no,23625,21460,521634,21441,0.63
+S1181,2026-08-04,tomasz.varga@mettleco.example,Core API,mid-class,high,7,18138,85,no,4989,5948,54878,11075,0.16
+S1182,2026-08-05,tomasz.varga@mettleco.example,Core API,premium-class,high,24,25027,93,no,23119,34004,356087,22720,2.57
+S1183,2026-08-06,tomasz.varga@mettleco.example,Core API,mid-class,low,36,34127,87,no,39832,18741,667615,60725,0.83
+S1184,2026-08-06,tomasz.varga@mettleco.example,Core API,light-class,high,33,38344,97,no,20040,63229,789237,26052,0.45
+S1185,2026-08-06,tomasz.varga@mettleco.example,Core API,mid-class,high,32,43535,91,no,31467,62409,791918,55983,1.48
+S1186,2026-08-06,tomasz.varga@mettleco.example,Core API,mid-class,medium,44,71474,92,no,37984,40075,1864095,105028,1.67
+S1187,2026-08-07,tomasz.varga@mettleco.example,Core API,mid-class,medium,101,67217,88,no,97991,238040,3827507,290618,6.1
+S1188,2026-08-07,tomasz.varga@mettleco.example,Core API,mid-class,low,19,60264,85,no,17722,8210,604464,74555,0.64
+S1189,2026-08-07,tomasz.varga@mettleco.example,Core API,mid-class,high,42,44566,90,no,24583,48479,1091838,74450,1.41
+S1190,2026-08-07,tomasz.varga@mettleco.example,Core API,mid-class,high,17,31368,92,no,13687,22165,306591,24327,0.56
+S1191,2026-08-10,tomasz.varga@mettleco.example,Core API,premium-class,high,288,393727,57,yes,297260,851811,42136465,15996107,287.65
+S1192,2026-08-12,tomasz.varga@mettleco.example,Core API,mid-class,low,145,160871,87,no,117156,50872,13202576,1046590,9.0
+S1193,2026-08-12,tomasz.varga@mettleco.example,Core API,mid-class,medium,113,141015,92,no,95722,87279,9510044,451754,6.14
+S1194,2026-08-12,tomasz.varga@mettleco.example,Core API,mid-class,medium,46,59344,89,no,47623,27646,1553649,119252,1.47
+S1195,2026-08-18,tomasz.varga@mettleco.example,Core API,premium-class,max,33,35808,88,no,26250,67545,666070,59813,5.05
+S1196,2026-08-18,tomasz.varga@mettleco.example,Core API,mid-class,medium,420,235937,93,no,439695,384961,60118951,2449045,34.31
+S1197,2026-08-18,tomasz.varga@mettleco.example,Core API,mid-class,medium,27,41267,52,yes,25942,22901,376642,191392,1.25
+S1198,2026-08-18,tomasz.varga@mettleco.example,Core API,mid-class,medium,6,34583,88,no,4910,5813,107747,19561,0.21
+S1199,2026-08-20,tomasz.varga@mettleco.example,Core API,premium-class,low,111,62705,90,no,112832,87362,4065130,245754,12.63
+S1200,2026-08-20,tomasz.varga@mettleco.example,Core API,mid-class,high,35,46606,85,no,38819,83187,884166,96724,1.99
+S1201,2026-08-20,tomasz.varga@mettleco.example,Core API,mid-class,high,53,109469,91,no,33316,77292,3402341,210055,3.07
+S1202,2026-08-21,tomasz.varga@mettleco.example,Core API,premium-class,high,48,64344,95,no,44928,41984,1871761,73658,5.34
+S1203,2026-08-24,tomasz.varga@mettleco.example,Core API,mid-class,high,44,42604,86,no,41205,50909,1039711,98333,1.57
+S1204,2026-08-27,tomasz.varga@mettleco.example,Core API,light-class,medium,12,26362,58,yes,10001,9633,107827,48712,0.13
+S1205,2026-08-27,tomasz.varga@mettleco.example,Core API,mid-class,high,194,149595,72,no,192021,178811,13771165,2696838,17.5
+S1206,2026-08-27,tomasz.varga@mettleco.example,Core API,mid-class,high,17,30851,89,no,18249,28753,290892,29244,0.68
+S1207,2026-08-28,tomasz.varga@mettleco.example,Core API,mid-class,low,64,81856,93,no,73965,31387,3147843,144895,2.18
+S1208,2026-08-28,tomasz.varga@mettleco.example,Core API,mid-class,max,20,41340,86,no,12940,65887,460650,52527,1.36
+S1209,2026-08-31,tomasz.varga@mettleco.example,Core API,mid-class,medium,5,36504,96,no,4250,4815,124373,15326,0.18
+S1210,2026-08-31,tomasz.varga@mettleco.example,Core API,mid-class,max,26,23356,93,no,20428,69749,357428,22421,1.3
+S1211,2026-08-31,tomasz.varga@mettleco.example,Core API,premium-class,medium,49,50427,92,no,29139,26457,1470651,85600,4.15
+S1212,2026-06-15,priya.raman@mettleco.example,Core API,mid-class,low,11,24765,87,no,5773,3618,132796,17437,0.18
+S1213,2026-06-15,priya.raman@mettleco.example,Core API,mid-class,medium,5,35283,88,no,5872,5230,95583,17357,0.19
+S1214,2026-06-15,priya.raman@mettleco.example,Core API,light-class,medium,67,48430,90,no,59539,52212,1645550,111208,0.62
+S1215,2026-06-16,priya.raman@mettleco.example,Core API,mid-class,medium,75,79909,86,no,51837,44258,2890076,259951,2.66
+S1216,2026-06-18,priya.raman@mettleco.example,Core API,mid-class,medium,21,30317,93,no,17126,20587,317353,21702,0.54
+S1217,2026-06-18,priya.raman@mettleco.example,Core API,mid-class,medium,233,154991,77,no,163440,162263,15810607,2397216,16.66
+S1218,2026-06-18,priya.raman@mettleco.example,Core API,light-class,medium,38,47616,89,no,30638,18588,866194,69997,0.3
+S1219,2026-06-22,priya.raman@mettleco.example,Core API,premium-class,medium,56,63093,93,no,38632,58431,1865753,89704,6.29
+S1220,2026-06-22,priya.raman@mettleco.example,Core API,mid-class,high,9,25126,90,no,4757,8934,93072,12744,0.22
+S1221,2026-06-22,priya.raman@mettleco.example,Core API,light-class,low,9,28434,50,yes,4466,3760,72504,45418,0.09
+S1222,2026-06-25,priya.raman@mettleco.example,Core API,mid-class,high,17,25489,84,no,14602,16254,197234,26890,0.45
+S1223,2026-06-25,priya.raman@mettleco.example,Core API,mid-class,medium,69,76259,86,no,50296,50828,2561942,228804,2.54
+S1224,2026-06-26,priya.raman@mettleco.example,Core API,premium-class,medium,148,156231,94,no,89035,127663,12382738,427421,25.0
+S1225,2026-06-26,priya.raman@mettleco.example,Core API,mid-class,high,187,117565,63,no,154843,217601,7826126,2333920,14.83
+S1226,2026-07-01,priya.raman@mettleco.example,Core API,mid-class,medium,12,21286,94,no,7245,15918,133272,11184,0.34
+S1227,2026-07-01,priya.raman@mettleco.example,Core API,mid-class,medium,18,41081,83,no,13396,19839,376116,53155,0.65
+S1228,2026-07-01,priya.raman@mettleco.example,Core API,mid-class,medium,26,19310,89,no,24527,24508,265409,23467,0.61
+S1229,2026-07-01,priya.raman@mettleco.example,Core API,light-class,high,118,139625,95,no,60443,183908,9574040,286649,2.3
+S1230,2026-07-06,priya.raman@mettleco.example,Core API,mid-class,medium,19,39525,95,no,13885,10982,416605,23776,0.42
+S1231,2026-07-07,priya.raman@mettleco.example,Core API,mid-class,low,38,31882,93,no,32363,20702,659859,33882,0.73
+S1232,2026-07-07,priya.raman@mettleco.example,Core API,mid-class,medium,13,27785,96,no,5768,7400,206297,13822,0.24
+S1233,2026-07-07,priya.raman@mettleco.example,Core API,mid-class,medium,68,96755,57,yes,64070,25967,2259775,885295,4.58
+S1234,2026-07-07,priya.raman@mettleco.example,Core API,mid-class,high,26,37744,51,yes,21669,21770,301472,154513,1.06
+S1235,2026-07-08,priya.raman@mettleco.example,Core API,mid-class,low,17,26615,89,no,15157,10327,236159,23454,0.36
+S1236,2026-07-09,priya.raman@mettleco.example,Core API,mid-class,medium,16,57819,52,yes,12241,23954,298004,158467,1.08
+S1237,2026-07-09,priya.raman@mettleco.example,Core API,mid-class,medium,79,59228,90,no,86479,56056,2603520,161492,2.49
+S1238,2026-07-09,priya.raman@mettleco.example,Core API,mid-class,high,18,32393,92,no,14861,25488,331843,24283,0.62
+S1239,2026-07-09,priya.raman@mettleco.example,Core API,light-class,medium,67,78449,89,no,62183,79002,2855304,206278,1.0
+S1240,2026-07-10,priya.raman@mettleco.example,Core API,mid-class,medium,91,119439,91,no,75631,79360,6039577,327954,4.46
+S1241,2026-07-10,priya.raman@mettleco.example,Core API,mid-class,low,40,37396,94,no,24826,20104,815506,39692,0.77
+S1242,2026-07-15,priya.raman@mettleco.example,Core API,mid-class,max,60,42773,90,no,48053,111854,1406020,93085,2.59
+S1243,2026-07-15,priya.raman@mettleco.example,Core API,mid-class,medium,17,26147,88,no,13295,13636,229033,24529,0.41
+S1244,2026-07-15,priya.raman@mettleco.example,Core API,mid-class,medium,24,23917,94,no,17901,15352,323379,18494,0.45
+S1245,2026-07-17,priya.raman@mettleco.example,Core API,premium-class,medium,19,51889,51,yes,14995,9971,296022,156663,2.9
+S1246,2026-07-17,priya.raman@mettleco.example,Core API,premium-class,medium,32,37296,87,no,19120,35205,609800,58711,3.3
+S1247,2026-07-20,priya.raman@mettleco.example,Core API,mid-class,high,31,42482,88,no,23358,23481,704695,61815,0.87
+S1248,2026-07-20,priya.raman@mettleco.example,Core API,mid-class,medium,59,46756,88,no,71788,71422,1461442,113615,2.15
+S1249,2026-07-20,priya.raman@mettleco.example,Core API,mid-class,high,51,52549,89,no,54289,80321,1446185,109417,2.21
+S1250,2026-07-22,priya.raman@mettleco.example,Core API,premium-class,high,38,42358,94,no,31416,33392,929018,42301,3.44
+S1251,2026-07-22,priya.raman@mettleco.example,Core API,premium-class,high,30,42792,89,no,24798,34446,675296,55838,3.34
+S1252,2026-07-28,priya.raman@mettleco.example,Core API,mid-class,high,47,42557,51,yes,41656,28834,628095,313013,1.92
+S1253,2026-07-28,priya.raman@mettleco.example,Core API,mid-class,low,6,36842,89,no,3320,1844,109545,18697,0.14
+S1254,2026-07-28,priya.raman@mettleco.example,Core API,premium-class,high,17,36951,89,no,14567,17353,328226,32382,1.75
+S1255,2026-07-30,priya.raman@mettleco.example,Core API,mid-class,medium,98,68980,90,no,93324,57623,3714128,229203,3.12
+S1256,2026-07-30,priya.raman@mettleco.example,Core API,mid-class,medium,61,48988,87,no,53847,67230,1565551,128992,2.12
+S1257,2026-07-30,priya.raman@mettleco.example,Core API,mid-class,max,19,65162,87,no,15028,38290,625730,69745,1.07
+S1258,2026-08-06,priya.raman@mettleco.example,Core API,premium-class,high,13,30987,82,no,13601,19302,211087,33363,1.73
+S1259,2026-08-06,priya.raman@mettleco.example,Core API,mid-class,medium,29,47572,88,no,28330,19082,791459,70060,0.87
+S1260,2026-08-06,priya.raman@mettleco.example,Core API,mid-class,medium,71,109727,55,yes,88067,73502,2759882,1182997,6.63
+S1261,2026-08-11,priya.raman@mettleco.example,Core API,mid-class,low,20,36085,97,no,19321,6944,454211,19794,0.37
+S1262,2026-08-11,priya.raman@mettleco.example,Core API,light-class,high,13,30856,91,no,12734,8231,231172,22736,0.11
+S1263,2026-08-11,priya.raman@mettleco.example,Core API,mid-class,medium,90,36985,92,no,59386,70156,1998822,104428,2.22
+S1264,2026-08-11,priya.raman@mettleco.example,Core API,premium-class,high,16,22280,89,no,14757,14546,186687,19673,1.31
+S1265,2026-08-14,priya.raman@mettleco.example,Core API,mid-class,medium,20,15853,85,no,19032,18426,175466,20733,0.46
+S1266,2026-08-18,priya.raman@mettleco.example,Core API,premium-class,high,56,61447,90,no,65521,77573,2015045,137773,8.27
+S1267,2026-08-18,priya.raman@mettleco.example,Core API,premium-class,high,306,207196,68,no,274415,641335,28214314,6742013,147.3
+S1268,2026-08-19,priya.raman@mettleco.example,Core API,mid-class,medium,15,17203,92,no,15850,7470,148899,12813,0.25
+S1269,2026-08-19,priya.raman@mettleco.example,Core API,mid-class,medium,46,19123,93,no,60053,24341,522357,27578,0.81
+S1270,2026-08-21,priya.raman@mettleco.example,Core API,light-class,medium,98,91990,88,no,118850,112832,5185142,369973,1.66
+S1271,2026-08-21,priya.raman@mettleco.example,Core API,mid-class,medium,24,44327,90,no,20297,13132,614877,48146,0.62
+S1272,2026-08-21,priya.raman@mettleco.example,Core API,premium-class,high,15,25580,86,no,12676,21530,208361,25577,1.73
+S1273,2026-08-21,priya.raman@mettleco.example,Core API,mid-class,medium,45,46371,92,no,35465,32477,1205036,70327,1.22
+S1274,2026-08-26,priya.raman@mettleco.example,Core API,mid-class,medium,66,76850,94,no,68194,71839,3054346,131854,2.69
+S1275,2026-08-26,priya.raman@mettleco.example,Core API,mid-class,medium,47,106900,97,no,43883,31562,3180396,87013,1.89
+S1276,2026-08-28,priya.raman@mettleco.example,Core API,mid-class,medium,9,21319,90,no,6412,5857,90766,12461,0.18
+S1277,2026-08-28,priya.raman@mettleco.example,Core API,premium-class,medium,69,54421,86,no,80695,39536,2096447,190818,7.27
+S1278,2026-08-28,priya.raman@mettleco.example,Core API,mid-class,medium,45,39926,86,no,54771,25924,975644,91508,1.19
+S1279,2026-06-22,callum.reid@mettleco.example,Core API,mid-class,high,8,41981,91,no,7322,7653,157563,20266,0.26
+S1280,2026-06-24,callum.reid@mettleco.example,Core API,premium-class,high,32,49468,93,no,20265,26515,800339,46378,2.91
+S1281,2026-06-24,callum.reid@mettleco.example,Core API,premium-class,high,36,36428,96,no,26123,32056,680932,25743,2.87
+S1282,2026-06-24,callum.reid@mettleco.example,Core API,mid-class,medium,64,25848,54,yes,57465,15868,498776,222584,1.39
+S1283,2026-06-26,callum.reid@mettleco.example,Core API,premium-class,medium,31,28797,93,no,31307,27662,466228,26837,2.5
+S1284,2026-06-26,callum.reid@mettleco.example,Core API,mid-class,high,60,63744,94,no,41754,59862,2032570,82246,1.94
+S1285,2026-06-26,callum.reid@mettleco.example,Core API,mid-class,medium,37,41119,90,no,25469,15883,762177,53363,0.74
+S1286,2026-06-29,callum.reid@mettleco.example,Core API,mid-class,max,66,88325,89,no,67804,77064,2913114,201490,2.99
+S1287,2026-07-03,callum.reid@mettleco.example,Core API,light-class,max,264,263029,77,no,183595,250440,32673725,5022701,10.98
+S1288,2026-07-03,callum.reid@mettleco.example,Core API,mid-class,medium,14,48305,88,no,10074,12222,328623,39045,0.46
+S1289,2026-07-06,callum.reid@mettleco.example,Core API,mid-class,medium,15,26916,53,yes,14990,11899,126814,64818,0.5
+S1290,2026-07-06,callum.reid@mettleco.example,Core API,mid-class,medium,30,39548,90,no,29997,12072,633460,46923,0.64
+S1291,2026-07-06,callum.reid@mettleco.example,Core API,mid-class,medium,37,47411,88,no,43530,9125,921132,80441,0.85
+S1292,2026-07-07,callum.reid@mettleco.example,Core API,light-class,medium,18,12807,84,no,11698,14394,107603,14302,0.11
+S1293,2026-07-07,callum.reid@mettleco.example,Core API,mid-class,high,6,27101,90,no,5047,5512,81029,13529,0.17
+S1294,2026-07-08,callum.reid@mettleco.example,Core API,mid-class,medium,55,72909,86,no,53799,51218,2075244,198199,2.3
+S1295,2026-07-08,callum.reid@mettleco.example,Core API,light-class,medium,58,27737,92,no,56861,15919,901601,50087,0.29
+S1296,2026-07-08,callum.reid@mettleco.example,Core API,mid-class,high,22,34015,84,no,15064,25728,380823,47002,0.72
+S1297,2026-07-15,callum.reid@mettleco.example,Core API,premium-class,medium,19,26033,87,no,14743,9423,252303,26704,1.2
+S1298,2026-07-15,callum.reid@mettleco.example,Core API,light-class,medium,33,26274,51,yes,27805,20565,266097,137663,0.33
+S1299,2026-07-16,callum.reid@mettleco.example,Core API,premium-class,high,44,33128,86,no,33813,29489,754678,74094,3.49
+S1300,2026-07-20,callum.reid@mettleco.example,Core API,mid-class,medium,13,30569,87,no,12194,2688,205307,26037,0.24
+S1301,2026-07-20,callum.reid@mettleco.example,Core API,mid-class,medium,48,45020,49,yes,43794,27257,638391,344156,2.02
+S1302,2026-07-24,callum.reid@mettleco.example,Core API,mid-class,high,15,32901,56,yes,9993,12695,163449,75012,0.55
+S1303,2026-07-24,callum.reid@mettleco.example,Core API,premium-class,max,43,54462,92,no,35032,100006,1278042,72951,7.54
+S1304,2026-07-24,callum.reid@mettleco.example,Core API,mid-class,max,41,31436,96,no,29867,56845,735232,25925,1.26
+S1305,2026-07-24,callum.reid@mettleco.example,Core API,light-class,low,92,88802,91,no,77937,21919,4562039,257199,0.97
+S1306,2026-07-27,callum.reid@mettleco.example,Core API,light-class,medium,23,33758,94,no,19643,15123,423008,24114,0.17
+S1307,2026-07-27,callum.reid@mettleco.example,Core API,mid-class,medium,56,52310,94,no,69642,37301,1696143,67583,1.53
+S1308,2026-07-27,callum.reid@mettleco.example,Core API,mid-class,high,20,15885,91,no,20797,27537,175704,14219,0.58
+S1309,2026-07-27,callum.reid@mettleco.example,Core API,mid-class,medium,48,41224,86,no,54751,29970,1015876,99481,1.29
+S1310,2026-07-29,callum.reid@mettleco.example,Core API,light-class,medium,197,110059,81,no,180285,151682,10737988,1312758,3.65
+S1311,2026-07-29,callum.reid@mettleco.example,Core API,premium-class,medium,92,47932,63,yes,75354,25063,1694718,522686,10.23
+S1312,2026-07-29,callum.reid@mettleco.example,Core API,light-class,low,44,27581,52,yes,38505,12366,382052,184810,0.37
+S1313,2026-07-31,callum.reid@mettleco.example,Core API,light-class,medium,38,35313,90,no,28781,21938,705535,50187,0.27
+S1314,2026-08-03,callum.reid@mettleco.example,Core API,premium-class,high,57,65622,93,no,48580,64258,2237454,104390,7.24
+S1315,2026-08-03,callum.reid@mettleco.example,Core API,mid-class,high,247,156019,92,no,295786,260256,23072964,1126183,15.94
+S1316,2026-08-03,callum.reid@mettleco.example,Core API,mid-class,medium,108,84476,85,no,96104,44243,5091024,474011,4.26
+S1317,2026-08-04,callum.reid@mettleco.example,Core API,mid-class,medium,5,34818,89,no,4410,4036,110073,18895,0.18
+S1318,2026-08-04,callum.reid@mettleco.example,Core API,premium-class,max,271,168750,77,no,231435,458207,23139821,3419951,91.11
+S1319,2026-08-04,callum.reid@mettleco.example,Core API,premium-class,low,46,22477,54,yes,36323,12180,356527,161140,3.34
+S1320,2026-08-06,callum.reid@mettleco.example,Core API,light-class,low,14,18720,90,no,13900,4421,138599,14617,0.07
+S1321,2026-08-06,callum.reid@mettleco.example,Core API,mid-class,high,27,26030,85,no,19750,19164,367276,40522,0.61
+S1322,2026-08-07,callum.reid@mettleco.example,Core API,mid-class,medium,88,40574,91,no,65740,48232,2092274,116952,1.99
+S1323,2026-08-07,callum.reid@mettleco.example,Core API,mid-class,low,12,26626,91,no,8984,5183,171774,17767,0.22
+S1324,2026-08-10,callum.reid@mettleco.example,Core API,mid-class,high,119,121621,91,no,135864,63925,8621882,466679,5.7
+S1325,2026-08-10,callum.reid@mettleco.example,Core API,premium-class,medium,58,65900,86,no,53318,45806,2130614,201850,7.48
+S1326,2026-08-13,callum.reid@mettleco.example,Core API,mid-class,medium,49,49370,88,no,42713,21171,1379446,113991,1.29
+S1327,2026-08-13,callum.reid@mettleco.example,Core API,mid-class,medium,21,44823,57,yes,24180,14337,329096,142135,0.92
+S1328,2026-08-13,callum.reid@mettleco.example,Core API,mid-class,medium,38,46484,88,no,27794,13216,1019000,82732,0.9
+S1329,2026-08-13,callum.reid@mettleco.example,Core API,mid-class,medium,18,25454,51,yes,18358,9915,154403,81945,0.56
+S1330,2026-08-14,callum.reid@mettleco.example,Core API,mid-class,high,17,15470,86,no,18697,36525,140730,17234,0.71
+S1331,2026-08-14,callum.reid@mettleco.example,Core API,mid-class,medium,28,41845,86,no,30443,7499,640131,64973,0.64
+S1332,2026-08-17,callum.reid@mettleco.example,Core API,premium-class,medium,33,48847,86,no,20400,21578,897170,87312,3.27
+S1333,2026-08-17,callum.reid@mettleco.example,Core API,mid-class,medium,55,32765,89,no,53221,26344,1032726,75016,1.15
+S1334,2026-08-17,callum.reid@mettleco.example,Core API,mid-class,high,13,51374,93,no,12869,13006,396394,32102,0.47
+S1335,2026-08-18,callum.reid@mettleco.example,Core API,mid-class,low,26,24435,53,yes,19787,3057,215875,102489,0.55
+S1336,2026-08-18,callum.reid@mettleco.example,Core API,mid-class,high,8,25248,90,no,8053,6660,107165,14922,0.21
+S1337,2026-08-18,callum.reid@mettleco.example,Core API,mid-class,medium,61,39294,89,no,58414,27671,1359337,99085,1.37
+S1338,2026-08-24,callum.reid@mettleco.example,Core API,mid-class,medium,145,73296,54,yes,109511,92966,3743033,1613027,8.89
+S1339,2026-08-24,callum.reid@mettleco.example,Core API,mid-class,medium,56,110988,93,no,54380,22416,3664558,170929,2.24
+S1340,2026-08-24,callum.reid@mettleco.example,Core API,mid-class,medium,27,31973,96,no,28069,10220,543617,22388,0.48
+S1341,2026-08-25,callum.reid@mettleco.example,Core API,light-class,medium,71,69726,97,no,75501,63272,3111644,72794,0.79
+S1342,2026-08-25,callum.reid@mettleco.example,Core API,premium-class,high,51,29714,90,no,44530,36648,883994,59260,3.9
+S1343,2026-08-26,callum.reid@mettleco.example,Core API,mid-class,low,35,48395,57,yes,20180,7784,619337,249813,1.3
+S1344,2026-08-27,callum.reid@mettleco.example,Core API,light-class,high,58,52227,54,yes,59833,42326,1062640,472932,0.97
+S1345,2026-08-28,callum.reid@mettleco.example,Core API,mid-class,medium,87,131871,91,no,74790,68721,6813402,373495,4.7
+S1346,2026-06-01,mei.tanaka@mettleco.example,Core API,premium-class,medium,5,21328,89,no,3267,4655,58741,10010,0.45
+S1347,2026-06-01,mei.tanaka@mettleco.example,Core API,mid-class,high,39,37041,97,no,30974,34558,773995,23368,0.93
+S1348,2026-06-02,mei.tanaka@mettleco.example,Core API,mid-class,medium,29,18837,56,yes,18253,15969,161630,69903,0.6
+S1349,2026-06-02,mei.tanaka@mettleco.example,Core API,premium-class,low,107,53177,91,no,85994,23015,2925934,162580,6.97
+S1350,2026-06-03,mei.tanaka@mettleco.example,Core API,light-class,high,9,21174,91,no,7415,8795,98764,11436,0.08
+S1351,2026-06-03,mei.tanaka@mettleco.example,Core API,mid-class,medium,23,32681,91,no,13784,15032,367183,27612,0.48
+S1352,2026-06-04,mei.tanaka@mettleco.example,Core API,premium-class,medium,34,33023,93,no,25239,20607,567655,31216,2.24
+S1353,2026-06-04,mei.tanaka@mettleco.example,Core API,premium-class,max,78,35793,91,no,68919,160382,1437574,81640,11.17
+S1354,2026-06-08,mei.tanaka@mettleco.example,Core API,mid-class,low,24,23570,89,no,17745,12690,279579,24620,0.42
+S1355,2026-06-08,mei.tanaka@mettleco.example,Core API,mid-class,medium,35,84226,91,no,27728,38035,1486276,103569,1.49
+S1356,2026-06-09,mei.tanaka@mettleco.example,Core API,mid-class,high,23,40607,93,no,21785,28127,462754,31050,0.74
+S1357,2026-06-09,mei.tanaka@mettleco.example,Core API,mid-class,medium,79,82787,84,no,53893,58433,3146782,320382,3.18
+S1358,2026-06-09,mei.tanaka@mettleco.example,Core API,mid-class,medium,24,23789,51,yes,20851,13263,161307,85284,0.63
+S1359,2026-06-11,mei.tanaka@mettleco.example,Core API,mid-class,high,321,175173,56,yes,268404,688951,17894530,7099197,43.13
+S1360,2026-06-11,mei.tanaka@mettleco.example,Core API,mid-class,medium,45,55860,85,no,57688,61074,1164458,122574,1.9
+S1361,2026-06-11,mei.tanaka@mettleco.example,Core API,mid-class,medium,31,39360,84,no,27703,37072,578697,65958,1.06
+S1362,2026-06-12,mei.tanaka@mettleco.example,Core API,mid-class,low,24,41839,87,no,14475,16497,484912,49389,0.62
+S1363,2026-06-12,mei.tanaka@mettleco.example,Core API,light-class,high,99,88681,85,no,57170,153187,4172525,397179,1.74
+S1364,2026-06-12,mei.tanaka@mettleco.example,Core API,mid-class,high,83,61035,97,no,97380,107249,2793642,61983,2.97
+S1365,2026-06-15,mei.tanaka@mettleco.example,Core API,mid-class,medium,18,14779,90,no,11857,7428,123358,11094,0.23
+S1366,2026-06-15,mei.tanaka@mettleco.example,Core API,mid-class,high,15,14039,89,no,12516,11950,102055,10898,0.29
+S1367,2026-06-15,mei.tanaka@mettleco.example,Core API,mid-class,medium,9,40600,90,no,8214,6966,187688,22770,0.27
+S1368,2026-06-16,mei.tanaka@mettleco.example,Core API,mid-class,medium,24,43429,93,no,15406,17114,539244,33312,0.59
+S1369,2026-06-16,mei.tanaka@mettleco.example,Core API,mid-class,high,45,49507,88,no,34966,47909,1073800,87753,1.47
+S1370,2026-06-16,mei.tanaka@mettleco.example,Core API,mid-class,medium,67,53711,94,no,45081,64927,1869009,73775,1.95
+S1371,2026-06-17,mei.tanaka@mettleco.example,Core API,light-class,medium,19,36203,88,no,14842,13671,326504,33573,0.16
+S1372,2026-06-17,mei.tanaka@mettleco.example,Core API,premium-class,max,40,34321,94,no,38148,94945,728752,33458,6.28
+S1373,2026-06-18,mei.tanaka@mettleco.example,Core API,light-class,high,15,23262,52,yes,14332,16068,99179,53018,0.17
+S1374,2026-06-18,mei.tanaka@mettleco.example,Core API,mid-class,medium,10,25425,86,no,7477,7708,112406,16824,0.23
+S1375,2026-06-19,mei.tanaka@mettleco.example,Core API,mid-class,medium,31,60285,86,no,25363,21198,903217,92586,1.01
+S1376,2026-06-19,mei.tanaka@mettleco.example,Core API,mid-class,low,45,41458,89,no,36246,13064,945223,71742,0.86
+S1377,2026-06-19,mei.tanaka@mettleco.example,Core API,mid-class,medium,74,43917,89,no,79491,51104,1601122,113960,1.91
+S1378,2026-06-22,mei.tanaka@mettleco.example,Core API,mid-class,medium,24,20793,93,no,24232,23678,257184,16447,0.57
+S1379,2026-06-22,mei.tanaka@mettleco.example,Core API,mid-class,low,9,36436,96,no,8103,5358,178614,15345,0.22
+S1380,2026-06-22,mei.tanaka@mettleco.example,Core API,premium-class,medium,237,126713,87,no,305549,198242,14729001,1188266,42.55
+S1381,2026-06-23,mei.tanaka@mettleco.example,Core API,premium-class,medium,62,73575,89,no,57473,97004,2291131,160113,9.72
+S1382,2026-06-23,mei.tanaka@mettleco.example,Core API,mid-class,high,36,31084,90,no,23823,26938,575224,40812,0.8
+S1383,2026-06-24,mei.tanaka@mettleco.example,Core API,mid-class,medium,21,29727,95,no,16071,27448,320275,16731,0.62
+S1384,2026-06-24,mei.tanaka@mettleco.example,Core API,premium-class,high,10,53353,90,no,8049,6264,246458,30014,1.02
+S1385,2026-06-24,mei.tanaka@mettleco.example,Core API,mid-class,medium,21,28311,60,yes,21663,13611,192921,71980,0.6
+S1386,2026-06-25,mei.tanaka@mettleco.example,Core API,mid-class,medium,31,28327,91,no,21308,30757,450882,30272,0.77
+S1387,2026-06-25,mei.tanaka@mettleco.example,Core API,mid-class,medium,142,123871,93,no,140597,123531,9188369,399526,6.53
+S1388,2026-06-25,mei.tanaka@mettleco.example,Core API,mid-class,high,16,25874,89,no,17485,20567,188659,19801,0.49
+S1389,2026-06-26,mei.tanaka@mettleco.example,Core API,mid-class,high,7,41351,86,no,6761,5549,146062,24530,0.24
+S1390,2026-06-29,mei.tanaka@mettleco.example,Core API,premium-class,high,20,27338,49,yes,11908,21156,137581,79842,2.31
+S1391,2026-06-29,mei.tanaka@mettleco.example,Core API,mid-class,low,55,58327,86,no,43692,21670,1551256,139794,1.45
+S1392,2026-06-29,mei.tanaka@mettleco.example,Core API,mid-class,medium,274,169631,56,yes,178435,241571,14911662,5820869,30.46
+S1393,2026-06-30,mei.tanaka@mettleco.example,Core API,premium-class,high,38,70085,87,no,39294,52116,1320625,116138,5.77
+S1394,2026-06-30,mei.tanaka@mettleco.example,Core API,mid-class,high,129,168461,91,no,133774,167424,11204490,584230,8.46
+S1395,2026-06-30,mei.tanaka@mettleco.example,Core API,mid-class,low,27,23312,85,no,21932,13681,303764,34645,0.49
+S1396,2026-07-01,mei.tanaka@mettleco.example,Core API,mid-class,max,157,155301,92,no,162361,411336,13767638,652048,13.23
+S1397,2026-07-01,mei.tanaka@mettleco.example,Core API,mid-class,high,24,42664,89,no,23825,29640,549732,46544,0.86
+S1398,2026-07-01,mei.tanaka@mettleco.example,Core API,mid-class,medium,12,27501,95,no,8221,3618,173855,13616,0.18
+S1399,2026-07-01,mei.tanaka@mettleco.example,Core API,mid-class,max,26,20854,55,yes,23273,71686,178471,79418,1.5
+S1400,2026-07-03,mei.tanaka@mettleco.example,Core API,mid-class,medium,12,38667,90,no,10894,9417,230857,25938,0.34
+S1401,2026-07-03,mei.tanaka@mettleco.example,Core API,mid-class,high,22,35909,59,yes,25723,9920,281365,109947,0.72
+S1402,2026-07-06,mei.tanaka@mettleco.example,Core API,mid-class,medium,50,69899,93,no,37942,39453,1949785,93752,1.64
+S1403,2026-07-06,mei.tanaka@mettleco.example,Core API,mid-class,low,20,14535,84,no,20099,6053,148809,18991,0.27
+S1404,2026-07-06,mei.tanaka@mettleco.example,Core API,mid-class,low,212,212224,72,no,192090,139735,19698083,3975648,23.49
+S1405,2026-07-06,mei.tanaka@mettleco.example,Core API,mid-class,low,9,35884,92,no,5998,2654,181928,20349,0.19
+S1406,2026-07-07,mei.tanaka@mettleco.example,Core API,mid-class,medium,61,46046,53,yes,51786,56669,923665,420697,2.86
+S1407,2026-07-07,mei.tanaka@mettleco.example,Core API,mid-class,medium,74,104741,93,no,81738,69107,4407679,209768,3.39
+S1408,2026-07-09,mei.tanaka@mettleco.example,Core API,mid-class,high,16,19786,96,no,18121,17087,167481,10515,0.4
+S1409,2026-07-09,mei.tanaka@mettleco.example,Core API,mid-class,max,27,43039,83,no,19411,34656,591904,75963,1.04
+S1410,2026-07-10,mei.tanaka@mettleco.example,Core API,premium-class,max,41,45679,93,no,33406,53352,1030437,56632,4.74
+S1411,2026-07-13,mei.tanaka@mettleco.example,Core API,light-class,medium,6,25640,53,yes,6592,4044,45274,28492,0.07
+S1412,2026-07-13,mei.tanaka@mettleco.example,Core API,premium-class,high,22,33642,97,no,14546,56235,433184,18217,3.62
+S1413,2026-07-14,mei.tanaka@mettleco.example,Core API,mid-class,medium,33,41755,88,no,36752,30830,736644,61883,1.03
+S1414,2026-07-14,mei.tanaka@mettleco.example,Core API,mid-class,medium,292,247995,49,yes,236550,251001,21625994,11523619,54.18
+S1415,2026-07-16,mei.tanaka@mettleco.example,Core API,mid-class,medium,87,65212,95,no,92633,105748,3307515,101833,3.24
+S1416,2026-07-16,mei.tanaka@mettleco.example,Core API,premium-class,medium,9,35946,94,no,11310,6822,187917,17547,0.86
+S1417,2026-07-20,mei.tanaka@mettleco.example,Core API,premium-class,low,15,23441,85,no,14993,4463,177441,22949,0.84
+S1418,2026-07-21,mei.tanaka@mettleco.example,Core API,mid-class,high,8,44037,91,no,7302,7007,177888,23265,0.27
+S1419,2026-07-21,mei.tanaka@mettleco.example,Core API,mid-class,medium,10,33416,89,no,9606,6891,164453,21431,0.26
+S1420,2026-07-21,mei.tanaka@mettleco.example,Core API,mid-class,max,44,48649,82,no,54015,83403,1065932,129957,2.22
+S1421,2026-07-22,mei.tanaka@mettleco.example,Core API,mid-class,medium,215,184307,70,no,200423,96625,17080918,3669846,20.94
+S1422,2026-07-23,mei.tanaka@mettleco.example,Core API,mid-class,medium,44,35231,87,no,46488,43464,811851,74160,1.31
+S1423,2026-07-23,mei.tanaka@mettleco.example,Core API,mid-class,medium,29,19831,95,no,21251,10100,333468,15622,0.37
+S1424,2026-07-23,mei.tanaka@mettleco.example,Core API,premium-class,medium,36,40336,87,no,16952,33233,742237,66809,3.41
+S1425,2026-07-24,mei.tanaka@mettleco.example,Core API,mid-class,high,69,59726,91,no,58275,71896,2286752,133667,2.44
+S1426,2026-07-24,mei.tanaka@mettleco.example,Core API,mid-class,max,12,21670,89,no,8237,24007,127978,15236,0.48
+S1427,2026-07-24,mei.tanaka@mettleco.example,Core API,premium-class,medium,36,16578,55,yes,28801,21697,193390,83295,2.61
+S1428,2026-07-27,mei.tanaka@mettleco.example,Core API,premium-class,low,11,37802,90,no,8850,7128,225543,25432,0.99
+S1429,2026-07-27,mei.tanaka@mettleco.example,Core API,mid-class,low,24,51535,84,no,19394,9001,625720,75375,0.66
+S1430,2026-07-27,mei.tanaka@mettleco.example,Core API,premium-class,medium,61,85208,89,no,47776,53826,2762022,204894,8.49
+S1431,2026-07-28,mei.tanaka@mettleco.example,Core API,mid-class,high,43,47967,90,no,39489,46947,1103372,75382,1.44
+S1432,2026-07-28,mei.tanaka@mettleco.example,Core API,light-class,medium,79,105204,87,no,84996,79647,4448910,374633,1.4
+S1433,2026-07-28,mei.tanaka@mettleco.example,Core API,mid-class,medium,47,49812,93,no,43523,53918,1328507,69704,1.6
+S1434,2026-07-28,mei.tanaka@mettleco.example,Core API,mid-class,medium,38,39588,92,no,29855,44939,842858,52245,1.21
+S1435,2026-07-30,mei.tanaka@mettleco.example,Core API,mid-class,high,37,34382,55,yes,33077,68805,421417,181628,1.94
+S1436,2026-07-31,mei.tanaka@mettleco.example,Core API,premium-class,medium,82,56342,56,yes,100393,34642,1576879,634714,12.25
+S1437,2026-08-03,mei.tanaka@mettleco.example,Core API,mid-class,low,17,31884,92,no,16917,7090,312928,24076,0.34
+S1438,2026-08-03,mei.tanaka@mettleco.example,Core API,premium-class,medium,9,30993,52,yes,9027,9083,94426,55160,1.33
+S1439,2026-08-03,mei.tanaka@mettleco.example,Core API,mid-class,low,99,78392,91,no,82233,36800,4604843,268441,3.19
+S1440,2026-08-03,mei.tanaka@mettleco.example,Core API,premium-class,medium,18,30134,85,no,14363,23186,303625,36594,2.06
+S1441,2026-08-04,mei.tanaka@mettleco.example,Core API,mid-class,high,100,85557,93,no,66393,89678,5140815,235400,3.97
+S1442,2026-08-04,mei.tanaka@mettleco.example,Core API,premium-class,medium,246,193762,61,yes,154833,141514,19026663,6098267,103.88
+S1443,2026-08-04,mei.tanaka@mettleco.example,Core API,mid-class,high,322,131607,56,yes,382964,396008,15475877,6203761,35.0
+S1444,2026-08-04,mei.tanaka@mettleco.example,Core API,light-class,medium,42,36779,87,no,41018,48854,870580,76678,0.47
+S1445,2026-08-05,mei.tanaka@mettleco.example,Core API,mid-class,high,236,140959,55,yes,224075,267291,11988052,4947460,26.83
+S1446,2026-08-05,mei.tanaka@mettleco.example,Core API,mid-class,medium,22,34322,92,no,22988,17989,447116,31524,0.59
+S1447,2026-08-06,mei.tanaka@mettleco.example,Core API,mid-class,medium,55,57342,86,no,46002,25509,1749906,160018,1.65
+S1448,2026-08-07,mei.tanaka@mettleco.example,Core API,mid-class,max,79,59635,91,no,81839,152927,2807930,164838,4.0
+S1449,2026-08-07,mei.tanaka@mettleco.example,Core API,premium-class,medium,156,93025,82,no,137400,161925,7772413,865460,28.06
+S1450,2026-08-11,mei.tanaka@mettleco.example,Core API,premium-class,medium,11,35352,82,no,9743,7462,170726,31407,1.03
+S1451,2026-08-11,mei.tanaka@mettleco.example,Core API,premium-class,high,53,83710,90,no,60193,43413,2586596,168196,7.46
+S1452,2026-08-12,mei.tanaka@mettleco.example,Core API,mid-class,medium,27,37255,89,no,17841,23912,550503,45576,0.75
+S1453,2026-08-13,mei.tanaka@mettleco.example,Core API,mid-class,medium,36,32785,93,no,33116,14848,716518,40104,0.69
+S1454,2026-08-13,mei.tanaka@mettleco.example,Core API,light-class,medium,97,55103,84,no,100377,99759,2899512,292344,1.25
+S1455,2026-08-13,mei.tanaka@mettleco.example,Core API,mid-class,medium,200,116826,56,yes,125735,115578,8531252,3424519,17.51
+S1456,2026-08-14,mei.tanaka@mettleco.example,Core API,mid-class,high,48,69568,54,yes,40130,35496,1150874,516051,2.93
+S1457,2026-08-14,mei.tanaka@mettleco.example,Core API,mid-class,high,143,77993,80,no,151750,349516,5814659,754490,10.27
+S1458,2026-08-17,mei.tanaka@mettleco.example,Core API,mid-class,high,83,38016,90,no,81574,66902,1861203,114310,2.24
+S1459,2026-08-17,mei.tanaka@mettleco.example,Core API,mid-class,low,206,119718,75,no,196309,102212,12057407,2063646,13.48
+S1460,2026-08-18,mei.tanaka@mettleco.example,Core API,premium-class,low,112,101074,93,no,89396,56112,6868106,297965,14.29
+S1461,2026-08-18,mei.tanaka@mettleco.example,Core API,mid-class,medium,44,48467,95,no,47939,34540,1299443,53531,1.25
+S1462,2026-08-18,mei.tanaka@mettleco.example,Core API,mid-class,high,18,43030,97,no,14539,21741,443148,22081,0.59
+S1463,2026-08-18,mei.tanaka@mettleco.example,Core API,premium-class,high,28,29384,91,no,23658,31083,470928,34912,2.7
+S1464,2026-08-19,mei.tanaka@mettleco.example,Core API,mid-class,high,24,28064,51,yes,24274,39009,217705,116274,1.16
+S1465,2026-08-19,mei.tanaka@mettleco.example,Core API,mid-class,low,33,52716,84,no,28901,29515,937107,109793,1.22
+S1466,2026-08-19,mei.tanaka@mettleco.example,Core API,mid-class,medium,41,25281,84,no,39627,46297,553193,60413,1.21
+S1467,2026-08-20,mei.tanaka@mettleco.example,Core API,mid-class,medium,39,22715,97,no,32890,29575,545141,16828,0.77
+S1468,2026-08-20,mei.tanaka@mettleco.example,Core API,mid-class,low,61,83059,56,yes,74128,60305,1825502,733340,4.42
+S1469,2026-08-24,mei.tanaka@mettleco.example,Core API,mid-class,medium,12,28155,89,no,8098,9700,177299,20955,0.3
+S1470,2026-08-24,mei.tanaka@mettleco.example,Core API,premium-class,medium,22,30204,88,no,18730,27148,374258,37349,2.39
+S1471,2026-08-24,mei.tanaka@mettleco.example,Core API,mid-class,high,6,32666,89,no,4828,4681,102445,18140,0.18
+S1472,2026-08-27,mei.tanaka@mettleco.example,Core API,premium-class,max,44,28635,91,no,40233,102823,739237,45873,6.86
+S1473,2026-08-31,mei.tanaka@mettleco.example,Core API,mid-class,medium,24,38876,93,no,23500,20909,555220,34244,0.68
+S1474,2026-08-31,mei.tanaka@mettleco.example,Core API,premium-class,low,21,37221,88,no,22083,17629,424501,42419,2.06
+S1475,2026-08-31,mei.tanaka@mettleco.example,Core API,mid-class,medium,35,105278,55,yes,45256,53942,1288493,572839,3.48
+S1476,2026-06-08,jonas.albrecht@mettleco.example,Dispatch app,light-class,medium,11,24745,84,no,8163,7714,106153,17998,0.08
+S1477,2026-06-08,jonas.albrecht@mettleco.example,Dispatch app,light-class,low,23,43518,78,no,20135,14151,417898,72287,0.22
+S1478,2026-06-09,jonas.albrecht@mettleco.example,Dispatch app,premium-class,high,113,47780,94,no,109714,91533,2845611,111293,9.91
+S1479,2026-06-09,jonas.albrecht@mettleco.example,Dispatch app,premium-class,high,157,65096,94,no,96053,175749,5477688,185902,17.55
+S1480,2026-06-10,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,68,80745,88,no,43076,28593,2763049,217063,2.2
+S1481,2026-06-10,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,72,22549,90,no,41386,51685,834797,52172,1.35
+S1482,2026-06-11,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,103,90272,87,no,105538,25390,4574921,379446,3.49
+S1483,2026-06-11,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,31,22964,97,no,28600,9209,388456,13074,0.39
+S1484,2026-06-15,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,25,30831,93,no,22395,32633,380527,24796,0.76
+S1485,2026-06-15,jonas.albrecht@mettleco.example,Dispatch app,premium-class,high,42,47673,91,no,42384,28730,1028249,62935,3.68
+S1486,2026-06-16,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,74,98987,86,no,51191,101014,3499673,311445,3.89
+S1487,2026-06-16,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,51,34424,83,no,51369,19434,819350,95297,1.05
+S1488,2026-06-16,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,20,57126,96,no,21307,15899,620524,29619,0.6
+S1489,2026-06-16,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,72,78013,91,no,49738,92349,2910015,169521,3.04
+S1490,2026-06-17,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,118,57973,94,no,109501,122814,3644745,128190,3.74
+S1491,2026-06-17,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,47,72008,89,no,35209,154791,1707525,128658,3.42
+S1492,2026-06-17,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,12,16377,88,no,10178,9820,88561,11160,0.25
+S1493,2026-06-18,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,127,58889,81,no,101206,45742,3413752,425535,3.61
+S1494,2026-06-18,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,27,36346,93,no,18132,38335,521290,30173,0.9
+S1495,2026-06-18,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,231,148671,69,no,189364,152876,13480578,3065838,18.4
+S1496,2026-06-18,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,44,71874,90,no,26117,29260,1591992,110868,4.7
+S1497,2026-06-19,jonas.albrecht@mettleco.example,Dispatch app,light-class,low,17,35277,91,no,14654,4259,295672,25862,0.1
+S1498,2026-06-19,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,66,58024,90,no,61362,56854,1930233,124118,6.94
+S1499,2026-06-19,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,64,69863,91,no,47479,66809,2290903,130187,2.32
+S1500,2026-06-22,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,5,26616,92,no,5768,4464,75127,11581,0.15
+S1501,2026-06-24,jonas.albrecht@mettleco.example,Dispatch app,mid-class,max,47,35777,92,no,36076,58852,874896,50666,1.44
+S1502,2026-06-25,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,307,141390,76,no,302996,187164,18854213,2944563,20.41
+S1503,2026-06-26,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,27,15650,85,no,27962,20590,190604,21896,0.53
+S1504,2026-06-26,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,11,23566,91,no,12322,12857,132660,13446,0.32
+S1505,2026-06-30,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,15,30503,87,no,14572,16402,218045,25524,1.5
+S1506,2026-06-30,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,20,34838,87,no,13022,16797,310805,34002,0.51
+S1507,2026-06-30,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,28,51385,93,no,28987,39324,737469,42407,1.06
+S1508,2026-07-01,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,34,38931,61,yes,28208,7553,503810,170770,0.99
+S1509,2026-07-02,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,68,50369,90,no,41228,76292,1906362,123791,2.3
+S1510,2026-07-02,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,40,49618,90,no,36524,52265,1092300,75012,1.5
+S1511,2026-07-02,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,42,54256,85,no,23232,17390,1175844,121353,1.14
+S1512,2026-07-02,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,177,365963,88,no,152645,112132,34939123,2518373,22.07
+S1513,2026-07-06,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,80,77140,94,no,74169,69707,3542529,134510,9.45
+S1514,2026-07-07,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,12,54375,87,no,12056,6728,315317,41133,0.39
+S1515,2026-07-07,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,31,37908,91,no,21669,44812,650257,44448,3.66
+S1516,2026-07-09,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,34,94374,88,no,37218,20595,1646994,148849,1.47
+S1517,2026-07-09,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,103,55188,95,no,52888,71543,3321275,100232,2.6
+S1518,2026-07-29,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,17,23585,90,no,15611,11857,212177,19330,0.36
+S1519,2026-07-29,jonas.albrecht@mettleco.example,Dispatch app,light-class,high,34,25944,86,no,27449,49140,471765,45798,0.38
+S1520,2026-07-29,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,28,48440,52,yes,23627,9720,417577,209795,1.13
+S1521,2026-08-04,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,29,29876,89,no,33181,30034,503725,40660,0.85
+S1522,2026-08-04,jonas.albrecht@mettleco.example,Dispatch app,light-class,medium,13,29596,86,no,13714,8039,209184,28081,0.11
+S1523,2026-08-04,jonas.albrecht@mettleco.example,Dispatch app,light-class,medium,32,32521,97,no,35515,14639,632620,21291,0.2
+S1524,2026-08-05,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,23,51119,91,no,28748,25691,658129,50850,0.86
+S1525,2026-08-06,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,25,20481,92,no,21165,29707,290025,19284,2.23
+S1526,2026-08-06,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,97,114449,97,no,65528,89632,7071891,149862,14.08
+S1527,2026-08-06,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,80,50540,91,no,57069,53928,2380638,139231,2.22
+S1528,2026-08-07,jonas.albrecht@mettleco.example,Dispatch app,premium-class,high,23,34448,87,no,14332,33449,424719,43656,2.79
+S1529,2026-08-07,jonas.albrecht@mettleco.example,Dispatch app,light-class,high,21,22415,91,no,20743,17696,264910,20915,0.16
+S1530,2026-08-11,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,38,62937,97,no,25605,60733,1512361,45660,1.61
+S1531,2026-08-12,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,15,40503,93,no,14063,14724,354199,28357,1.59
+S1532,2026-08-12,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,51,28642,97,no,40666,30317,917694,24327,0.94
+S1533,2026-08-12,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,19,26961,90,no,29352,25134,287487,24823,0.64
+S1534,2026-08-12,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,33,52924,50,yes,25705,12987,560939,300154,1.57
+S1535,2026-08-13,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,187,168406,54,yes,174179,245017,11225180,4777461,25.48
+S1536,2026-08-13,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,34,38649,93,no,43444,82968,765291,41371,1.76
+S1537,2026-08-13,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,97,106579,89,no,88765,112518,5940294,399353,5.23
+S1538,2026-08-13,jonas.albrecht@mettleco.example,Dispatch app,mid-class,max,32,29795,86,no,36415,178795,514628,51994,3.14
+S1539,2026-08-14,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,15,22252,89,no,15542,16412,186498,19629,0.42
+S1540,2026-08-14,jonas.albrecht@mettleco.example,Dispatch app,premium-class,medium,9,19510,85,no,8539,5368,97555,15666,0.65
+S1541,2026-08-14,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,24,36712,97,no,22732,22466,544445,22272,0.65
+S1542,2026-08-14,jonas.albrecht@mettleco.example,Dispatch app,mid-class,low,18,39488,91,no,23007,10948,424046,34865,0.49
+S1543,2026-08-20,jonas.albrecht@mettleco.example,Dispatch app,light-class,medium,15,39765,57,yes,17545,15706,213054,95184,0.24
+S1544,2026-08-20,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,56,47489,89,no,60800,71517,1492297,110980,2.12
+S1545,2026-08-21,jonas.albrecht@mettleco.example,Dispatch app,premium-class,low,16,27430,88,no,14704,7439,256651,26993,1.11
+S1546,2026-08-21,jonas.albrecht@mettleco.example,Dispatch app,mid-class,medium,30,22138,93,no,35573,15007,388318,22606,0.53
+S1547,2026-08-24,jonas.albrecht@mettleco.example,Dispatch app,light-class,low,52,52883,92,no,37624,8989,1600473,91855,0.36
+S1548,2026-08-27,jonas.albrecht@mettleco.example,Dispatch app,mid-class,high,12,38978,91,no,10969,5142,250652,26411,0.28
+S1549,2026-08-27,jonas.albrecht@mettleco.example,Dispatch app,light-class,low,17,37292,96,no,10734,8251,378470,21927,0.12
+S1550,2026-08-31,jonas.albrecht@mettleco.example,Dispatch app,light-class,high,57,73033,88,no,40026,32007,2338800,191851,0.67
+S1551,2026-06-16,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,11,43755,92,no,8677,9109,247093,24569,0.33
+S1552,2026-06-17,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,75,60039,60,yes,72871,118978,1525250,518405,4.4
+S1553,2026-06-17,amara.nwosu@mettleco.example,Dispatch app,premium-class,high,14,20121,59,yes,11076,14656,85345,35760,1.38
+S1554,2026-06-17,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,15,61196,94,no,9775,27381,469693,35087,0.71
+S1555,2026-06-26,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,26,30271,93,no,16013,17724,405613,23877,0.53
+S1556,2026-06-26,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,14,29387,92,no,13098,8295,194018,17542,0.29
+S1557,2026-06-26,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,124,130979,88,no,90233,174322,8025758,595584,7.53
+S1558,2026-06-26,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,9,28567,86,no,6311,7450,101279,16759,0.22
+S1559,2026-06-29,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,65,42918,85,no,43843,31370,1347810,131753,1.5
+S1560,2026-06-29,amara.nwosu@mettleco.example,Dispatch app,mid-class,low,237,182733,85,no,123744,111685,20869460,1899244,15.43
+S1561,2026-06-29,amara.nwosu@mettleco.example,Dispatch app,mid-class,low,19,23044,90,no,14497,11701,213454,18559,0.35
+S1562,2026-06-30,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,15,34493,93,no,11693,19524,261869,21211,0.49
+S1563,2026-06-30,amara.nwosu@mettleco.example,Dispatch app,light-class,high,55,69619,87,no,50574,110075,1870859,157221,0.98
+S1564,2026-06-30,amara.nwosu@mettleco.example,Dispatch app,mid-class,low,15,34565,90,no,12428,4815,255211,24857,0.28
+S1565,2026-07-03,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,53,43404,88,no,62900,69953,1229622,96858,1.97
+S1566,2026-07-06,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,52,44227,87,no,43151,55329,1234135,108093,1.73
+S1567,2026-07-06,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,38,45766,93,no,27342,33314,946723,48872,1.05
+S1568,2026-07-07,amara.nwosu@mettleco.example,Dispatch app,premium-class,max,46,38699,89,no,41879,101636,956109,70729,7.34
+S1569,2026-07-07,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,8,36383,91,no,6701,14662,147222,19096,0.36
+S1570,2026-07-07,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,11,42005,55,yes,11248,4042,126996,66800,0.38
+S1571,2026-07-07,amara.nwosu@mettleco.example,Dispatch app,premium-class,medium,80,75208,56,yes,61350,81540,2051862,832119,17.14
+S1572,2026-07-10,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,52,49343,86,no,45464,73712,1318568,122426,2.1
+S1573,2026-07-10,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,21,25783,89,no,27247,24118,278801,26270,0.63
+S1574,2026-07-29,amara.nwosu@mettleco.example,Dispatch app,premium-class,high,23,45594,88,no,23069,37247,532206,52120,3.28
+S1575,2026-07-29,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,26,25965,91,no,23440,36500,367896,26047,0.83
+S1576,2026-07-30,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,56,55022,88,no,36778,28476,1600559,132367,1.51
+S1577,2026-07-30,amara.nwosu@mettleco.example,Dispatch app,premium-class,medium,33,38816,96,no,34751,36527,741112,29369,3.28
+S1578,2026-08-03,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,59,73527,92,no,62451,39700,2561247,133203,2.05
+S1579,2026-08-12,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,13,36218,85,no,12056,7533,255620,34547,0.36
+S1580,2026-08-12,amara.nwosu@mettleco.example,Dispatch app,mid-class,max,26,31556,97,no,26456,87977,505536,18985,1.62
+S1581,2026-08-13,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,26,74961,91,no,16924,26788,1124498,83285,1.1
+S1582,2026-08-17,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,57,44338,54,yes,56666,115650,879376,386720,3.62
+S1583,2026-08-17,amara.nwosu@mettleco.example,Dispatch app,premium-class,medium,52,98775,86,no,75341,20111,2899979,274529,8.09
+S1584,2026-08-17,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,118,65464,90,no,121638,231863,4530044,268000,6.21
+S1585,2026-08-19,amara.nwosu@mettleco.example,Dispatch app,mid-class,low,20,36111,86,no,22249,22662,401586,46286,0.7
+S1586,2026-08-19,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,33,68431,90,no,35460,59638,1314356,93572,1.75
+S1587,2026-08-20,amara.nwosu@mettleco.example,Dispatch app,mid-class,low,26,45675,87,no,25159,17248,658978,63847,0.77
+S1588,2026-08-20,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,20,32121,85,no,19681,27877,355624,41966,0.74
+S1589,2026-08-21,amara.nwosu@mettleco.example,Dispatch app,mid-class,high,19,24943,87,no,14216,33131,254660,28623,0.72
+S1590,2026-08-21,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,300,231824,51,yes,227362,186061,22956286,11302288,52.74
+S1591,2026-08-21,amara.nwosu@mettleco.example,Dispatch app,premium-class,high,80,41332,92,no,62026,70806,1967418,103590,7.42
+S1592,2026-08-25,amara.nwosu@mettleco.example,Dispatch app,premium-class,medium,6,28429,97,no,4720,5122,97593,11570,0.55
+S1593,2026-08-27,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,14,27113,90,no,11639,12979,202359,20363,0.37
+S1594,2026-08-31,amara.nwosu@mettleco.example,Dispatch app,mid-class,medium,25,38177,87,no,23527,16381,546291,55618,0.69
+S1595,2026-06-30,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,92,88548,93,no,91832,57392,4218525,188788,3.11
+S1596,2026-06-30,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,22,43062,92,no,21838,27642,485229,35678,0.76
+S1597,2026-07-02,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,43,26646,55,yes,39669,27940,390271,167961,1.29
+S1598,2026-07-03,luca.ferrante@mettleco.example,Dispatch app,mid-class,max,45,47370,51,yes,46358,62734,640876,325056,2.49
+S1599,2026-07-03,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,14,28614,91,no,7756,4264,201664,19630,0.22
+S1600,2026-07-03,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,35,28524,88,no,26785,34040,530583,44395,0.92
+S1601,2026-07-06,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,162,57308,51,yes,117123,83727,2884752,1401978,7.73
+S1602,2026-07-06,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,15,34900,96,no,10963,6582,295419,18549,0.97
+S1603,2026-07-09,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,26,42302,88,no,31829,15184,579821,52201,0.69
+S1604,2026-07-10,luca.ferrante@mettleco.example,Dispatch app,premium-class,high,82,117093,91,no,66577,106749,5312745,301302,15.08
+S1605,2026-07-10,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,64,77200,94,no,54178,35024,2809313,117728,1.97
+S1606,2026-07-10,luca.ferrante@mettleco.example,Dispatch app,light-class,medium,40,27839,94,no,34842,32749,639006,29018,0.3
+S1607,2026-07-13,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,9,33509,93,no,9823,4826,172218,17838,0.22
+S1608,2026-07-20,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,75,30483,58,yes,60593,80251,803738,300572,2.75
+S1609,2026-07-20,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,54,62425,94,no,49493,29956,1947215,84519,1.5
+S1610,2026-07-20,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,61,67523,56,yes,47738,40751,1392707,560385,10.91
+S1611,2026-07-28,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,37,38400,97,no,42506,16976,825309,25525,0.73
+S1612,2026-07-28,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,58,33342,87,no,49505,36267,1024330,89943,1.34
+S1613,2026-07-28,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,18,27390,89,no,13576,12918,242901,24202,1.33
+S1614,2026-07-29,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,13,22697,93,no,12780,7411,163582,13759,0.83
+S1615,2026-07-31,luca.ferrante@mettleco.example,Dispatch app,mid-class,max,30,73079,94,no,50081,33043,1216997,63482,1.25
+S1616,2026-07-31,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,10,26731,96,no,8700,5456,141447,12196,0.2
+S1617,2026-07-31,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,66,74139,90,no,54915,37565,2647719,179222,2.19
+S1618,2026-07-31,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,213,134749,84,no,153775,193321,14834407,1435281,13.19
+S1619,2026-08-05,luca.ferrante@mettleco.example,Dispatch app,premium-class,max,49,16660,92,no,40854,84840,485944,28246,5.49
+S1620,2026-08-05,luca.ferrante@mettleco.example,Dispatch app,light-class,high,9,29578,86,no,7972,14647,149310,23044,0.12
+S1621,2026-08-10,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,40,52612,91,no,45015,55600,1240571,81042,1.65
+S1622,2026-08-10,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,42,53794,87,no,38606,43771,1273287,112171,1.58
+S1623,2026-08-10,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,156,114069,97,no,147766,119736,11225318,213956,21.36
+S1624,2026-08-14,luca.ferrante@mettleco.example,Dispatch app,premium-class,high,59,54619,93,no,66370,64550,1923445,88532,6.92
+S1625,2026-08-18,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,112,89688,88,no,83852,54006,5792464,415382,4.36
+S1626,2026-08-18,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,21,29741,85,no,19869,9103,327886,39549,0.44
+S1627,2026-08-18,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,17,27484,89,no,16516,14705,258888,26185,0.45
+S1628,2026-08-18,luca.ferrante@mettleco.example,Dispatch app,light-class,medium,95,79149,86,no,64272,80365,4162053,374605,1.35
+S1629,2026-08-20,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,32,67752,92,no,33379,17632,1316395,85105,3.6
+S1630,2026-08-20,luca.ferrante@mettleco.example,Dispatch app,light-class,max,33,34704,88,no,34890,55837,649829,55825,0.45
+S1631,2026-08-21,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,6,39841,94,no,3883,1938,132652,18271,0.15
+S1632,2026-08-24,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,24,28307,95,no,25518,17368,411966,21086,0.54
+S1633,2026-08-24,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,70,68823,87,no,40893,40005,2743411,235833,2.43
+S1634,2026-08-25,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,13,43460,92,no,10182,12525,330167,29735,1.43
+S1635,2026-08-25,luca.ferrante@mettleco.example,Dispatch app,mid-class,low,45,29758,48,yes,32518,34812,407988,227792,1.6
+S1636,2026-08-26,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,29,53090,82,no,25844,51004,774631,101188,1.45
+S1637,2026-08-27,luca.ferrante@mettleco.example,Dispatch app,mid-class,high,20,47968,82,no,14329,7919,463534,68140,0.56
+S1638,2026-08-27,luca.ferrante@mettleco.example,Dispatch app,premium-class,medium,12,45950,89,no,7773,8627,289161,34297,1.23
+S1639,2026-08-28,luca.ferrante@mettleco.example,Dispatch app,mid-class,max,228,262183,75,no,287109,447706,29067178,5044283,35.21
+S1640,2026-08-28,luca.ferrante@mettleco.example,Dispatch app,mid-class,medium,38,74126,87,no,32301,13401,1601351,143726,1.32
+S1641,2026-06-24,hana.sato@mettleco.example,Dispatch app,light-class,medium,11,19763,96,no,10054,11072,116698,8551,0.09
+S1642,2026-06-24,hana.sato@mettleco.example,Dispatch app,mid-class,max,221,173750,71,no,202929,269634,15453810,3198696,21.28
+S1643,2026-06-24,hana.sato@mettleco.example,Dispatch app,mid-class,high,26,43145,88,no,28006,23734,544929,50619,0.79
+S1644,2026-06-29,hana.sato@mettleco.example,Dispatch app,mid-class,low,26,43283,97,no,22035,8228,602950,22643,0.46
+S1645,2026-06-29,hana.sato@mettleco.example,Dispatch app,premium-class,high,98,106750,85,no,60796,145977,5023551,477690,18.9
+S1646,2026-06-29,hana.sato@mettleco.example,Dispatch app,mid-class,high,30,29267,83,no,20616,28272,398106,50134,0.79
+S1647,2026-07-01,hana.sato@mettleco.example,Dispatch app,mid-class,low,51,42135,89,no,41223,24984,1163981,85541,1.17
+S1648,2026-07-02,hana.sato@mettleco.example,Dispatch app,premium-class,medium,8,28880,88,no,7454,6542,112415,17381,0.73
+S1649,2026-07-02,hana.sato@mettleco.example,Dispatch app,mid-class,medium,32,34072,93,no,29539,15742,594269,35044,0.63
+S1650,2026-07-03,hana.sato@mettleco.example,Dispatch app,mid-class,low,8,30131,84,no,6795,2106,111967,20793,0.16
+S1651,2026-07-03,hana.sato@mettleco.example,Dispatch app,mid-class,low,27,48426,91,no,26819,9754,681938,50672,0.62
+S1652,2026-07-07,hana.sato@mettleco.example,Dispatch app,mid-class,medium,153,69053,92,no,151375,92638,5956986,295741,4.74
+S1653,2026-07-07,hana.sato@mettleco.example,Dispatch app,mid-class,low,34,33126,95,no,28617,8808,624753,28930,0.51
+S1654,2026-07-08,hana.sato@mettleco.example,Dispatch app,mid-class,low,90,112482,87,no,72501,58297,5329042,425911,4.29
+S1655,2026-07-08,hana.sato@mettleco.example,Dispatch app,mid-class,medium,141,66732,80,no,134951,173199,4599820,605517,6.65
+S1656,2026-07-08,hana.sato@mettleco.example,Dispatch app,mid-class,high,127,180052,91,no,122424,110200,12736413,673179,8.37
+S1657,2026-07-10,hana.sato@mettleco.example,Dispatch app,mid-class,high,20,37574,90,no,16269,30083,411163,35855,0.76
+S1658,2026-07-10,hana.sato@mettleco.example,Dispatch app,mid-class,medium,30,61039,88,no,24201,24246,953055,84740,1.04
+S1659,2026-07-10,hana.sato@mettleco.example,Dispatch app,premium-class,medium,5,34220,88,no,5716,5932,99554,18463,0.68
+S1660,2026-07-29,hana.sato@mettleco.example,Dispatch app,mid-class,medium,170,78879,90,no,195509,118603,7407396,429731,6.2
+S1661,2026-07-29,hana.sato@mettleco.example,Dispatch app,mid-class,low,15,49614,91,no,18237,4279,398369,37168,0.38
+S1662,2026-07-30,hana.sato@mettleco.example,Dispatch app,premium-class,low,46,26566,96,no,43300,15339,707299,23084,2.2
+S1663,2026-07-30,hana.sato@mettleco.example,Dispatch app,premium-class,medium,33,44680,96,no,31097,19720,858775,30954,2.54
+S1664,2026-08-03,hana.sato@mettleco.example,Dispatch app,mid-class,medium,20,19470,92,no,15319,26330,232019,17205,0.58
+S1665,2026-08-03,hana.sato@mettleco.example,Dispatch app,mid-class,high,20,30158,88,no,13801,20549,311950,32583,0.57
+S1666,2026-08-04,hana.sato@mettleco.example,Dispatch app,mid-class,high,247,139422,73,no,172080,287938,16515309,3057940,21.26
+S1667,2026-08-04,hana.sato@mettleco.example,Dispatch app,mid-class,medium,56,54174,85,no,64973,16780,1625681,164948,1.55
+S1668,2026-08-05,hana.sato@mettleco.example,Dispatch app,light-class,low,86,75110,90,no,67859,47087,3766052,225782,0.96
+S1669,2026-08-05,hana.sato@mettleco.example,Dispatch app,mid-class,high,124,93062,52,yes,115919,155285,3898237,1816410,10.66
+S1670,2026-08-11,hana.sato@mettleco.example,Dispatch app,mid-class,high,9,33183,91,no,10886,7180,178796,20207,0.27
+S1671,2026-08-12,hana.sato@mettleco.example,Dispatch app,mid-class,medium,15,28615,85,no,15964,18833,228984,30662,0.51
+S1672,2026-08-14,hana.sato@mettleco.example,Dispatch app,mid-class,low,32,60052,97,no,21302,12868,1168178,39317,0.75
+S1673,2026-08-19,hana.sato@mettleco.example,Dispatch app,mid-class,medium,118,118549,90,no,105308,114217,8207924,483041,6.3
+S1674,2026-08-19,hana.sato@mettleco.example,Dispatch app,mid-class,high,305,401268,56,yes,284439,489270,44582599,17849702,88.5
+S1675,2026-08-19,hana.sato@mettleco.example,Dispatch app,premium-class,medium,41,56972,87,no,41763,18055,1341441,122331,4.19
+S1676,2026-08-20,hana.sato@mettleco.example,Dispatch app,mid-class,high,26,26473,91,no,31693,54965,395887,30033,1.15
+S1677,2026-08-20,hana.sato@mettleco.example,Dispatch app,mid-class,low,38,40160,90,no,43933,20140,856233,59849,0.92
+S1678,2026-08-20,hana.sato@mettleco.example,Dispatch app,mid-class,high,17,12867,95,no,17416,34147,129990,7865,0.63
+S1679,2026-08-21,hana.sato@mettleco.example,Dispatch app,mid-class,low,20,31576,95,no,20114,9606,352364,21242,0.39
+S1680,2026-08-25,hana.sato@mettleco.example,Dispatch app,mid-class,medium,23,17189,96,no,15411,36457,233625,10934,0.7
+S1681,2026-08-26,hana.sato@mettleco.example,Dispatch app,mid-class,medium,101,122667,90,no,73276,162903,7291404,449474,6.54
+S1682,2026-08-26,hana.sato@mettleco.example,Dispatch app,premium-class,high,105,68944,86,no,99548,119098,4067615,349210,15.38
+S1683,2026-08-26,hana.sato@mettleco.example,Dispatch app,light-class,medium,8,29321,89,no,6777,4943,123320,17895,0.07
+S1684,2026-08-27,hana.sato@mettleco.example,Dispatch app,mid-class,medium,33,45992,90,no,28178,14923,874596,67283,0.82
+S1685,2026-08-27,hana.sato@mettleco.example,Dispatch app,mid-class,low,12,34024,90,no,10802,6560,216371,24267,0.29
+S1686,2026-08-27,hana.sato@mettleco.example,Dispatch app,premium-class,low,24,36881,92,no,28263,8147,521371,35166,1.65
+S1687,2026-08-28,hana.sato@mettleco.example,Dispatch app,premium-class,medium,74,62983,57,yes,68543,108401,1690399,663076,16.08
+S1688,2026-08-28,hana.sato@mettleco.example,Dispatch app,mid-class,low,21,27408,90,no,13182,8956,320527,27263,0.37
+S1689,2026-08-31,hana.sato@mettleco.example,Dispatch app,mid-class,medium,34,59951,82,no,25834,16870,1048857,133294,1.15
+S1690,2026-06-01,diego.morales@mettleco.example,Billing and data,premium-class,medium,30,49797,93,no,37060,39931,759480,44238,3.68
+S1691,2026-06-01,diego.morales@mettleco.example,Billing and data,premium-class,max,27,20519,90,no,18256,45412,264160,21572,2.99
+S1692,2026-06-01,diego.morales@mettleco.example,Billing and data,mid-class,medium,22,47377,80,no,19810,29725,464199,74077,0.92
+S1693,2026-06-01,diego.morales@mettleco.example,Billing and data,premium-class,max,14,18208,82,no,8794,26069,106781,17587,1.72
+S1694,2026-06-02,diego.morales@mettleco.example,Billing and data,premium-class,max,13,20829,92,no,7086,36488,117789,11615,2.16
+S1695,2026-06-02,diego.morales@mettleco.example,Billing and data,premium-class,high,7,51153,61,yes,6174,9958,128787,56292,1.39
+S1696,2026-06-03,diego.morales@mettleco.example,Billing and data,premium-class,high,311,243939,71,no,319177,548713,30557646,6316152,140.14
+S1697,2026-06-03,diego.morales@mettleco.example,Billing and data,mid-class,max,41,36485,83,no,27025,118695,685340,80248,2.37
+S1698,2026-06-04,diego.morales@mettleco.example,Billing and data,mid-class,max,72,83781,89,no,46863,212540,2984308,209506,5.01
+S1699,2026-06-05,diego.morales@mettleco.example,Billing and data,premium-class,max,40,82749,84,no,30663,99845,1571443,173468,9.04
+S1700,2026-06-05,diego.morales@mettleco.example,Billing and data,premium-class,high,103,61447,90,no,101982,145368,3250944,189866,13.91
+S1701,2026-06-05,diego.morales@mettleco.example,Billing and data,premium-class,max,23,23170,97,no,21223,55243,276660,11408,3.39
+S1702,2026-06-08,diego.morales@mettleco.example,Billing and data,premium-class,high,20,25808,59,yes,19658,42715,170782,68159,3.36
+S1703,2026-06-08,diego.morales@mettleco.example,Billing and data,premium-class,max,58,42525,88,no,48880,132410,1233294,94404,9.52
+S1704,2026-06-09,diego.morales@mettleco.example,Billing and data,premium-class,max,37,50527,88,no,35525,103249,912415,77650,7.4
+S1705,2026-06-10,diego.morales@mettleco.example,Billing and data,premium-class,max,14,37673,89,no,13301,33328,239561,27070,2.38
+S1706,2026-06-10,diego.morales@mettleco.example,Billing and data,premium-class,high,96,129356,89,no,64049,141135,6230285,441038,19.44
+S1707,2026-06-11,diego.morales@mettleco.example,Billing and data,premium-class,max,29,34761,51,yes,27483,90597,290206,150855,6.98
+S1708,2026-06-12,diego.morales@mettleco.example,Billing and data,mid-class,high,32,53082,86,no,33928,65199,795845,81248,1.62
+S1709,2026-06-15,diego.morales@mettleco.example,Billing and data,premium-class,medium,10,26702,95,no,8379,6930,129965,11711,0.71
+S1710,2026-06-15,diego.morales@mettleco.example,Billing and data,premium-class,high,32,28962,58,yes,26392,67049,310468,121061,5.44
+S1711,2026-06-15,diego.morales@mettleco.example,Billing and data,premium-class,high,23,41866,92,no,21654,16242,471947,34590,1.93
+S1712,2026-06-16,diego.morales@mettleco.example,Billing and data,premium-class,high,232,252505,52,yes,169310,498442,17298454,8005658,143.98
+S1713,2026-06-16,diego.morales@mettleco.example,Billing and data,mid-class,high,70,48237,86,no,69267,250145,1659824,149830,5.02
+S1714,2026-06-17,diego.morales@mettleco.example,Billing and data,premium-class,high,12,30377,94,no,7791,38213,174879,15391,2.36
+S1715,2026-06-18,diego.morales@mettleco.example,Billing and data,premium-class,medium,47,58809,92,no,46508,35580,1449556,77559,4.66
+S1716,2026-06-19,diego.morales@mettleco.example,Billing and data,premium-class,max,62,85637,92,no,55474,147973,2735909,151789,12.59
+S1717,2026-06-22,diego.morales@mettleco.example,Billing and data,premium-class,high,41,57922,92,no,47294,55754,1200976,70920,5.35
+S1718,2026-06-22,diego.morales@mettleco.example,Billing and data,mid-class,max,41,28529,55,yes,35934,138277,353718,153841,2.86
+S1719,2026-06-23,diego.morales@mettleco.example,Billing and data,premium-class,medium,19,40185,82,no,14249,25176,338391,49280,2.36
+S1720,2026-06-23,diego.morales@mettleco.example,Billing and data,mid-class,max,25,42165,83,no,21213,55710,466181,61026,1.27
+S1721,2026-06-24,diego.morales@mettleco.example,Billing and data,mid-class,max,58,30420,95,no,48521,103639,943870,36700,2.12
+S1722,2026-06-24,diego.morales@mettleco.example,Billing and data,premium-class,high,40,32997,58,yes,53353,137556,435566,164705,9.91
+S1723,2026-06-26,diego.morales@mettleco.example,Billing and data,premium-class,high,46,91516,95,no,40702,94492,2225221,89007,8.47
+S1724,2026-06-26,diego.morales@mettleco.example,Billing and data,premium-class,max,17,14625,58,yes,13561,47155,78225,32899,2.98
+S1725,2026-06-29,diego.morales@mettleco.example,Billing and data,mid-class,medium,20,33003,86,no,13986,24036,320156,36278,0.63
+S1726,2026-06-29,diego.morales@mettleco.example,Billing and data,mid-class,max,21,57057,91,no,13687,82181,586752,46095,1.62
+S1727,2026-06-30,diego.morales@mettleco.example,Billing and data,premium-class,max,14,62673,90,no,9916,23812,406764,40918,2.21
+S1728,2026-06-30,diego.morales@mettleco.example,Billing and data,mid-class,medium,23,18329,96,no,17715,30009,216112,10400,0.61
+S1729,2026-07-01,diego.morales@mettleco.example,Billing and data,premium-class,high,36,82042,94,no,35030,47236,1625549,77956,5.31
+S1730,2026-07-02,diego.morales@mettleco.example,Billing and data,premium-class,max,231,130347,91,no,192264,878873,16770031,900321,73.89
+S1731,2026-07-02,diego.morales@mettleco.example,Billing and data,premium-class,high,54,65437,89,no,47090,113705,1876856,134499,9.71
+S1732,2026-07-03,diego.morales@mettleco.example,Billing and data,premium-class,high,20,22128,88,no,24167,32545,237283,23545,2.4
+S1733,2026-07-06,diego.morales@mettleco.example,Billing and data,premium-class,high,10,23207,88,no,10471,10449,113497,15241,0.93
+S1734,2026-07-06,diego.morales@mettleco.example,Billing and data,mid-class,max,43,58254,92,no,36716,173961,1364630,79228,3.43
+S1735,2026-07-07,diego.morales@mettleco.example,Billing and data,premium-class,medium,33,52173,88,no,27801,50217,916158,79465,4.7
+S1736,2026-07-07,diego.morales@mettleco.example,Billing and data,mid-class,high,81,78529,97,no,67607,209413,3713123,83519,4.77
+S1737,2026-07-08,diego.morales@mettleco.example,Billing and data,premium-class,max,51,64938,54,yes,37854,135087,1087003,485279,14.29
+S1738,2026-07-08,diego.morales@mettleco.example,Billing and data,premium-class,max,50,40895,94,no,44561,189536,1151392,49534,11.69
+S1739,2026-07-08,diego.morales@mettleco.example,Billing and data,premium-class,high,26,33135,89,no,24136,47728,455016,40467,3.59
+S1740,2026-07-08,diego.morales@mettleco.example,Billing and data,premium-class,high,376,406646,83,no,367127,1659114,77887878,8043804,265.06
+S1741,2026-07-09,diego.morales@mettleco.example,Billing and data,premium-class,high,23,24897,83,no,15594,55634,275589,35977,3.66
+S1742,2026-07-09,diego.morales@mettleco.example,Billing and data,mid-class,medium,85,73712,95,no,108472,86801,3664615,111266,3.14
+S1743,2026-07-10,diego.morales@mettleco.example,Billing and data,premium-class,high,194,139788,74,no,193089,497894,12275026,2194271,66.53
+S1744,2026-07-10,diego.morales@mettleco.example,Billing and data,mid-class,medium,293,95547,71,no,268756,291460,12259254,2476203,18.14
+S1745,2026-07-13,diego.morales@mettleco.example,Billing and data,light-class,high,41,54019,92,no,20606,117202,1208358,72074,0.82
+S1746,2026-07-13,diego.morales@mettleco.example,Billing and data,premium-class,high,49,66199,87,no,59851,104804,1718770,152699,9.47
+S1747,2026-07-14,diego.morales@mettleco.example,Billing and data,premium-class,max,45,39701,87,no,46789,185370,914466,83759,11.7
+S1748,2026-07-14,diego.morales@mettleco.example,Billing and data,mid-class,high,21,21506,92,no,21769,19688,240450,17965,0.5
+S1749,2026-07-15,diego.morales@mettleco.example,Billing and data,premium-class,high,19,31799,87,no,12216,10609,306457,33486,1.38
+S1750,2026-07-15,diego.morales@mettleco.example,Billing and data,premium-class,max,13,16320,83,no,18138,50258,105677,15867,3.0
+S1751,2026-07-15,diego.morales@mettleco.example,Billing and data,premium-class,max,42,44698,90,no,38932,130806,1022864,72899,8.86
+S1752,2026-07-15,diego.morales@mettleco.example,Billing and data,premium-class,medium,22,28782,81,no,25130,20107,311137,45320,2.13
+S1753,2026-07-16,diego.morales@mettleco.example,Billing and data,premium-class,max,217,206915,58,yes,164943,872718,16086427,5779512,133.62
+S1754,2026-07-16,diego.morales@mettleco.example,Billing and data,premium-class,max,37,30579,93,no,26678,130492,630757,33558,7.84
+S1755,2026-07-17,diego.morales@mettleco.example,Billing and data,mid-class,max,28,31082,58,yes,18613,66571,299116,119030,1.59
+S1756,2026-07-17,diego.morales@mettleco.example,Billing and data,premium-class,max,19,27378,58,yes,26664,81295,176294,72609,5.42
+S1757,2026-07-17,diego.morales@mettleco.example,Billing and data,mid-class,max,243,141143,48,yes,235500,400826,10015778,5515595,30.41
+S1758,2026-07-17,diego.morales@mettleco.example,Billing and data,premium-class,medium,73,35848,91,no,95448,113968,1441817,85295,9.16
+S1759,2026-07-20,diego.morales@mettleco.example,Billing and data,light-class,high,52,20579,84,no,48400,46158,537889,57084,0.4
+S1760,2026-07-21,diego.morales@mettleco.example,Billing and data,premium-class,max,23,46094,94,no,20927,151419,575840,33793,8.78
+S1761,2026-07-21,diego.morales@mettleco.example,Billing and data,premium-class,max,235,125258,94,no,207208,411403,16873704,624726,47.33
+S1762,2026-07-21,diego.morales@mettleco.example,Billing and data,mid-class,high,29,24218,89,no,24953,74566,380099,32647,1.43
+S1763,2026-07-21,diego.morales@mettleco.example,Billing and data,premium-class,medium,48,40317,88,no,39243,31036,1024203,81953,3.99
+S1764,2026-07-22,diego.morales@mettleco.example,Billing and data,premium-class,high,30,47101,84,no,18291,66213,699129,83539,5.24
+S1765,2026-07-22,diego.morales@mettleco.example,Billing and data,premium-class,medium,56,24539,91,no,37578,54028,742200,44851,4.38
+S1766,2026-07-23,diego.morales@mettleco.example,Billing and data,mid-class,high,327,227464,73,no,306858,1090969,33475449,6143683,50.37
+S1767,2026-07-23,diego.morales@mettleco.example,Billing and data,premium-class,medium,59,55251,90,no,53900,73806,1819548,118572,7.53
+S1768,2026-07-24,diego.morales@mettleco.example,Billing and data,premium-class,high,58,72757,49,yes,50795,116542,1274483,676613,16.07
+S1769,2026-07-24,diego.morales@mettleco.example,Billing and data,premium-class,max,48,90462,93,no,49353,120644,2433558,116135,10.41
+S1770,2026-07-27,diego.morales@mettleco.example,Billing and data,premium-class,max,28,33775,91,no,35322,87570,511025,36347,5.7
+S1771,2026-07-27,diego.morales@mettleco.example,Billing and data,mid-class,max,34,32865,92,no,42304,129725,605808,35707,2.39
+S1772,2026-07-28,diego.morales@mettleco.example,Billing and data,mid-class,high,8,27408,94,no,8601,21020,114051,12812,0.42
+S1773,2026-07-28,diego.morales@mettleco.example,Billing and data,premium-class,medium,16,20782,94,no,9881,20268,173225,12388,1.44
+S1774,2026-07-29,diego.morales@mettleco.example,Billing and data,premium-class,medium,83,99926,86,no,83560,118969,4388379,385216,15.99
+S1775,2026-07-30,diego.morales@mettleco.example,Billing and data,premium-class,medium,12,23559,55,yes,8348,9478,86792,42733,1.18
+S1776,2026-07-30,diego.morales@mettleco.example,Billing and data,premium-class,max,19,16960,88,no,22676,52084,165514,16830,3.21
+S1777,2026-07-31,diego.morales@mettleco.example,Billing and data,mid-class,max,121,79356,86,no,98693,392799,5070887,436099,9.34
+S1778,2026-07-31,diego.morales@mettleco.example,Billing and data,premium-class,max,128,79389,84,no,239025,356252,5233624,531861,32.08
+S1779,2026-08-03,diego.morales@mettleco.example,Billing and data,premium-class,max,72,53579,94,no,69406,168831,2328168,87380,12.56
+S1780,2026-08-03,diego.morales@mettleco.example,Billing and data,premium-class,high,28,27534,91,no,20129,58088,444711,30997,3.94
+S1781,2026-08-03,diego.morales@mettleco.example,Billing and data,premium-class,medium,264,156841,76,no,217968,596040,20435924,3343948,94.22
+S1782,2026-08-04,diego.morales@mettleco.example,Billing and data,mid-class,medium,39,60351,82,no,50756,33229,1228844,154481,1.6
+S1783,2026-08-04,diego.morales@mettleco.example,Billing and data,mid-class,max,47,45757,91,no,56632,134807,1276193,79810,2.87
+S1784,2026-08-05,diego.morales@mettleco.example,Billing and data,premium-class,max,21,26958,88,no,21235,77689,307210,30847,4.79
+S1785,2026-08-05,diego.morales@mettleco.example,Billing and data,premium-class,high,23,40101,62,yes,24756,54802,351446,122304,4.87
+S1786,2026-08-06,diego.morales@mettleco.example,Billing and data,mid-class,max,57,43290,82,no,57312,137815,1293494,160134,3.23
+S1787,2026-08-06,diego.morales@mettleco.example,Billing and data,premium-class,high,35,56833,86,no,35127,63238,1099281,107387,5.95
+S1788,2026-08-06,diego.morales@mettleco.example,Billing and data,premium-class,high,27,81561,85,no,25343,101401,1219866,140547,8.3
+S1789,2026-08-07,diego.morales@mettleco.example,Billing and data,premium-class,max,7,33964,94,no,4244,14375,112549,15845,1.07
+S1790,2026-08-07,diego.morales@mettleco.example,Billing and data,premium-class,medium,16,28913,97,no,13040,24854,297760,14836,1.86
+S1791,2026-08-10,diego.morales@mettleco.example,Billing and data,premium-class,high,31,51114,94,no,43972,56743,959805,50716,4.87
+S1792,2026-08-10,diego.morales@mettleco.example,Billing and data,premium-class,medium,8,24632,88,no,12116,15644,102133,15766,1.2
+S1793,2026-08-12,diego.morales@mettleco.example,Billing and data,mid-class,high,35,49214,88,no,35358,76896,970701,83606,1.86
+S1794,2026-08-13,diego.morales@mettleco.example,Billing and data,premium-class,max,31,35487,88,no,28527,70759,627977,54410,5.13
+S1795,2026-08-14,diego.morales@mettleco.example,Billing and data,mid-class,max,21,43513,56,yes,13383,31857,316262,139589,1.14
+S1796,2026-08-14,diego.morales@mettleco.example,Billing and data,mid-class,max,46,26534,95,no,42583,173846,746578,27366,3.06
+S1797,2026-08-17,diego.morales@mettleco.example,Billing and data,premium-class,max,47,121753,56,yes,42386,190920,1998585,839140,22.46
+S1798,2026-08-18,diego.morales@mettleco.example,Billing and data,premium-class,max,12,23649,51,yes,8674,36854,84825,49652,2.63
+S1799,2026-08-18,diego.morales@mettleco.example,Billing and data,premium-class,high,12,35418,57,yes,11066,15245,142622,66570,1.85
+S1800,2026-08-18,diego.morales@mettleco.example,Billing and data,premium-class,max,34,64264,87,no,38145,44278,1254666,115610,5.3
+S1801,2026-08-19,diego.morales@mettleco.example,Billing and data,premium-class,high,11,27385,89,no,7212,19088,144104,18403,1.4
+S1802,2026-08-19,diego.morales@mettleco.example,Billing and data,premium-class,max,20,26895,85,no,18583,70586,296925,35559,4.46
+S1803,2026-08-21,diego.morales@mettleco.example,Billing and data,premium-class,high,123,114154,89,no,150544,326235,8136651,550642,32.84
+S1804,2026-08-21,diego.morales@mettleco.example,Billing and data,premium-class,max,20,45903,92,no,22172,72152,548235,39956,4.88
+S1805,2026-08-24,diego.morales@mettleco.example,Billing and data,premium-class,high,10,20500,51,yes,10755,15795,61644,36890,1.42
+S1806,2026-08-24,diego.morales@mettleco.example,Billing and data,mid-class,high,27,53970,90,no,24046,47101,799862,64832,1.26
+S1807,2026-08-25,diego.morales@mettleco.example,Billing and data,premium-class,high,49,52628,91,no,42676,66732,1517353,98077,6.51
+S1808,2026-08-25,diego.morales@mettleco.example,Billing and data,premium-class,high,248,145458,71,no,319778,905857,16756876,3427038,108.09
+S1809,2026-08-27,diego.morales@mettleco.example,Billing and data,premium-class,max,69,40932,94,no,73274,248522,1721230,71324,15.77
+S1810,2026-08-27,diego.morales@mettleco.example,Billing and data,premium-class,max,16,46667,57,yes,20145,45526,282352,123074,4.3
+S1811,2026-08-28,diego.morales@mettleco.example,Billing and data,premium-class,high,26,42889,96,no,26119,34236,677182,30748,3.03
+S1812,2026-08-28,diego.morales@mettleco.example,Billing and data,mid-class,medium,8,38453,88,no,9011,12646,160007,24329,0.36
+S1813,2026-08-28,diego.morales@mettleco.example,Billing and data,premium-class,max,69,47195,87,no,49874,168166,1834371,157343,12.71
+S1814,2026-08-31,diego.morales@mettleco.example,Billing and data,mid-class,high,38,39716,89,no,31939,195459,831672,66738,3.53
+S1815,2026-08-31,diego.morales@mettleco.example,Billing and data,premium-class,max,71,74897,90,no,62904,196853,3108565,195120,16.02
+S1816,2026-07-06,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,11,34538,92,no,11283,4552,212353,20094,0.24
+S1817,2026-07-06,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,15,40659,54,yes,13492,30015,195762,95812,0.91
+S1818,2026-07-08,freya.lindqvist@mettleco.example,Billing and data,premium-class,high,31,29388,86,no,25564,21222,445748,47358,2.35
+S1819,2026-07-08,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,44,37007,89,no,41114,38249,875415,66581,1.21
+S1820,2026-07-10,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,14,24896,85,no,9662,12287,164968,22328,0.35
+S1821,2026-07-10,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,157,81313,89,no,177699,197528,6990936,450210,7.28
+S1822,2026-07-14,freya.lindqvist@mettleco.example,Billing and data,mid-class,max,51,43679,97,no,65011,91418,1314291,34841,2.09
+S1823,2026-07-15,freya.lindqvist@mettleco.example,Billing and data,premium-class,max,17,39573,82,no,13553,30175,323815,48531,2.57
+S1824,2026-07-15,freya.lindqvist@mettleco.example,Billing and data,premium-class,high,21,37801,91,no,20654,15769,417889,33949,1.84
+S1825,2026-07-15,freya.lindqvist@mettleco.example,Billing and data,mid-class,max,27,33308,90,no,20073,38829,464101,37327,0.92
+S1826,2026-07-17,freya.lindqvist@mettleco.example,Billing and data,mid-class,max,5,32935,84,no,3938,5392,91434,19961,0.19
+S1827,2026-07-17,freya.lindqvist@mettleco.example,Billing and data,premium-class,medium,77,40182,91,no,67498,61229,1708801,93792,6.62
+S1828,2026-07-17,freya.lindqvist@mettleco.example,Billing and data,premium-class,max,42,58677,86,no,31997,45772,1287286,123425,5.44
+S1829,2026-07-22,freya.lindqvist@mettleco.example,Billing and data,light-class,medium,21,34242,83,no,17461,10749,345704,47175,0.16
+S1830,2026-07-22,freya.lindqvist@mettleco.example,Billing and data,light-class,low,36,37185,53,yes,30203,17943,416286,195579,0.41
+S1831,2026-07-23,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,17,30110,91,no,16016,7205,272547,23847,0.33
+S1832,2026-07-23,freya.lindqvist@mettleco.example,Billing and data,mid-class,low,26,47034,89,no,19233,10396,645671,57547,0.62
+S1833,2026-07-23,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,11,37479,85,no,10356,5929,211968,31036,0.3
+S1834,2026-07-24,freya.lindqvist@mettleco.example,Billing and data,premium-class,low,10,34064,95,no,6362,6235,179979,15677,0.75
+S1835,2026-07-24,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,67,89735,90,no,85859,34202,3308282,214841,2.57
+S1836,2026-07-28,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,15,41647,89,no,12197,7785,327458,34669,0.38
+S1837,2026-07-28,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,16,42003,91,no,16054,13388,379114,33803,0.49
+S1838,2026-07-31,freya.lindqvist@mettleco.example,Billing and data,light-class,high,13,35149,90,no,16865,10987,246205,24869,0.13
+S1839,2026-07-31,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,21,36960,90,no,19604,16446,403947,35516,0.56
+S1840,2026-07-31,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,15,33955,88,no,11067,6117,263644,29935,0.32
+S1841,2026-07-31,freya.lindqvist@mettleco.example,Billing and data,mid-class,low,7,23762,91,no,7540,2846,96192,12452,0.14
+S1842,2026-08-10,freya.lindqvist@mettleco.example,Billing and data,premium-class,low,18,43440,93,no,20655,6143,476294,33451,1.41
+S1843,2026-08-10,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,158,132236,88,no,170702,138532,11959840,852603,9.38
+S1844,2026-08-11,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,179,210225,91,no,194339,169258,22428081,1136111,14.11
+S1845,2026-08-11,freya.lindqvist@mettleco.example,Billing and data,premium-class,low,17,21123,87,no,12576,15116,196005,21606,1.35
+S1846,2026-08-11,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,38,33593,90,no,32135,40192,716661,49848,1.1
+S1847,2026-08-13,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,21,21458,93,no,17931,17723,259482,17080,0.46
+S1848,2026-08-13,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,15,28803,97,no,22185,12599,263670,14270,0.39
+S1849,2026-08-14,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,42,31495,92,no,29835,21463,783175,46832,0.82
+S1850,2026-08-14,freya.lindqvist@mettleco.example,Billing and data,premium-class,low,21,36689,54,yes,20972,6484,255003,123528,2.33
+S1851,2026-08-18,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,14,23022,85,no,11869,9175,161636,22383,0.31
+S1852,2026-08-19,freya.lindqvist@mettleco.example,Billing and data,premium-class,high,39,31661,89,no,38722,42700,698101,54332,3.9
+S1853,2026-08-19,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,55,88901,82,no,54098,63101,2584762,312177,3.05
+S1854,2026-08-19,freya.lindqvist@mettleco.example,Billing and data,mid-class,high,62,71133,87,no,51508,71365,2483308,210053,2.76
+S1855,2026-08-31,freya.lindqvist@mettleco.example,Billing and data,mid-class,medium,28,37640,89,no,32854,21961,591508,50587,0.8
+S1856,2026-08-31,freya.lindqvist@mettleco.example,Billing and data,premium-class,medium,28,33698,90,no,24917,26413,535902,42117,2.63
+S1857,2026-07-14,kofi.mensah@mettleco.example,Billing and data,mid-class,high,36,66722,49,yes,29530,39427,691926,378445,2.31
+S1858,2026-07-17,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,55,57004,92,no,43544,14514,1749422,91519,1.22
+S1859,2026-07-17,kofi.mensah@mettleco.example,Billing and data,premium-class,medium,7,29568,90,no,3440,2459,88202,14862,0.43
+S1860,2026-07-20,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,96,83179,88,no,73500,88573,4297239,321037,4.04
+S1861,2026-07-20,kofi.mensah@mettleco.example,Billing and data,light-class,medium,223,176960,97,no,213388,149381,23297444,466965,3.87
+S1862,2026-07-22,kofi.mensah@mettleco.example,Billing and data,premium-class,medium,100,55413,95,no,52799,51072,3220922,96179,7.5
+S1863,2026-07-23,kofi.mensah@mettleco.example,Billing and data,premium-class,high,13,24607,89,no,12810,11727,169425,18880,1.12
+S1864,2026-07-23,kofi.mensah@mettleco.example,Billing and data,mid-class,high,91,128147,94,no,60741,69654,6675959,253820,4.18
+S1865,2026-07-23,kofi.mensah@mettleco.example,Billing and data,mid-class,high,26,23174,88,no,30980,32680,315971,29432,0.79
+S1866,2026-07-27,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,36,41681,88,no,26227,16651,775971,64551,0.8
+S1867,2026-07-27,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,39,90783,95,no,27075,17766,2001397,85516,1.27
+S1868,2026-07-28,kofi.mensah@mettleco.example,Billing and data,light-class,medium,88,41733,90,no,69473,90106,2001382,122804,0.87
+S1869,2026-07-29,kofi.mensah@mettleco.example,Billing and data,premium-class,high,21,56402,91,no,16834,18004,626355,49242,2.31
+S1870,2026-07-29,kofi.mensah@mettleco.example,Billing and data,mid-class,high,19,47054,78,no,20738,12690,405818,73378,0.65
+S1871,2026-08-06,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,18,31700,94,no,12452,7983,352764,21815,0.34
+S1872,2026-08-06,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,10,11558,59,yes,9125,6927,39994,18179,0.21
+S1873,2026-08-06,kofi.mensah@mettleco.example,Billing and data,premium-class,medium,130,106329,92,no,110270,92909,8316271,395065,19.0
+S1874,2026-08-10,kofi.mensah@mettleco.example,Billing and data,light-class,medium,23,45728,55,yes,27614,17035,356637,161528,0.35
+S1875,2026-08-10,kofi.mensah@mettleco.example,Billing and data,mid-class,max,50,83034,88,no,45711,83566,2338797,182339,2.78
+S1876,2026-08-11,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,9,26423,85,no,9466,5767,132261,21147,0.23
+S1877,2026-08-11,kofi.mensah@mettleco.example,Billing and data,mid-class,low,21,35725,95,no,24010,6818,438514,25175,0.4
+S1878,2026-08-12,kofi.mensah@mettleco.example,Billing and data,light-class,medium,16,29412,97,no,14298,12012,302904,15093,0.12
+S1879,2026-08-12,kofi.mensah@mettleco.example,Billing and data,mid-class,high,26,29763,89,no,19007,23453,438413,37099,0.68
+S1880,2026-08-14,kofi.mensah@mettleco.example,Billing and data,mid-class,high,23,26543,55,yes,19072,15836,225625,100109,0.74
+S1881,2026-08-14,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,53,42629,91,no,54421,43591,1323925,82297,1.52
+S1882,2026-08-17,kofi.mensah@mettleco.example,Billing and data,mid-class,high,7,35140,90,no,7883,6767,148970,20859,0.25
+S1883,2026-08-18,kofi.mensah@mettleco.example,Billing and data,premium-class,medium,26,30361,89,no,25930,14950,447060,37932,1.93
+S1884,2026-08-18,kofi.mensah@mettleco.example,Billing and data,mid-class,high,41,59384,85,no,35208,64743,1372308,140485,2.02
+S1885,2026-08-19,kofi.mensah@mettleco.example,Billing and data,premium-class,max,102,57807,60,yes,112899,174896,2282946,788392,22.01
+S1886,2026-08-24,kofi.mensah@mettleco.example,Billing and data,mid-class,medium,82,46542,86,no,73359,39216,2112805,195419,2.17
+S1887,2026-08-24,kofi.mensah@mettleco.example,Billing and data,mid-class,high,15,24111,87,no,13277,9547,197610,23502,0.33
+S1888,2026-08-25,kofi.mensah@mettleco.example,Billing and data,mid-class,high,30,24325,90,no,22590,20185,411952,32197,0.61
+S1889,2026-08-31,kofi.mensah@mettleco.example,Billing and data,mid-class,high,41,26708,55,yes,44888,26092,379860,166094,1.26
+S1890,2026-08-31,kofi.mensah@mettleco.example,Billing and data,mid-class,max,67,45982,81,no,73874,127772,1632733,203425,3.39

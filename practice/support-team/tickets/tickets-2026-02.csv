@@ -1,0 +1,42 @@
+id,date,customer,plan,category,priority,status,first_reply_hours,text
+SUP-02001,2026-02-02,Hearthstone Markets Co,Max,Billing,Medium,Resolved,3.6,Please send a copy of last month's invoice to our finance team.
+SUP-02002,2026-02-02,Millrace Opera House,Max,Billing,Medium,Closed,1.7,We moved down a tier last month but the invoice still uses the old price.
+SUP-02003,2026-02-02,Bellfounder Ferries,Enterprise,Billing,Medium,Closed,0.8,Our invoice shows 49 seats but we only reserved 47 patrol posts.
+SUP-02004,2026-02-02,Brindle Bakery Ltd,Pro,Property damage,High,Resolved,64.7,A resident on Chandlers Row reports Forecaster knocked over their market stall chasing a runaway kite.
+SUP-02005,2026-02-02,Quillfeather Concert Hall Co,Max,Account access,Medium,Closed,4.3,Our admin left and nobody can add seats.
+SUP-02006,2026-02-03,Ravelstone Clockworks & Sons,Pro,Billing,Medium,Resolved,5.1,Our invoice shows 4 seats but we only reserved 1 patrol posts.
+SUP-02007,2026-02-03,Harbourside Shopping Centre,Enterprise,Billing,Medium,Resolved,1.9,We moved down a tier last month but the invoice still uses the old price.
+SUP-02008,2026-02-03,Driftwood Cinema & Sons,Max,Noise,Medium,Resolved,5.2,Late Shift was patrolling Tanner Street at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-02009,2026-02-03,Gorsewick Town Council,Max,Late arrival,Medium,Resolved,6.7,Pivot arrived 55 minutes after the booked start of our school fete.
+SUP-02010,2026-02-04,Ravelstone Clockworks & Sons,Pro,Feature request,Low,Closed,5.5,Could invoices show which hero did each mission?
+SUP-02011,2026-02-05,Ravelstone Clockworks & Sons,Pro,Billing,Medium,Resolved,3.2,Please send a copy of last month's invoice to our finance team.
+SUP-02012,2026-02-05,Fennimore Zoo,Max,Noise,Medium,Closed,4.7,Residents on Saltpan Hill say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-02013,2026-02-05,Saltgrave Toy Company Co,Pro,Account access,Medium,Closed,45.4,Our admin left and nobody can add seats.
+SUP-02014,2026-02-05,Gullwing Zoo,Max,Hero conduct,Low,Resolved,7.0,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-02015,2026-02-09,Driftwood Cinema & Sons,Max,Feature request,Low,Resolved,2.5,Can we book a hero for the same slot every week?
+SUP-02016,2026-02-09,Copperkettle Department Store,Enterprise,Late arrival,Medium,Closed,0.6,Paperweight arrived 15 minutes after the booked start of our school fete.
+SUP-02017,2026-02-09,Millrace Opera House,Max,Noise,Medium,Closed,5.7,Late Shift was patrolling Ropewalk Lane at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-02018,2026-02-09,Mapleton Water Park Ltd,Enterprise,Late arrival,Medium,Resolved,1.8,Our product launch started without a hero. Pivot turned up 25 minutes late and blamed the tram.
+SUP-02019,2026-02-10,Tidewater Concert Hall & Sons,Max,Hero conduct,Low,Closed,5.3,Thermostat set our meeting room to 16 degrees and would not discuss it.
+SUP-02020,2026-02-10,Pebbleford Biscuits Co,Pro,Feature request,Low,Closed,4.9,Can we book a hero for the same slot every week?
+SUP-02021,2026-02-12,Brackwater Kites Group,Pro,Account access,Medium,Resolved,8.9,A new starter can't log in to the booking app.
+SUP-02022,2026-02-12,Harbourside Zoo Ltd,Max,Late arrival,Medium,Closed,2.5,Paperweight arrived 55 minutes after the booked start of our store opening.
+SUP-02023,2026-02-13,Kettleby Town Council,Enterprise,Noise,Medium,Closed,0.9,Residents on Saltpan Hill say Mute Button left the street silent for an hour after the patrol. Nobody heard the bin lorry.
+SUP-02024,2026-02-16,Ravelstone Clockworks & Sons,Pro,Account access,Medium,Closed,20.0,Our admin left and nobody can add seats.
+SUP-02025,2026-02-16,Glasswork Bakery,Pro,Property damage,High,Resolved,9.4,A resident on Quay Road reports Mute Button knocked over their bus shelter chasing a runaway kite.
+SUP-02026,2026-02-16,Oystergate Ferries,Max,Billing,Medium,Closed,22.1,We moved down a tier last month but the invoice still uses the old price.
+SUP-02027,2026-02-17,Kettleby Pottery Ltd,Pro,Account access,Medium,Closed,70.3,Our admin left and nobody can add seats.
+SUP-02028,2026-02-17,Larkspur Clockworks & Sons,Pro,Property damage,High,Closed,4.7,The Untangler landed on our delivery van roof during the patrol. We need someone to assess the damage.
+SUP-02029,2026-02-17,Fennimore Zoo,Max,Noise,Medium,Closed,2.0,Late Shift was patrolling Chandlers Row at 3am and kept waving at windows. Residents are asking for quieter waving.
+SUP-02030,2026-02-19,Tidewater Concert Hall & Sons,Max,Billing,Medium,Closed,3.3,We moved down a tier last month but the invoice still uses the old price.
+SUP-02031,2026-02-19,Brindlemouth City Council,Enterprise,Late arrival,Medium,Resolved,0.6,Our charity fun run started without a hero. Ballast turned up 15 minutes late and blamed the tram.
+SUP-02032,2026-02-20,Harbourside Markets Ltd,Max,Property damage,High,Resolved,3.4,A resident on Ropewalk Lane reports Findwell knocked over their bike shed chasing a runaway kite.
+SUP-02033,2026-02-23,Ravelstone Couriers,Max,Hero conduct,Low,Closed,5.8,Inbox Zero sorted our shared inbox without asking. We can't find anything now.
+SUP-02034,2026-02-23,Mossbank Removals,Max,Account access,Medium,Closed,5.7,Our admin left and nobody can add seats.
+SUP-02035,2026-02-23,Tidewater Concert Hall & Sons,Max,Late arrival,Medium,Closed,0.8,Findwell arrived 25 minutes after the booked start of our product launch.
+SUP-02036,2026-02-24,Pinecrest Hotels,Enterprise,Billing,Medium,Closed,0.6,Our invoice shows 47 seats but we only reserved 45 patrol posts.
+SUP-02037,2026-02-24,Hobnail Garden Centre Group,Pro,Late arrival,Medium,Resolved,5.0,Our product launch started without a hero. Paperweight turned up 25 minutes late and blamed the tram.
+SUP-02038,2026-02-25,Tidewater Concert Hall & Sons,Max,Late arrival,Medium,Closed,1.7,Pivot arrived 25 minutes after the booked start of our school fete.
+SUP-02039,2026-02-25,Tidewater Concert Hall & Sons,Max,Booking app,High,Closed,4.0,The booking app shows Thermostat as free but the booking fails with an error.
+SUP-02040,2026-02-26,Bellfounder Toy Company Co,Pro,Late arrival,Medium,Closed,16.9,Thermostat arrived 55 minutes after the booked start of our store opening.
+SUP-02041,2026-02-27,Fallowmere Town Council,Enterprise,Feature request,Low,Closed,0.2,Can we book a hero for the same slot every week?
